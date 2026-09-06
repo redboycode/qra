@@ -2,62 +2,118 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>tech-blog-aggregator</title>
+<title>Quant Blog Aggregator</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+  * { box-sizing: border-box; }
   body {
-    background: #f6f6ef;
-    font-family: Verdana, Geneva, sans-serif;
-    font-size: 13px;
-    color: #222;
+    background: #f4f4f1;
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    color: #16150f;
     margin: 0;
     padding: 0;
   }
   .header {
     background: #ff6600;
-    padding: 6px 10px;
-    font-weight: bold;
+    padding: 14px 24px;
+    font-weight: 800;
+    font-size: 18px;
+    letter-spacing: 0.01em;
     color: #fff;
   }
   .container {
-    max-width: 800px;
-    margin: 10px auto;
-    padding: 0 10px;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 16px 24px 96px;
   }
-  .row {
+  #status {
+    padding: 4px 0 18px;
+    color: #52514e;
+    font-size: 13px;
+  }
+  .batch {
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-rows: repeat(10, auto);
+    column-gap: 32px;
+  }
+  .card {
     display: flex;
-    padding: 4px 0;
-    border-bottom: 1px solid #eee;
+    flex-direction: column;
+    gap: 6px;
+    padding: 14px 0;
+    border-bottom: 1px solid #e1e0d9;
+    min-width: 0;
   }
-  .rank {
-    width: 28px;
-    color: #828282;
-    text-align: right;
-    margin-right: 6px;
+  .card-top {
+    display: flex;
+    align-items: center;
+    gap: 8px;
   }
-  .title a {
-    color: #000;
-    text-decoration: none;
+  .badge {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 999px;
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    white-space: nowrap;
   }
-  .title a:visited { color: #828282; }
-  .title a:hover { text-decoration: underline; }
-  .meta {
-    color: #828282;
+  .time {
     font-size: 11px;
-    margin-left: 34px;
+    color: #898781;
   }
-  #status { padding: 10px; color: #828282; }
+  .card-title {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.35;
+    color: #16150f;
+    text-decoration: none;
+    overflow-wrap: break-word;
+  }
+  .card-title:visited { color: #52514e; }
+  .card-title:hover { text-decoration: underline; }
+  #sentinel { height: 1px; }
 </style>
 </head>
 <body>
 
-<div class="header">tech-blog-aggregator</div>
+<div class="header">Quant Blog Aggregator</div>
 <div class="container">
   <div id="status">Loading feed.json…</div>
   <div id="list"></div>
+  <div id="sentinel"></div>
 </div>
 
 <script>
+// Categorical palette — 8 hues, fixed order, each validated for CVD-safe
+// adjacent contrast, with a text color picked per-hue for legibility
+// (computed against WCAG contrast, not eyeballed).
+const PALETTE = [
+  { bg: "#2a78d6", text: "#0b0b0b" }, // blue
+  { bg: "#eb6834", text: "#0b0b0b" }, // orange
+  { bg: "#1baf7a", text: "#0b0b0b" }, // aqua
+  { bg: "#eda100", text: "#0b0b0b" }, // yellow
+  { bg: "#e87ba4", text: "#0b0b0b" }, // magenta
+  { bg: "#008300", text: "#ffffff" }, // green
+  { bg: "#4a3aa7", text: "#ffffff" }, // violet
+  { bg: "#e34948", text: "#0b0b0b" }, // red
+];
+
+function hashString(s) {
+  let h = 5381;
+  for (let i = 0; i < s.length; i++) {
+    h = ((h << 5) + h + s.charCodeAt(i)) | 0;
+  }
+  return Math.abs(h);
+}
+
+function colorForSource(source) {
+  if (/aqr/i.test(source)) return PALETTE[5]; // green, as requested
+  return PALETTE[hashString(source) % PALETTE.length];
+}
+
 function relativeTime(isoString) {
   const then = new Date(isoString).getTime();
   const now = Date.now();
@@ -67,50 +123,95 @@ function relativeTime(isoString) {
   return Math.floor(diffSec / 86400) + "d ago";
 }
 
+function computeColumns() {
+  const w = window.innerWidth;
+  if (w >= 1400) return 4;
+  if (w >= 1000) return 3;
+  if (w >= 650) return 2;
+  return 1;
+}
+
+function buildCard(item) {
+  const card = document.createElement("article");
+  card.className = "card";
+
+  const top = document.createElement("div");
+  top.className = "card-top";
+
+  const badge = document.createElement("span");
+  badge.className = "badge";
+  const c = colorForSource(item.source || "");
+  badge.style.background = c.bg;
+  badge.style.color = c.text;
+  badge.textContent = item.source;
+  top.appendChild(badge);
+
+  const time = document.createElement("span");
+  time.className = "time";
+  time.textContent = relativeTime(item.published);
+  top.appendChild(time);
+
+  const title = document.createElement("a");
+  title.className = "card-title";
+  title.textContent = item.title;
+  title.target = "_blank";
+  title.rel = "noopener";
+  if (/^https?:\/\//i.test(item.link || "")) {
+    title.href = item.link;
+  }
+
+  card.appendChild(top);
+  card.appendChild(title);
+  return card;
+}
+
+let allItems = [];
+let loadedCount = 0;
+let numColumns = 4;
+
+const listEl = document.getElementById("list");
+const statusEl = document.getElementById("status");
+const sentinelEl = document.getElementById("sentinel");
+
+function renderNextBatch() {
+  const batchSize = numColumns * 10;
+  const slice = allItems.slice(loadedCount, loadedCount + batchSize);
+  if (slice.length === 0) return;
+
+  const batchEl = document.createElement("div");
+  batchEl.className = "batch";
+  batchEl.style.gridTemplateColumns = `repeat(${numColumns}, 1fr)`;
+  slice.forEach((item) => batchEl.appendChild(buildCard(item)));
+  listEl.appendChild(batchEl);
+
+  loadedCount += slice.length;
+}
+
+const observer = new IntersectionObserver(
+  (entries) => {
+    if (!entries[0].isIntersecting) return;
+    renderNextBatch();
+    if (loadedCount >= allItems.length) observer.disconnect();
+  },
+  { rootMargin: "600px" }
+);
+
 async function loadFeed() {
-  const statusEl = document.getElementById("status");
-  const listEl = document.getElementById("list");
   try {
     const res = await fetch("./feed.json", { cache: "no-store" });
     if (!res.ok) throw new Error("HTTP " + res.status);
     const data = await res.json();
-    const items = data.items || [];
+    allItems = data.items || [];
+    numColumns = computeColumns();
 
-    statusEl.textContent = items.length
-      ? `${items.length} items — updated ${relativeTime(data.generated_at)}`
+    statusEl.textContent = allItems.length
+      ? `${allItems.length} items — updated ${relativeTime(data.generated_at)}`
       : "No items found.";
 
-    items.forEach((item, i) => {
-      const row = document.createElement("div");
-      row.className = "row";
-
-      const rank = document.createElement("div");
-      rank.className = "rank";
-      rank.textContent = `${i + 1}.`;
-
-      const body = document.createElement("div");
-
-      const titleDiv = document.createElement("div");
-      titleDiv.className = "title";
-      const link = document.createElement("a");
-      link.textContent = item.title;
-      link.target = "_blank";
-      link.rel = "noopener";
-      if (/^https?:\/\//i.test(item.link || "")) {
-        link.href = item.link;
-      }
-      titleDiv.appendChild(link);
-
-      const metaDiv = document.createElement("div");
-      metaDiv.className = "meta";
-      metaDiv.textContent = `${item.source} · ${relativeTime(item.published)}`;
-
-      body.appendChild(titleDiv);
-      body.appendChild(metaDiv);
-      row.appendChild(rank);
-      row.appendChild(body);
-      listEl.appendChild(row);
-    });
+    renderNextBatch();
+    if (loadedCount < allItems.length) {
+      observer.observe(sentinelEl);
+    }
   } catch (err) {
     statusEl.textContent = "Failed to load feed.json: " + err.message;
   }

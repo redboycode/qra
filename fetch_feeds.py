@@ -20,9 +20,9 @@ from bs4 import BeautifulSoup
 # each site for /feed, /rss.xml, /atom.xml before adding (and verify it
 # actually has entries: some return HTTP 200 with an empty feed shell).
 FEEDS = [
-    "https://blog.janestreet.com/feed.xml",
-    "https://www.twosigma.com/articles/feed/",
-    "https://www.gresearch.com/news/feed/",
+    {"source": "Jane Street", "url": "https://blog.janestreet.com/feed.xml"},
+    {"source": "Two Sigma", "url": "https://www.twosigma.com/articles/feed/"},
+    {"source": "G-Research", "url": "https://www.gresearch.com/news/feed/"},
 ]
 
 # ---- Sources with no RSS/Atom feed but a usable JSON API instead ----
@@ -31,7 +31,7 @@ FEEDS = [
 # publish dates, so we pull from there instead of scraping HTML.
 WORDPRESS_API_FEEDS = [
     {
-        "source": "Hudson River Trading (HRTBeat)",
+        "source": "HRT",
         "url": "https://www.hudsonrivertrading.com/wp-json/wp/v2/posts?per_page=20",
     },
 ]
@@ -58,7 +58,7 @@ def parse_entry_date(entry):
     return datetime.now(tz=timezone.utc).isoformat()
 
 
-def fetch_one(url):
+def fetch_one(url, source_name):
     items = []
     try:
         resp = requests.get(
@@ -68,8 +68,6 @@ def fetch_one(url):
         )
         resp.raise_for_status()
         parsed = feedparser.parse(resp.content)
-
-        source_name = parsed.feed.get("title", url)
 
         for entry in parsed.entries:
             items.append(
@@ -138,7 +136,7 @@ def scrape_get(url):
 def fetch_optiver():
     """Real per-post dates live in <time datetime="..."> inside each <li> card."""
     url = "https://www.optiver.com/insights/technology-blog/"
-    source_name = "Optiver Technology Blog"
+    source_name = "Optiver"
     items = []
     try:
         soup = scrape_get(url)
@@ -167,7 +165,7 @@ def fetch_aqr():
     """Real per-post dates live in a <p class="...date..."> next to each title link."""
     base = "https://www.aqr.com"
     url = f"{base}/Insights/Perspectives"
-    source_name = "AQR Perspectives"
+    source_name = "AQR"
     items = []
     try:
         soup = scrape_get(url)
@@ -205,7 +203,7 @@ def fetch_imc(scrape_state):
     """No publish dates anywhere on the page or in article meta tags — stamp first-seen."""
     base = "https://www.imc.com"
     url = f"{base}/us/blogs"
-    source_name = "IMC Trading Blog"
+    source_name = "IMC"
     items = []
     try:
         soup = scrape_get(url)
@@ -234,7 +232,7 @@ def fetch_man_group():
     podcasts, macro), not Man AHL specifically — AHL doesn't have its own
     separate, scrapable research page."""
     url = "https://www.man.com/insights"
-    source_name = "Man Group Insights"
+    source_name = "Man Group"
     items = []
     try:
         soup = scrape_get(url)
@@ -264,7 +262,7 @@ def fetch_xtx(scrape_state):
     (the page also links out to third-party press coverage, which we skip)."""
     base = "https://www.xtxmarkets.com"
     url = f"{base}/news/"
-    source_name = "XTX Markets News"
+    source_name = "XTX Markets"
     items = []
     try:
         soup = scrape_get(url)
@@ -289,8 +287,8 @@ def main():
     scrape_state = load_scrape_state()
 
     all_items = []
-    for url in FEEDS:
-        all_items.extend(fetch_one(url))
+    for feed in FEEDS:
+        all_items.extend(fetch_one(feed["url"], feed["source"]))
     for feed in WORDPRESS_API_FEEDS:
         all_items.extend(fetch_wordpress_api(feed["url"], feed["source"]))
     all_items.extend(fetch_optiver())
