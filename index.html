@@ -83,13 +83,32 @@ async function loadFeed() {
     items.forEach((item, i) => {
       const row = document.createElement("div");
       row.className = "row";
-      row.innerHTML = `
-        <div class="rank">${i + 1}.</div>
-        <div>
-          <div class="title"><a href="${item.link}" target="_blank" rel="noopener">${item.title}</a></div>
-          <div class="meta">${item.source} · ${relativeTime(item.published)}</div>
-        </div>
-      `;
+
+      const rank = document.createElement("div");
+      rank.className = "rank";
+      rank.textContent = `${i + 1}.`;
+
+      const body = document.createElement("div");
+
+      const titleDiv = document.createElement("div");
+      titleDiv.className = "title";
+      const link = document.createElement("a");
+      link.textContent = item.title;
+      link.target = "_blank";
+      link.rel = "noopener";
+      if (/^https?:\/\//i.test(item.link || "")) {
+        link.href = item.link;
+      }
+      titleDiv.appendChild(link);
+
+      const metaDiv = document.createElement("div");
+      metaDiv.className = "meta";
+      metaDiv.textContent = `${item.source} · ${relativeTime(item.published)}`;
+
+      body.appendChild(titleDiv);
+      body.appendChild(metaDiv);
+      row.appendChild(rank);
+      row.appendChild(body);
       listEl.appendChild(row);
     });
   } catch (err) {

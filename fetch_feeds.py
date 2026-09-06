@@ -227,6 +227,38 @@ def fetch_imc(scrape_state):
     return items
 
 
+def fetch_man_group():
+    """Real dates exist but only at month/year granularity (a <span> next to
+    the title, e.g. "Jul 2026") — day is stamped as the 1st. Note this is
+    Man Group's general insights page across all strategies (credit, ESG,
+    podcasts, macro), not Man AHL specifically — AHL doesn't have its own
+    separate, scrapable research page."""
+    url = "https://www.man.com/insights"
+    source_name = "Man Group Insights"
+    items = []
+    try:
+        soup = scrape_get(url)
+        seen = set()
+        for a in soup.find_all("a", href=True):
+            href = a["href"]
+            if "/insights/" not in href or href.rstrip("/").endswith("/insights") or href in seen:
+                continue
+            title_tag = a.find("h5")
+            date_tag = a.find("span", class_=lambda c: c and "whitespace-nowrap" in c)
+            if not (title_tag and date_tag):
+                continue
+            try:
+                published = datetime.strptime(date_tag.get_text(strip=True), "%b %Y").replace(tzinfo=timezone.utc).isoformat()
+            except ValueError:
+                continue
+            seen.add(href)
+            link = href if href.startswith("http") else "https://www.man.com" + href
+            items.append({"title": title_tag.get_text(strip=True), "link": link, "source": source_name, "published": published})
+    except Exception as exc:
+        print(f"[WARN] failed to fetch {url}: {exc}", file=sys.stderr)
+    return items
+
+
 def fetch_xtx(scrape_state):
     """No publish dates on the page — stamp first-seen. Own /news/ posts only
     (the page also links out to third-party press coverage, which we skip)."""
@@ -263,6 +295,7 @@ def main():
         all_items.extend(fetch_wordpress_api(feed["url"], feed["source"]))
     all_items.extend(fetch_optiver())
     all_items.extend(fetch_aqr())
+    all_items.extend(fetch_man_group())
     all_items.extend(fetch_imc(scrape_state))
     all_items.extend(fetch_xtx(scrape_state))
 
