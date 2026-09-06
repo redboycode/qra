@@ -7,19 +7,22 @@
 <style>
   * { box-sizing: border-box; }
   body {
-    background: #f4f4f1;
+    background: #12161a;
     font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
-    color: #16150f;
+    color: #f5f5f2;
     margin: 0;
     padding: 0;
   }
   .header {
-    background: #ff6600;
-    padding: 14px 24px;
-    font-weight: 800;
-    font-size: 18px;
+    padding: 22px 24px 18px;
+    font-weight: 300;
+    font-size: 26px;
     letter-spacing: 0.01em;
-    color: #fff;
+    color: #f5f5f2;
+    border-bottom: 1px solid #22272d;
+  }
+  .header span {
+    color: #ff8e9e;
   }
   .container {
     max-width: 1400px;
@@ -28,7 +31,7 @@
   }
   #status {
     padding: 4px 0 18px;
-    color: #52514e;
+    color: #8b8f96;
     font-size: 13px;
   }
   .batch {
@@ -42,7 +45,7 @@
     flex-direction: column;
     gap: 6px;
     padding: 14px 0;
-    border-bottom: 1px solid #e1e0d9;
+    border-bottom: 1px solid #22272d;
     min-width: 0;
   }
   .card-top {
@@ -62,24 +65,24 @@
   }
   .time {
     font-size: 11px;
-    color: #898781;
+    color: #6b6f76;
   }
   .card-title {
     font-size: 16px;
     font-weight: 600;
     line-height: 1.35;
-    color: #16150f;
+    color: #f5f5f2;
     text-decoration: none;
     overflow-wrap: break-word;
   }
-  .card-title:visited { color: #52514e; }
-  .card-title:hover { text-decoration: underline; }
+  .card-title:visited { color: #9a9da3; }
+  .card-title:hover { color: #ff8e9e; text-decoration: underline; }
   #sentinel { height: 1px; }
 </style>
 </head>
 <body>
 
-<div class="header">Quant Blog Aggregator</div>
+<div class="header">Quant <span>Blog</span> Aggregator</div>
 <div class="container">
   <div id="status">Loading feed.json…</div>
   <div id="list"></div>
@@ -88,17 +91,17 @@
 
 <script>
 // Categorical palette — 8 hues, fixed order, each validated for CVD-safe
-// adjacent contrast, with a text color picked per-hue for legibility
-// (computed against WCAG contrast, not eyeballed).
+// adjacent contrast, stepped for a dark surface, with a text color picked
+// per-hue for legibility (computed against WCAG contrast, not eyeballed).
 const PALETTE = [
-  { bg: "#2a78d6", text: "#0b0b0b" }, // blue
-  { bg: "#eb6834", text: "#0b0b0b" }, // orange
-  { bg: "#1baf7a", text: "#0b0b0b" }, // aqua
-  { bg: "#eda100", text: "#0b0b0b" }, // yellow
-  { bg: "#e87ba4", text: "#0b0b0b" }, // magenta
+  { bg: "#3987e5", text: "#0b0b0b" }, // blue
+  { bg: "#d95926", text: "#0b0b0b" }, // orange
+  { bg: "#199e70", text: "#0b0b0b" }, // aqua
+  { bg: "#c98500", text: "#0b0b0b" }, // yellow
+  { bg: "#d55181", text: "#0b0b0b" }, // magenta
   { bg: "#008300", text: "#ffffff" }, // green
-  { bg: "#4a3aa7", text: "#ffffff" }, // violet
-  { bg: "#e34948", text: "#0b0b0b" }, // red
+  { bg: "#9085e9", text: "#0b0b0b" }, // violet
+  { bg: "#e66767", text: "#0b0b0b" }, // red
 ];
 
 function hashString(s) {
