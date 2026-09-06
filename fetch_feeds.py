@@ -47,6 +47,8 @@ TIMEOUT_SECONDS = 10
 OUTPUT_PATH = "feed.json"
 SCRAPE_STATE_PATH = "scrape_state.json"
 SCRAPE_USER_AGENT = "personal-rss-aggregator/1.0"
+MAX_ITEMS_PER_SOURCE = 200
+MAX_BACKFILL_PAGES = 50
 
 
 def parse_entry_date(entry):
@@ -59,58 +61,88 @@ def parse_entry_date(entry):
     return datetime.now(tz=timezone.utc).isoformat()
 
 
-def fetch_one(url, source_name):
+def fetch_one(url, source_name, deep=False):
+    """deep=True paginates via WordPress's ?paged=N convention until a page
+    comes back with nothing new — used for one-time backfills. Regular runs
+    only fetch page 1; accumulation in main() is what keeps older items
+    around after that, not re-fetching deep every hour."""
     items = []
-    try:
-        resp = requests.get(
-            url,
-            timeout=TIMEOUT_SECONDS,
-            headers={"User-Agent": "personal-rss-aggregator/1.0"},
-        )
-        resp.raise_for_status()
-        parsed = feedparser.parse(resp.content)
-
-        for entry in parsed.entries:
-            items.append(
-                {
-                    "title": entry.get("title", "Untitled"),
-                    "link": entry.get("link", url),
-                    "source": source_name,
-                    "published": parse_entry_date(entry),
-                }
+    seen_links = set()
+    for page in range(1, MAX_BACKFILL_PAGES + 1) if deep else [1]:
+        sep = "&" if "?" in url else "?"
+        page_url = url if page == 1 else f"{url}{sep}paged={page}"
+        try:
+            resp = requests.get(
+                page_url,
+                timeout=TIMEOUT_SECONDS,
+                headers={"User-Agent": "personal-rss-aggregator/1.0"},
             )
-    except Exception as exc:
-        print(f"[WARN] failed to fetch {url}: {exc}", file=sys.stderr)
+            if deep and resp.status_code == 404:
+                break  # WordPress convention for "past the last page" on some sites
+            resp.raise_for_status()
+            parsed = feedparser.parse(resp.content)
+            if not parsed.entries:
+                break
+            new_on_page = 0
+            for entry in parsed.entries:
+                link = entry.get("link", url)
+                if link in seen_links:
+                    continue
+                seen_links.add(link)
+                new_on_page += 1
+                items.append(
+                    {
+                        "title": entry.get("title", "Untitled"),
+                        "link": link,
+                        "source": source_name,
+                        "published": parse_entry_date(entry),
+                    }
+                )
+            if deep and new_on_page == 0:
+                break  # site doesn't actually support ?paged= — stop instead of looping
+        except Exception as exc:
+            print(f"[WARN] failed to fetch {page_url}: {exc}", file=sys.stderr)
+            break
     return items
 
 
-def fetch_wordpress_api(url, source_name):
-    """Pull posts from a WordPress REST API endpoint (wp-json/wp/v2/posts)."""
+def fetch_wordpress_api(url, source_name, deep=False):
+    """Pull posts from a WordPress REST API endpoint (wp-json/wp/v2/posts).
+    deep=True pages via ?page=N until the API 400s past the last page."""
     items = []
-    try:
-        resp = requests.get(
-            url,
-            timeout=TIMEOUT_SECONDS,
-            headers={"User-Agent": "personal-rss-aggregator/1.0"},
-        )
-        resp.raise_for_status()
-        for post in resp.json():
-            title = unescape(re.sub("<[^>]+>", "", post.get("title", {}).get("rendered", "Untitled")))
-            date_gmt = post.get("date_gmt")
-            if date_gmt:
-                published = datetime.fromisoformat(date_gmt).replace(tzinfo=timezone.utc).isoformat()
-            else:
-                published = datetime.now(tz=timezone.utc).isoformat()
-            items.append(
-                {
-                    "title": title,
-                    "link": post.get("link", url),
-                    "source": source_name,
-                    "published": published,
-                }
+    for page in range(1, MAX_BACKFILL_PAGES + 1) if deep else [1]:
+        sep = "&" if "?" in url else "?"
+        page_url = url if page == 1 else f"{url}{sep}page={page}"
+        try:
+            resp = requests.get(
+                page_url,
+                timeout=TIMEOUT_SECONDS,
+                headers={"User-Agent": "personal-rss-aggregator/1.0"},
             )
-    except Exception as exc:
-        print(f"[WARN] failed to fetch {url}: {exc}", file=sys.stderr)
+            if resp.status_code == 400:
+                break  # past the last page
+            resp.raise_for_status()
+            posts = resp.json()
+            if not posts:
+                break
+            for post in posts:
+                title = unescape(re.sub("<[^>]+>", "", post.get("title", {}).get("rendered", "Untitled")))
+                date_gmt = post.get("date_gmt")
+                if date_gmt:
+                    published = datetime.fromisoformat(date_gmt).replace(tzinfo=timezone.utc).isoformat()
+                else:
+                    published = datetime.now(tz=timezone.utc).isoformat()
+                items.append(
+                    {
+                        "title": title,
+                        "link": post.get("link", url),
+                        "source": source_name,
+                        "published": published,
+                    }
+                )
+        except Exception as exc:
+            print(f"[WARN] failed to fetch {page_url}: {exc}", file=sys.stderr)
+            break
     return items
 
 
@@ -347,14 +379,48 @@ def fetch_xtx(scrape_state):
     return items
 
 
+def load_existing_items():
+    try:
+        with open(OUTPUT_PATH, "r", encoding="utf-8") as f:
+            return json.load(f).get("items", [])
+    except FileNotFoundError:
+        return []
+
+
+def merge_and_cap(existing_items, new_items, max_per_source=MAX_ITEMS_PER_SOURCE):
+    """Accumulate rather than overwrite: feed.json is the union of everything
+    ever fetched, deduped by link, capped per source (oldest dropped first)
+    so the file and git history don't grow forever. Without this, an item
+    that scrolls off a source's own front page/feed window would vanish from
+    feed.json the next run even though nothing about it changed."""
+    by_link = {}
+    for item in existing_items:
+        by_link[item["link"]] = item
+    for item in new_items:
+        by_link[item["link"]] = item
+
+    by_source = {}
+    for item in by_link.values():
+        by_source.setdefault(item["source"], []).append(item)
+
+    capped = []
+    for items in by_source.values():
+        items.sort(key=lambda x: x["published"], reverse=True)
+        capped.extend(items[:max_per_source])
+
+    capped.sort(key=lambda x: x["published"], reverse=True)
+    return capped
+
+
 def main():
+    deep = "--backfill" in sys.argv
     scrape_state = load_scrape_state()
 
     all_items = []
     for feed in FEEDS:
-        all_items.extend(fetch_one(feed["url"], feed["source"]))
+        all_items.extend(fetch_one(feed["url"], feed["source"], deep=deep))
     for feed in WORDPRESS_API_FEEDS:
-        all_items.extend(fetch_wordpress_api(feed["url"], feed["source"]))
+        all_items.extend(fetch_wordpress_api(feed["url"], feed["source"], deep=deep))
     all_items.extend(fetch_optiver())
     all_items.extend(fetch_aqr())
     all_items.extend(fetch_man_group())
@@ -363,13 +429,13 @@ def main():
     all_items.extend(fetch_imc(scrape_state))
     all_items.extend(fetch_xtx(scrape_state))
 
-    all_items.sort(key=lambda x: x["published"], reverse=True)
+    merged_items = merge_and_cap(load_existing_items(), all_items)
 
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
         json.dump(
             {
                 "generated_at": datetime.now(tz=timezone.utc).isoformat(),
-                "items": all_items,
+                "items": merged_items,
             },
             f,
             indent=2,
@@ -379,7 +445,7 @@ def main():
     with open(SCRAPE_STATE_PATH, "w", encoding="utf-8") as f:
         json.dump(scrape_state, f, indent=2)
 
-    print(f"Wrote {len(all_items)} items to {OUTPUT_PATH}")
+    print(f"Fetched {len(all_items)} items this run, {len(merged_items)} total in {OUTPUT_PATH}")
 
 
 if __name__ == "__main__":

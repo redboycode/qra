@@ -4,7 +4,13 @@ on:
   schedule:
     # Runs every hour. Adjust cron as you like (this is UTC).
     - cron: "0 * * * *"
-  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+  workflow_dispatch:
+    inputs:
+      backfill:
+        description: "Deep backfill (paginate each RSS/API source as far back as it goes)"
+        required: false
+        default: false
+        type: boolean
 
 permissions:
   contents: write
@@ -25,7 +31,7 @@ jobs:
         run: pip install feedparser requests beautifulsoup4
 
       - name: Run fetcher
-        run: python fetch_feeds.py
+        run: python fetch_feeds.py ${{ inputs.backfill && '--backfill' || '' }}
 
       - name: Commit updated feed.json
         run: |
