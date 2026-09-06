@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-09-06T07:31:56.932399+00:00",
+  "generated_at": "2026-09-06T07:43:37.488633+00:00",
   "items": [
+    {
+      "title": "Intern Spotlight: HRT AI Labs Project",
+      "link": "https://www.hudsonrivertrading.com/hrtbeat/intern-spotlight-hrt-ai-labs-project-2026/",
+      "source": "Hudson River Trading (HRTBeat)",
+      "published": "2026-09-04T20:13:00+00:00"
+    },
     {
       "title": "Achieving Extreme Efficiency through Specialized GPU Kernel Generation",
       "link": "https://www.databricks.com/blog/achieving-extreme-efficiency-through-specialized-gpu-kernel-generation",
@@ -62,6 +68,12 @@
       "published": "2026-09-02T01:30:00+00:00"
     },
     {
+      "title": "Meet the PhD Fellows: Spencer Compton",
+      "link": "https://www.twosigma.com/articles/meet-the-phd-fellows-spencer-compton/",
+      "source": "Articles Archive - Two Sigma",
+      "published": "2026-09-01T23:00:00+00:00"
+    },
+    {
       "title": "How the FDA is building a secure, AI-ready data foundation on Databricks for Government",
       "link": "https://www.databricks.com/blog/how-fda-building-secure-ai-ready-data-foundation-databricks-government",
       "source": "Databricks",
@@ -78,6 +90,12 @@
       "link": "https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4",
       "source": "Netflix TechBlog - Medium",
       "published": "2026-08-28T16:01:02+00:00"
+    },
+    {
+      "title": "Intern Spotlight: 2025 Software Engineering Summer Projects",
+      "link": "https://www.hudsonrivertrading.com/hrtbeat/intern-spotlight-2025-software-engineering-summer-projects/",
+      "source": "Hudson River Trading (HRTBeat)",
+      "published": "2026-08-24T19:43:13+00:00"
     },
     {
       "title": "MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet",
@@ -98,10 +116,34 @@
       "published": "2026-08-21T16:01:01+00:00"
     },
     {
+      "title": "Two Sigma: Blending Art and Science",
+      "link": "https://www.twosigma.com/articles/two-sigma-blending-art-and-science/",
+      "source": "Articles Archive - Two Sigma",
+      "published": "2026-08-19T15:29:51+00:00"
+    },
+    {
+      "title": "How We Find Common Ground at Two Sigma",
+      "link": "https://www.twosigma.com/articles/how-we-find-common-ground-at-two-sigma/",
+      "source": "Articles Archive - Two Sigma",
+      "published": "2026-08-18T14:52:14+00:00"
+    },
+    {
+      "title": "Empowering Scientific Excellence: The Two Sigma PhD Fellowship",
+      "link": "https://www.twosigma.com/articles/empowering-scientific-excellence-the-two-sigma-phd-fellowship/",
+      "source": "Articles Archive - Two Sigma",
+      "published": "2026-08-17T17:01:56+00:00"
+    },
+    {
       "title": "How We’re Building Scam Alert on WhatsApp With End-to-End Encryption and Verifiability Guarantees",
       "link": "https://engineering.fb.com/2026/08/12/security/how-were-building-scam-alert-whatsapp/",
       "source": "Engineering at Meta",
       "published": "2026-08-12T13:00:28+00:00"
+    },
+    {
+      "title": "Ben Wellington, Two Sigma’s Head of Complex Feature Engines, on the Flirting with Models Podcast",
+      "link": "https://www.twosigma.com/articles/ben-wellington-two-sigmas-head-of-complex-feature-engines-on-the-flirting-with-models-podcast/",
+      "source": "Articles Archive - Two Sigma",
+      "published": "2026-08-11T18:14:56+00:00"
     },
     {
       "title": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…",
@@ -114,6 +156,18 @@
       "link": "https://engineering.fb.com/2026/08/05/ml-applications/from-user-sequences-to-scaling-laws-a-multi-stage-architecture-for-metas-ads-ranking/",
       "source": "Engineering at Meta",
       "published": "2026-08-05T19:20:20+00:00"
+    },
+    {
+      "title": "Can you reverse engineer an ASIC?",
+      "link": "https://blog.janestreet.com/can-you-reverse-engineer-an-asic/",
+      "source": "Jane Street Blog",
+      "published": "2026-08-05T00:00:00+00:00"
+    },
+    {
+      "title": "Why We Have a Music Room at Two Sigma",
+      "link": "https://www.twosigma.com/articles/why-we-have-a-music-room-at-two-sigma/",
+      "source": "Articles Archive - Two Sigma",
+      "published": "2026-08-04T16:16:31+00:00"
     },
     {
       "title": "GEM Training: How Meta Doubled the Efficiency of Its LLM-Scale Ads Foundation Model",
@@ -132,6 +186,12 @@
       "link": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3?source=rss----2615bd06b42e---4",
       "source": "Netflix TechBlog - Medium",
       "published": "2026-07-30T20:10:15+00:00"
+    },
+    {
+      "title": "Was 2026 the best World Cup ever played?",
+      "link": "https://www.twosigma.com/articles/was-2026-the-best-world-cup-ever-played/",
+      "source": "Articles Archive - Two Sigma",
+      "published": "2026-07-20T21:22:06+00:00"
     },
     {
       "title": "In-House LLM Serving at Netflix",
@@ -158,6 +218,18 @@
       "published": "2026-07-13T16:00:50+00:00"
     },
     {
+      "title": "Anything Can Be Language Now: My Thoughts on the Future of Features Research",
+      "link": "https://www.twosigma.com/articles/anything-can-be-language-now-my-thoughts-on-the-future-of-features-research/",
+      "source": "Articles Archive - Two Sigma",
+      "published": "2026-07-09T13:44:32+00:00"
+    },
+    {
+      "title": "Out of the Group Stage and into the Knockouts",
+      "link": "https://www.twosigma.com/articles/out-of-the-group-stage-and-into-the-knockouts/",
+      "source": "Articles Archive - Two Sigma",
+      "published": "2026-07-01T21:12:28+00:00"
+    },
+    {
       "title": "GenPage: Towards End-to-End Generative Homepage Construction at Netflix",
       "link": "https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08?source=rss----2615bd06b42e---4",
       "source": "Netflix TechBlog - Medium",
@@ -174,6 +246,714 @@
       "link": "https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c?source=rss----2615bd06b42e---4",
       "source": "Netflix TechBlog - Medium",
       "published": "2026-06-22T21:35:01+00:00"
+    },
+    {
+      "title": "Over Coffee With Senior Developer & Financial Engineer Andrew Long, CFA",
+      "link": "https://www.twosigma.com/articles/over-coffee-with-senior-developer-financial-engineer-andrew-long-cfa/",
+      "source": "Articles Archive - Two Sigma",
+      "published": "2026-06-17T20:58:21+00:00"
+    },
+    {
+      "title": "Using OxCaml to implement type-safe reference counting between OCaml and Python",
+      "link": "https://blog.janestreet.com/oxcaml-typesafe-reference-counting-python/",
+      "source": "Jane Street Blog",
+      "published": "2026-06-15T00:00:00+00:00"
+    },
+    {
+      "title": "Formal methods and the future of programming",
+      "link": "https://blog.janestreet.com/formal-methods-at-jane-street-index/",
+      "source": "Jane Street Blog",
+      "published": "2026-06-07T00:00:00+00:00"
+    },
+    {
+      "title": "strace-ui, Bonsai_term, and the TUI renaissance",
+      "link": "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/",
+      "source": "Jane Street Blog",
+      "published": "2026-05-26T00:00:00+00:00"
+    },
+    {
+      "title": "Using group theory to explore the space of positional encodings for attention",
+      "link": "https://blog.janestreet.com/using-group-theory-to-explore-positional-encodings-attention/",
+      "source": "Jane Street Blog",
+      "published": "2026-04-22T00:00:00+00:00"
+    },
+    {
+      "title": "Designing a SystemVerilog Language Server",
+      "link": "https://www.hudsonrivertrading.com/hrtbeat/designing-a-systemverilog-language-server/",
+      "source": "Hudson River Trading (HRTBeat)",
+      "published": "2026-03-03T14:48:44+00:00"
+    },
+    {
+      "title": "Can you reverse engineer our neural network?",
+      "link": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
+      "source": "Jane Street Blog",
+      "published": "2026-02-24T00:00:00+00:00"
+    },
+    {
+      "title": "Results from the Advent of FPGA Challenge",
+      "link": "https://blog.janestreet.com/advent-of-fpga-challenge-2025-results/",
+      "source": "Jane Street Blog",
+      "published": "2026-02-11T00:00:00+00:00"
+    },
+    {
+      "title": "I design with Claude more than Figma now",
+      "link": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+      "source": "Jane Street Blog",
+      "published": "2026-02-05T00:00:00+00:00"
+    },
+    {
+      "title": "Fun with Algebraic Effects - from Toy Examples to Hardcaml Simulations",
+      "link": "https://blog.janestreet.com/fun-with-algebraic-effects-hardcaml/",
+      "source": "Jane Street Blog",
+      "published": "2026-01-06T00:00:00+00:00"
+    },
+    {
+      "title": "Getting from tested to battle-tested",
+      "link": "https://blog.janestreet.com/getting-from-tested-to-battle-tested/",
+      "source": "Jane Street Blog",
+      "published": "2025-12-03T00:00:00+00:00"
+    },
+    {
+      "title": "HRTWorker: A SharedWorker Framework for Viewing Real-Time Trading",
+      "link": "https://www.hudsonrivertrading.com/hrtbeat/hrtworker-a-sharedworker-framework/",
+      "source": "Hudson River Trading (HRTBeat)",
+      "published": "2025-11-24T13:09:44+00:00"
+    },
+    {
+      "title": "Advent of FPGA — A Jane Street Challenge",
+      "link": "https://blog.janestreet.com/advent-of-fpga-challenge-2025/",
+      "source": "Jane Street Blog",
+      "published": "2025-11-24T00:00:00+00:00"
+    },
+    {
+      "title": "HeraclesQL: A Python DSL for Writing Alerts",
+      "link": "https://www.hudsonrivertrading.com/hrtbeat/heraclesql-a-python-dsl-for-writing-alerts/",
+      "source": "Hudson River Trading (HRTBeat)",
+      "published": "2025-10-28T13:56:23+00:00"
+    },
+    {
+      "title": "Answers to Questions I Often Get: Engineering and Interviewing at HRT",
+      "link": "https://www.hudsonrivertrading.com/hrtbeat/engineering-and-interviewing-at-hrt/",
+      "source": "Hudson River Trading (HRTBeat)",
+      "published": "2025-10-02T19:28:50+00:00"
+    },
+    {
+      "title": "What the interns have wrought, 2025 edition",
+      "link": "https://blog.janestreet.com/wrought-2025/",
+      "source": "Jane Street Blog",
+      "published": "2025-08-27T00:00:00+00:00"
+    },
+    {
+      "title": "Building a Distributed Filesystem for Scalable Research",
+      "link": "https://www.hudsonrivertrading.com/hrtbeat/distributed-filesystem-for-scalable-research/",
+      "source": "Hudson River Trading (HRTBeat)",
+      "published": "2025-08-19T21:28:24+00:00"
+    },
+    {
+      "title": "Inside HRT’s Python Fork: Leveraging PEP 690 for Faster Imports",
+      "link": "https://www.hudsonrivertrading.com/hrtbeat/inside-hrts-python-fork/",
+      "source": "Hudson River Trading (HRTBeat)",
+      "published": "2025-08-08T14:57:48+00:00"
+    },
+    {
+      "title": "A Higgs-bugson in the Linux Kernel",
+      "link": "https://blog.janestreet.com/a-higgs-bugson-in-the-linux-kernel/",
+      "source": "Jane Street Blog",
+      "published": "2025-07-02T00:00:00+00:00"
+    },
+    {
+      "title": "Intern Spotlight: HRT AI Labs Project",
+      "link": "https://www.hudsonrivertrading.com/hrtbeat/intern-spotlight-hrt-ai-labs-project/",
+      "source": "Hudson River Trading (HRTBeat)",
+      "published": "2025-06-20T15:52:53+00:00"
+    },
+    {
+      "title": "Introducing OxCaml",
+      "link": "https://blog.janestreet.com/introducing-oxcaml/",
+      "source": "Jane Street Blog",
+      "published": "2025-06-14T00:00:00+00:00"
+    },
+    {
+      "title": "Intern Spotlight: Software Engineering Summer Projects",
+      "link": "https://www.hudsonrivertrading.com/hrtbeat/intern-spotlight-software-engineering-summer-projects/",
+      "source": "Hudson River Trading (HRTBeat)",
+      "published": "2025-06-13T05:00:00+00:00"
+    },
+    {
+      "title": "Advent of Hardcaml",
+      "link": "https://blog.janestreet.com/advent-of-hardcaml-2024/",
+      "source": "Jane Street Blog",
+      "published": "2025-03-22T00:00:00+00:00"
+    },
+    {
+      "title": "How we accidentally built a better build system for OCaml",
+      "link": "https://blog.janestreet.com/how-we-accidentally-built-a-better-build-system-for-ocaml-index/",
+      "source": "Jane Street Blog",
+      "published": "2025-01-24T00:00:00+00:00"
+    },
+    {
+      "title": "Developer education at Jane Street",
+      "link": "https://blog.janestreet.com/developer-education-at-jane-street-index/",
+      "source": "Jane Street Blog",
+      "published": "2024-10-04T00:00:00+00:00"
+    },
+    {
+      "title": "ICFP 2024",
+      "link": "https://blog.janestreet.com/icfp-2024-index/",
+      "source": "Jane Street Blog",
+      "published": "2024-08-29T00:00:00+00:00"
+    },
+    {
+      "title": "What the interns have wrought, 2024 edition",
+      "link": "https://blog.janestreet.com/what-the-interns-have-wrought-2024-edition-index/",
+      "source": "Jane Street Blog",
+      "published": "2024-08-26T00:00:00+00:00"
+    },
+    {
+      "title": "Visualizing piecewise linear neural networks",
+      "link": "https://blog.janestreet.com/visualizing-piecewise-linear-neural-networks/",
+      "source": "Jane Street Blog",
+      "published": "2024-07-22T00:00:00+00:00"
+    },
+    {
+      "title": "Optimising Compiler Performance: A Case For Devirtualisation",
+      "link": "https://www.hudsonrivertrading.com/hrtbeat/optimising-compiler-performance-a-case-for-devirtualisation/",
+      "source": "Hudson River Trading (HRTBeat)",
+      "published": "2024-05-21T09:32:00+00:00"
+    },
+    {
+      "title": "Building Robust Codebases with Python’s Type Annotations",
+      "link": "https://www.hudsonrivertrading.com/hrtbeat/building-robust-codebases-with-pythons-type-annotations/",
+      "source": "Hudson River Trading (HRTBeat)",
+      "published": "2024-02-16T13:54:08+00:00"
+    },
+    {
+      "title": "How Our Engineers Hot-Patched a Third Party Binary Library",
+      "link": "https://www.hudsonrivertrading.com/hrtbeat/how-our-engineers-hot-patched-a-third-party-binary-library/",
+      "source": "Hudson River Trading (HRTBeat)",
+      "published": "2023-12-07T10:37:00+00:00"
+    },
+    {
+      "title": "Intern Spotlight: 2023 Software Engineering Summer Projects",
+      "link": "https://www.hudsonrivertrading.com/hrtbeat/intern-spotlight-2023-software-engineering/",
+      "source": "Hudson River Trading (HRTBeat)",
+      "published": "2023-11-02T05:01:53+00:00"
+    },
+    {
+      "title": "Intern Spotlight: 2023 HRT AI Labs Summer Projects",
+      "link": "https://www.hudsonrivertrading.com/hrtbeat/intern-spotlight-2023-hrt-ai-labs-summer-projects/",
+      "source": "Hudson River Trading (HRTBeat)",
+      "published": "2023-09-21T07:30:00+00:00"
+    },
+    {
+      "title": "What the interns have wrought, 2023 edition",
+      "link": "https://blog.janestreet.com/what-the-interns-have-wrought-2023/",
+      "source": "Jane Street Blog",
+      "published": "2023-09-12T00:00:00+00:00"
+    },
+    {
+      "title": "Oxidizing OCaml: Data Race Freedom",
+      "link": "https://blog.janestreet.com/oxidizing-ocaml-parallelism/",
+      "source": "Jane Street Blog",
+      "published": "2023-09-01T00:00:00+00:00"
+    },
+    {
+      "title": "We're sponsoring SoME3",
+      "link": "https://blog.janestreet.com/were-sponsoring-some3/",
+      "source": "Jane Street Blog",
+      "published": "2023-07-06T00:00:00+00:00"
+    },
+    {
+      "title": "Oxidizing OCaml: Rust-Style Ownership",
+      "link": "https://blog.janestreet.com/oxidizing-ocaml-ownership/",
+      "source": "Jane Street Blog",
+      "published": "2023-06-21T00:00:00+00:00"
+    },
+    {
+      "title": "Building a Dependency Graph of Our Python Codebase",
+      "link": "https://www.hudsonrivertrading.com/hrtbeat/dependency-graph-python-codebase/",
+      "source": "Hudson River Trading (HRTBeat)",
+      "published": "2023-06-05T20:16:25+00:00"
+    },
+    {
+      "title": "Oxidizing OCaml: Locality",
+      "link": "https://blog.janestreet.com/oxidizing-ocaml-locality/",
+      "source": "Jane Street Blog",
+      "published": "2023-05-26T00:00:00+00:00"
+    },
+    {
+      "title": "Building reproducible Python environments with XARs",
+      "link": "https://blog.janestreet.com/building-reproducible-python-environments-with-xars/",
+      "source": "Jane Street Blog",
+      "published": "2023-04-14T00:00:00+00:00"
+    },
+    {
+      "title": "Modeling Equities Returns: The Linear Case",
+      "link": "https://www.hudsonrivertrading.com/hrtbeat/modeling-equities-returns/",
+      "source": "Hudson River Trading (HRTBeat)",
+      "published": "2023-03-09T08:12:00+00:00"
+    },
+    {
+      "title": "Optimizing UX/UI Design for Trading at HRT",
+      "link": "https://www.hudsonrivertrading.com/hrtbeat/optimizing-ux-ui-design-for-trading/",
+      "source": "Hudson River Trading (HRTBeat)",
+      "published": "2023-01-27T10:20:00+00:00"
+    },
+    {
+      "title": "What if writing tests was a joyful experience?",
+      "link": "https://blog.janestreet.com/the-joy-of-expect-tests/",
+      "source": "Jane Street Blog",
+      "published": "2023-01-09T00:00:00+00:00"
+    },
+    {
+      "title": "Intern Spotlight: 2022 HRT AI Labs Summer Projects",
+      "link": "https://www.hudsonrivertrading.com/hrtbeat/intern-spotlight-2022-hrt-ai-labs-summer-projects/",
+      "source": "Hudson River Trading (HRTBeat)",
+      "published": "2022-12-08T05:00:00+00:00"
+    },
+    {
+      "title": "Accelerating zk-SNARKs - MSM and NTT algorithms on FPGAs with Hardcaml",
+      "link": "https://blog.janestreet.com/zero-knowledge-fpgas-hardcaml/",
+      "source": "Jane Street Blog",
+      "published": "2022-12-07T00:00:00+00:00"
+    },
+    {
+      "title": "Low Latency Optimization: Using Huge Pages on Linux (Part 2)",
+      "link": "https://www.hudsonrivertrading.com/hrtbeat/low-latency-optimization-part-2/",
+      "source": "Hudson River Trading (HRTBeat)",
+      "published": "2022-12-02T05:24:00+00:00"
+    },
+    {
+      "title": "Visualizing information propagation in markets",
+      "link": "https://blog.janestreet.com/visualizing-information-propagation-in-markets-index/",
+      "source": "Jane Street Blog",
+      "published": "2022-11-23T00:00:00+00:00"
+    },
+    {
+      "title": "Computations that differentiate, debug, and document themselves",
+      "link": "https://blog.janestreet.com/computations-that-differentiate-debug-and-document-themselves/",
+      "source": "Jane Street Blog",
+      "published": "2022-11-17T00:00:00+00:00"
+    },
+    {
+      "title": "Introducing the Jane Street Graduate Research Fellowship",
+      "link": "https://blog.janestreet.com/graduate-research-fellowship/",
+      "source": "Jane Street Blog",
+      "published": "2022-08-30T00:00:00+00:00"
+    },
+    {
+      "title": "What the interns have wrought, 2022 edition",
+      "link": "https://blog.janestreet.com/what-the-interns-have-wrought-2022/",
+      "source": "Jane Street Blog",
+      "published": "2022-08-25T00:00:00+00:00"
+    },
+    {
+      "title": "Research internships in our Tools and Compilers group",
+      "link": "https://blog.janestreet.com/research-internships-tnc/",
+      "source": "Jane Street Blog",
+      "published": "2022-03-04T00:00:00+00:00"
+    },
+    {
+      "title": "How Jane Street Pairs Interns to Projects and Teams During the Software Engineering Internship",
+      "link": "https://blog.janestreet.com/project-pairing/",
+      "source": "Jane Street Blog",
+      "published": "2022-01-14T00:00:00+00:00"
+    },
+    {
+      "title": "Magic-trace: Diagnosing tricky performance issues easily with Intel Processor Trace",
+      "link": "https://blog.janestreet.com/magic-trace/",
+      "source": "Jane Street Blog",
+      "published": "2022-01-11T00:00:00+00:00"
+    },
+    {
+      "title": "Hiring a Developer Educator",
+      "link": "https://blog.janestreet.com/hiring-a-developer-educator/",
+      "source": "Jane Street Blog",
+      "published": "2021-10-21T00:00:00+00:00"
+    },
+    {
+      "title": "Goodbye Core_kernel",
+      "link": "https://blog.janestreet.com/goodbye-Core_kernel/",
+      "source": "Jane Street Blog",
+      "published": "2021-08-26T00:00:00+00:00"
+    },
+    {
+      "title": "What the interns have wrought, 2021 edition",
+      "link": "https://blog.janestreet.com/what-the-interns-have-wrought-2021/",
+      "source": "Jane Street Blog",
+      "published": "2021-08-09T00:00:00+00:00"
+    },
+    {
+      "title": "Looking for a developer experience engineer",
+      "link": "https://blog.janestreet.com/looking-for-a-developer-experience-engineer-index/",
+      "source": "Jane Street Blog",
+      "published": "2021-06-15T00:00:00+00:00"
+    },
+    {
+      "title": "Growing the Hardcaml toolset",
+      "link": "https://blog.janestreet.com/growing-the-hardcaml-toolset-index/",
+      "source": "Jane Street Blog",
+      "published": "2020-12-01T00:00:00+00:00"
+    },
+    {
+      "title": "Announcing Our Market Prediction Kaggle Competition",
+      "link": "https://blog.janestreet.com/announcing-our-market-prediction-kaggle-competition-index/",
+      "source": "Jane Street Blog",
+      "published": "2020-11-24T00:00:00+00:00"
+    },
+    {
+      "title": "Finding memory leaks with Memtrace",
+      "link": "https://blog.janestreet.com/finding-memory-leaks-with-memtrace/",
+      "source": "Jane Street Blog",
+      "published": "2020-10-06T00:00:00+00:00"
+    },
+    {
+      "title": "Memory allocator showdown",
+      "link": "https://blog.janestreet.com/memory-allocator-showdown/",
+      "source": "Jane Street Blog",
+      "published": "2020-09-15T00:00:00+00:00"
+    },
+    {
+      "title": "Announcing Signals and Threads, a new podcast from Jane Street",
+      "link": "https://blog.janestreet.com/announcing-signals-and-threads-index/",
+      "source": "Jane Street Blog",
+      "published": "2020-08-31T00:00:00+00:00"
+    },
+    {
+      "title": "What the interns have wrought, 2020 edition",
+      "link": "https://blog.janestreet.com/what-the-interns-have-wrought-2020/",
+      "source": "Jane Street Blog",
+      "published": "2020-08-17T00:00:00+00:00"
+    },
+    {
+      "title": "The Jane Street Interview Process &mdash; 2020 Edition",
+      "link": "https://blog.janestreet.com/jane-street-interview-process-2020/",
+      "source": "Jane Street Blog",
+      "published": "2020-07-24T00:00:00+00:00"
+    },
+    {
+      "title": "Really low latency multipliers and cryptographic puzzles",
+      "link": "https://blog.janestreet.com/really-low-latency-multipliers-and-cryptographic-puzzles/",
+      "source": "Jane Street Blog",
+      "published": "2020-06-22T00:00:00+00:00"
+    },
+    {
+      "title": "Using ASCII waveforms to test hardware designs",
+      "link": "https://blog.janestreet.com/using-ascii-waveforms-to-test-hardware-designs/",
+      "source": "Jane Street Blog",
+      "published": "2020-06-01T00:00:00+00:00"
+    },
+    {
+      "title": "Chrome extensions: Finding the missing proof",
+      "link": "https://blog.janestreet.com/chrome-extensions-finding-the-missing-proof/",
+      "source": "Jane Street Blog",
+      "published": "2020-04-17T00:00:00+00:00"
+    },
+    {
+      "title": "Watch all of Jane Street's tech talks",
+      "link": "https://blog.janestreet.com/watch-all-of-jane-streets-tech-talks/",
+      "source": "Jane Street Blog",
+      "published": "2020-02-20T00:00:00+00:00"
+    },
+    {
+      "title": "Troubleshooting systemd with SystemTap",
+      "link": "https://blog.janestreet.com/troubleshooting-systemd-with-systemtap/",
+      "source": "Jane Street Blog",
+      "published": "2020-02-03T00:00:00+00:00"
+    },
+    {
+      "title": "Using Python and OCaml in the same Jupyter notebook",
+      "link": "https://blog.janestreet.com/using-python-and-ocaml-in-the-same-jupyter-notebook/",
+      "source": "Jane Street Blog",
+      "published": "2019-12-16T00:00:00+00:00"
+    },
+    {
+      "title": "Deep-Learning the Hardest Go Problem in the World",
+      "link": "https://blog.janestreet.com/deep-learning-the-hardest-go-problem-in-the-world/",
+      "source": "Jane Street Blog",
+      "published": "2019-12-06T00:00:00+00:00"
+    },
+    {
+      "title": "Commas in big numbers everywhere: An OpenType adventure",
+      "link": "https://blog.janestreet.com/commas-in-big-numbers-everywhere/",
+      "source": "Jane Street Blog",
+      "published": "2019-10-14T00:00:00+00:00"
+    },
+    {
+      "title": "What the interns have wrought, 2019 edition",
+      "link": "https://blog.janestreet.com/what-the-interns-have-wrought-2019/",
+      "source": "Jane Street Blog",
+      "published": "2019-08-30T00:00:00+00:00"
+    },
+    {
+      "title": "Using OCaml to drive a Raspberry Pi robot car",
+      "link": "https://blog.janestreet.com/using-ocaml-to-drive-a-raspberry-pi-robot-car/",
+      "source": "Jane Street Blog",
+      "published": "2019-08-19T00:00:00+00:00"
+    },
+    {
+      "title": "Do applied programming languages research at Jane Street!",
+      "link": "https://blog.janestreet.com/applied-PL-research/",
+      "source": "Jane Street Blog",
+      "published": "2019-08-16T00:00:00+00:00"
+    },
+    {
+      "title": "A look at OCaml 4.08",
+      "link": "https://blog.janestreet.com/a-look-at-ocaml-4.08/",
+      "source": "Jane Street Blog",
+      "published": "2019-07-12T00:00:00+00:00"
+    },
+    {
+      "title": "Of Pythons and Camels",
+      "link": "https://blog.janestreet.com/of-pythons-and-camels/",
+      "source": "Jane Street Blog",
+      "published": "2019-07-09T00:00:00+00:00"
+    },
+    {
+      "title": "Thoughts from AAAI 2019",
+      "link": "https://blog.janestreet.com/thoughts-from-aaai-19/",
+      "source": "Jane Street Blog",
+      "published": "2019-05-13T00:00:00+00:00"
+    },
+    {
+      "title": "Learning ML Depth-First",
+      "link": "https://blog.janestreet.com/learning-ml-depth-first/",
+      "source": "Jane Street Blog",
+      "published": "2019-04-17T00:00:00+00:00"
+    },
+    {
+      "title": "Machining the ultimate hackathon prize",
+      "link": "https://blog.janestreet.com/hackathon-keyboards/",
+      "source": "Jane Street Blog",
+      "published": "2019-02-28T00:00:00+00:00"
+    },
+    {
+      "title": "Accelerating Self-Play Learning in Go",
+      "link": "https://blog.janestreet.com/accelerating-self-play-learning-in-go/",
+      "source": "Jane Street Blog",
+      "published": "2019-02-28T00:00:00+00:00"
+    },
+    {
+      "title": "Playing Atari Games with OCaml and Deep Reinforcement Learning",
+      "link": "https://blog.janestreet.com/playing-atari-games-with-ocaml-and-deep-rl/",
+      "source": "Jane Street Blog",
+      "published": "2019-02-02T00:00:00+00:00"
+    },
+    {
+      "title": "L2 Regularization and Batch Norm",
+      "link": "https://blog.janestreet.com/l2-regularization-and-batch-norm/",
+      "source": "Jane Street Blog",
+      "published": "2019-01-29T00:00:00+00:00"
+    },
+    {
+      "title": "A tutorial for building web applications with Incr_dom",
+      "link": "https://blog.janestreet.com/a-tutorial-for-building-web-applications-with-incrdom/",
+      "source": "Jane Street Blog",
+      "published": "2019-01-15T00:00:00+00:00"
+    },
+    {
+      "title": "How to shuffle a big dataset",
+      "link": "https://blog.janestreet.com/how-to-shuffle-a-big-dataset/",
+      "source": "Jane Street Blog",
+      "published": "2018-09-26T00:00:00+00:00"
+    },
+    {
+      "title": "Deep learning experiments in OCaml",
+      "link": "https://blog.janestreet.com/deep-learning-experiments-in-ocaml/",
+      "source": "Jane Street Blog",
+      "published": "2018-09-20T00:00:00+00:00"
+    },
+    {
+      "title": "What the interns have wrought, 2018 edition",
+      "link": "https://blog.janestreet.com/what-the-interns-have-wrought-2018/",
+      "source": "Jane Street Blog",
+      "published": "2018-08-06T00:00:00+00:00"
+    },
+    {
+      "title": "Plans for OCaml 4.08",
+      "link": "https://blog.janestreet.com/plans-for-ocaml-408/",
+      "source": "Jane Street Blog",
+      "published": "2018-06-29T00:00:00+00:00"
+    },
+    {
+      "title": "Repeatable exploratory programming",
+      "link": "https://blog.janestreet.com/repeatable-exploratory-programming/",
+      "source": "Jane Street Blog",
+      "published": "2018-04-22T00:00:00+00:00"
+    },
+    {
+      "title": "OCaml all the way down",
+      "link": "https://blog.janestreet.com/ocaml-all-the-way-down/",
+      "source": "Jane Street Blog",
+      "published": "2018-04-04T00:00:00+00:00"
+    },
+    {
+      "title": "Putting the I back in IDE: Towards a Github Explorer",
+      "link": "https://blog.janestreet.com/putting-the-i-back-in-ide-towards-a-github-explorer/",
+      "source": "Jane Street Blog",
+      "published": "2018-03-27T00:00:00+00:00"
+    },
+    {
+      "title": "Learn OCaml in NYC",
+      "link": "https://blog.janestreet.com/learn-ocaml-nyc/",
+      "source": "Jane Street Blog",
+      "published": "2018-02-16T00:00:00+00:00"
+    },
+    {
+      "title": "Proofs (and Refutations) using Z3",
+      "link": "https://blog.janestreet.com/proofs-and-refutations-using-z3/",
+      "source": "Jane Street Blog",
+      "published": "2018-02-15T00:00:00+00:00"
+    },
+    {
+      "title": "Work on the OCaml compiler at Jane Street!",
+      "link": "https://blog.janestreet.com/work-on-the-ocaml-compiler-at-jane-street/",
+      "source": "Jane Street Blog",
+      "published": "2017-12-20T00:00:00+00:00"
+    },
+    {
+      "title": "Does batch size matter?",
+      "link": "https://blog.janestreet.com/does-batch-size-matter/",
+      "source": "Jane Street Blog",
+      "published": "2017-10-31T00:00:00+00:00"
+    },
+    {
+      "title": "How Jane Street Does Code Review (Jane Street Tech Talk)",
+      "link": "https://blog.janestreet.com/jane-street-tech-talk-how-jane-street-does-code-review/",
+      "source": "Jane Street Blog",
+      "published": "2017-10-29T00:00:00+00:00"
+    },
+    {
+      "title": "Jane Street Tech Talk, Verifying Network Data Planes",
+      "link": "https://blog.janestreet.com/jane-street-tech-talk-verifying-network-data-planes/",
+      "source": "Jane Street Blog",
+      "published": "2017-09-26T00:00:00+00:00"
+    },
+    {
+      "title": "Real world machine learning (part 1)",
+      "link": "https://blog.janestreet.com/real-world-machine-learning-part-1/",
+      "source": "Jane Street Blog",
+      "published": "2017-08-28T00:00:00+00:00"
+    },
+    {
+      "title": "How to design a tree diffing algorithm",
+      "link": "https://blog.janestreet.com/how-to-design-a-tree-diffing-algorithm/",
+      "source": "Jane Street Blog",
+      "published": "2017-08-25T00:00:00+00:00"
+    },
+    {
+      "title": "Ironing out your development style",
+      "link": "https://blog.janestreet.com/ironing-out-your-development-style/",
+      "source": "Jane Street Blog",
+      "published": "2017-08-24T00:00:00+00:00"
+    },
+    {
+      "title": "Hiring an FPGA engineer",
+      "link": "https://blog.janestreet.com/hiring-an-fpga-engineer/",
+      "source": "Jane Street Blog",
+      "published": "2017-08-16T00:00:00+00:00"
+    },
+    {
+      "title": "What the interns have wrought, 2017 edition",
+      "link": "https://blog.janestreet.com/what-the-interns-have-wrought-2017/",
+      "source": "Jane Street Blog",
+      "published": "2017-08-14T00:00:00+00:00"
+    },
+    {
+      "title": "When Bash Scripts Bite",
+      "link": "https://blog.janestreet.com/when-bash-scripts-bite/",
+      "source": "Jane Street Blog",
+      "published": "2017-05-11T00:00:00+00:00"
+    },
+    {
+      "title": "Looking for a technical writer",
+      "link": "https://blog.janestreet.com/looking-for-a-technical-writer/",
+      "source": "Jane Street Blog",
+      "published": "2017-05-01T00:00:00+00:00"
+    },
+    {
+      "title": "Caveat Configurator: how to replace configs with code, and why you might not want to",
+      "link": "https://blog.janestreet.com/caveat-configurator-how-to-replace-configs-with-code-and-why-you-might-not-want-to/",
+      "source": "Jane Street Blog",
+      "published": "2017-04-25T00:00:00+00:00"
+    },
+    {
+      "title": "This is not the performance you were looking for: the tricks systems play on us",
+      "link": "https://blog.janestreet.com/this-is-not-the-performance-you-were-looking-for-the-tricks-systems-play-on-us/",
+      "source": "Jane Street Blog",
+      "published": "2017-04-20T00:00:00+00:00"
+    },
+    {
+      "title": "Trivial meta-programming with cinaps",
+      "link": "https://blog.janestreet.com/trivial-meta-programming-with-cinaps/",
+      "source": "Jane Street Blog",
+      "published": "2017-03-20T00:00:00+00:00"
+    },
+    {
+      "title": "One more talk, two more videos",
+      "link": "https://blog.janestreet.com/one-more-talk-two-more-videos/",
+      "source": "Jane Street Blog",
+      "published": "2017-03-15T00:00:00+00:00"
+    },
+    {
+      "title": "What a Jane Street software engineering interview is like",
+      "link": "https://blog.janestreet.com/what-a-jane-street-dev-interview-is-like/",
+      "source": "Jane Street Blog",
+      "published": "2017-02-28T00:00:00+00:00"
+    },
+    {
+      "title": "Jane Street Tech Talks: Verifying Puppet Configs",
+      "link": "https://blog.janestreet.com/jane-street-tech-talks-verifying-puppet-configs/",
+      "source": "Jane Street Blog",
+      "published": "2017-02-16T00:00:00+00:00"
+    },
+    {
+      "title": "How to Build an Exchange",
+      "link": "https://blog.janestreet.com/how-to-build-an-exchange/",
+      "source": "Jane Street Blog",
+      "published": "2017-01-11T00:00:00+00:00"
+    },
+    {
+      "title": "A brief trip through Spacetime",
+      "link": "https://blog.janestreet.com/a-brief-trip-through-spacetime/",
+      "source": "Jane Street Blog",
+      "published": "2017-01-09T00:00:00+00:00"
+    },
+    {
+      "title": "A solution to the ppx versioning problem",
+      "link": "https://blog.janestreet.com/an-solution-to-the-ppx-versioning-problem/",
+      "source": "Jane Street Blog",
+      "published": "2016-11-08T00:00:00+00:00"
+    },
+    {
+      "title": "Observations of a functional programmer",
+      "link": "https://blog.janestreet.com/observations-of-a-functional-programmer/",
+      "source": "Jane Street Blog",
+      "published": "2016-10-27T00:00:00+00:00"
+    },
+    {
+      "title": "What the interns have wrought, 2016",
+      "link": "https://blog.janestreet.com/what-the-interns-have-wrought-2016/",
+      "source": "Jane Street Blog",
+      "published": "2016-09-13T00:00:00+00:00"
+    },
+    {
+      "title": "Unraveling of the tech hiring market",
+      "link": "https://blog.janestreet.com/unraveling/",
+      "source": "Jane Street Blog",
+      "published": "2016-08-31T00:00:00+00:00"
+    },
+    {
+      "title": "Do you love dev tools? Come work at Jane Street.",
+      "link": "https://blog.janestreet.com/do-you-love-dev-tools-come-work-at-jane-street/",
+      "source": "Jane Street Blog",
+      "published": "2016-08-30T00:00:00+00:00"
+    },
+    {
+      "title": "Let syntax, and why you should use it",
+      "link": "https://blog.janestreet.com/let-syntax-and-why-you-should-use-it/",
+      "source": "Jane Street Blog",
+      "published": "2016-06-21T00:00:00+00:00"
     }
   ]
 }
