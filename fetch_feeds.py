@@ -23,6 +23,7 @@ FEEDS = [
     {"source": "Jane Street", "url": "https://blog.janestreet.com/feed.xml"},
     {"source": "Two Sigma", "url": "https://www.twosigma.com/articles/feed/"},
     {"source": "G-Research", "url": "https://www.gresearch.com/news/feed/"},
+    {"source": "Tower Research", "url": "https://tower-research.com/feed/"},
 ]
 
 # ---- Sources with no RSS/Atom feed but a usable JSON API instead ----
@@ -257,6 +258,69 @@ def fetch_man_group():
     return items
 
 
+def fetch_deshaw():
+    """Real dates but year-only granularity (a <span class="year">) — day is
+    stamped as Jan 1 of that year. Their library is a client-rendered React
+    grid, but the full list is present in the initial HTML (no JS execution
+    needed)."""
+    base = "https://www.deshaw.com"
+    url = f"{base}/library"
+    source_name = "DE Shaw"
+    items = []
+    try:
+        soup = scrape_get(url)
+        for art in soup.find_all("article", class_="library-item"):
+            year_tag = art.find("span", class_="year")
+            title_tag = art.find("span", class_="accordionTitle")
+            link_tag = art.find("a", href=lambda h: h and h.startswith("/library/"))
+            if not (year_tag and title_tag and link_tag):
+                continue
+            title = title_tag.get_text(strip=True)
+            try:
+                published = datetime.strptime(year_tag.get_text(strip=True), "%Y").replace(tzinfo=timezone.utc).isoformat()
+            except ValueError:
+                continue
+            link = base + link_tag["href"]
+            items.append({"title": title, "link": link, "source": source_name, "published": published})
+    except Exception as exc:
+        print(f"[WARN] failed to fetch {url}: {exc}", file=sys.stderr)
+    return items
+
+
+def fetch_sig():
+    """Real per-post dates in <time datetime="...">. Small, fairly new blog —
+    low volume is expected, not a scraper bug."""
+    base = "https://sig.com"
+    url = f"{base}/waves/"
+    source_name = "SIG"
+    skip_titles = {"Categories", "Waves | Susquehanna's Technical Blog"}
+    items = []
+    try:
+        soup = scrape_get(url)
+        seen = set()
+        for container in soup.find_all(["article", "section"]):
+            hrefs = set(a["href"] for a in container.find_all("a", href=True) if "/waves/posts/" in a["href"])
+            if len(hrefs) != 1:
+                continue
+            href = next(iter(hrefs))
+            if href in seen:
+                continue
+            title_tag = container.find(["h1", "h2", "h3", "h4"])
+            time_tag = container.find("time")
+            if not (title_tag and time_tag and time_tag.get("datetime")):
+                continue
+            title = title_tag.get_text(strip=True)
+            if title in skip_titles:
+                continue
+            seen.add(href)
+            link = base + href
+            published = datetime.fromisoformat(time_tag["datetime"]).replace(tzinfo=timezone.utc).isoformat()
+            items.append({"title": title, "link": link, "source": source_name, "published": published})
+    except Exception as exc:
+        print(f"[WARN] failed to fetch {url}: {exc}", file=sys.stderr)
+    return items
+
+
 def fetch_xtx(scrape_state):
     """No publish dates on the page — stamp first-seen. Own /news/ posts only
     (the page also links out to third-party press coverage, which we skip)."""
@@ -294,6 +358,8 @@ def main():
     all_items.extend(fetch_optiver())
     all_items.extend(fetch_aqr())
     all_items.extend(fetch_man_group())
+    all_items.extend(fetch_deshaw())
+    all_items.extend(fetch_sig())
     all_items.extend(fetch_imc(scrape_state))
     all_items.extend(fetch_xtx(scrape_state))
 
