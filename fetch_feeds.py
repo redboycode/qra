@@ -46,7 +46,12 @@ WORDPRESS_API_FEEDS = [
 TIMEOUT_SECONDS = 10
 OUTPUT_PATH = "feed.json"
 SCRAPE_STATE_PATH = "scrape_state.json"
-SCRAPE_USER_AGENT = "personal-rss-aggregator/1.0"
+# A custom UA ("personal-rss-aggregator/1.0") got silently capped to ~2
+# pages of real content by Tower Research's CDN before falling back to
+# repeating page-1 — no error, just identical entries past that depth. A
+# standard browser UA paginates correctly. This is fetching each site's own
+# public RSS feed, nothing gated behind auth.
+USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"
 MAX_ITEMS_PER_SOURCE = 200
 MAX_BACKFILL_PAGES = 50
 
@@ -75,7 +80,7 @@ def fetch_one(url, source_name, deep=False):
             resp = requests.get(
                 page_url,
                 timeout=TIMEOUT_SECONDS,
-                headers={"User-Agent": "personal-rss-aggregator/1.0"},
+                headers={"User-Agent": USER_AGENT},
             )
             if deep and resp.status_code == 404:
                 break  # WordPress convention for "past the last page" on some sites
@@ -117,7 +122,7 @@ def fetch_wordpress_api(url, source_name, deep=False):
             resp = requests.get(
                 page_url,
                 timeout=TIMEOUT_SECONDS,
-                headers={"User-Agent": "personal-rss-aggregator/1.0"},
+                headers={"User-Agent": USER_AGENT},
             )
             if resp.status_code == 400:
                 break  # past the last page
@@ -161,7 +166,7 @@ def first_seen_published(link, scrape_state):
 
 
 def scrape_get(url):
-    resp = requests.get(url, timeout=TIMEOUT_SECONDS, headers={"User-Agent": SCRAPE_USER_AGENT})
+    resp = requests.get(url, timeout=TIMEOUT_SECONDS, headers={"User-Agent": USER_AGENT})
     resp.raise_for_status()
     return BeautifulSoup(resp.text, "html.parser")
 
