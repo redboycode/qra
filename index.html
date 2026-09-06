@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>tech-blog-aggregator</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  body {
+    background: #f6f6ef;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 13px;
+    color: #222;
+    margin: 0;
+    padding: 0;
+  }
+  .header {
+    background: #ff6600;
+    padding: 6px 10px;
+    font-weight: bold;
+    color: #fff;
+  }
+  .container {
+    max-width: 800px;
+    margin: 10px auto;
+    padding: 0 10px;
+  }
+  .row {
+    display: flex;
+    padding: 4px 0;
+    border-bottom: 1px solid #eee;
+  }
+  .rank {
+    width: 28px;
+    color: #828282;
+    text-align: right;
+    margin-right: 6px;
+  }
+  .title a {
+    color: #000;
+    text-decoration: none;
+  }
+  .title a:visited { color: #828282; }
+  .title a:hover { text-decoration: underline; }
+  .meta {
+    color: #828282;
+    font-size: 11px;
+    margin-left: 34px;
+  }
+  #status { padding: 10px; color: #828282; }
+</style>
+</head>
+<body>
+
+<div class="header">tech-blog-aggregator</div>
+<div class="container">
+  <div id="status">Loading feed.json…</div>
+  <div id="list"></div>
+</div>
+
+<script>
+function relativeTime(isoString) {
+  const then = new Date(isoString).getTime();
+  const now = Date.now();
+  const diffSec = Math.floor((now - then) / 1000);
+  if (diffSec < 3600) return Math.max(1, Math.floor(diffSec / 60)) + "m ago";
+  if (diffSec < 86400) return Math.floor(diffSec / 3600) + "h ago";
+  return Math.floor(diffSec / 86400) + "d ago";
+}
+
+async function loadFeed() {
+  const statusEl = document.getElementById("status");
+  const listEl = document.getElementById("list");
+  try {
+    const res = await fetch("./feed.json", { cache: "no-store" });
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    const data = await res.json();
+    const items = data.items || [];
+
+    statusEl.textContent = items.length
+      ? `${items.length} items — updated ${relativeTime(data.generated_at)}`
+      : "No items found.";
+
+    items.forEach((item, i) => {
+      const row = document.createElement("div");
+      row.className = "row";
+      row.innerHTML = `
+        <div class="rank">${i + 1}.</div>
+        <div>
+          <div class="title"><a href="${item.link}" target="_blank" rel="noopener">${item.title}</a></div>
+          <div class="meta">${item.source} · ${relativeTime(item.published)}</div>
+        </div>
+      `;
+      listEl.appendChild(row);
+    });
+  } catch (err) {
+    statusEl.textContent = "Failed to load feed.json: " + err.message;
+  }
+}
+
+loadFeed();
+</script>
+
+</body>
+</html>

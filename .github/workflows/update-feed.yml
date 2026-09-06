@@ -1,0 +1,36 @@
+name: Update RSS Aggregator
+
+on:
+  schedule:
+    # Runs every hour. Adjust cron as you like (this is UTC).
+    - cron: "0 * * * *"
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install feedparser requests
+
+      - name: Run fetcher
+        run: python fetch_feeds.py
+
+      - name: Commit updated feed.json
+        run: |
+          git config user.name "feed-bot"
+          git config user.email "feed-bot@users.noreply.github.com"
+          git add feed.json
+          git diff --quiet --cached || git commit -m "Update feed.json [automated]"
+          git push
