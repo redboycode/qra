@@ -1,0 +1,179 @@
+{
+  "generated_at": "2026-09-06T07:31:56.932399+00:00",
+  "items": [
+    {
+      "title": "Achieving Extreme Efficiency through Specialized GPU Kernel Generation",
+      "link": "https://www.databricks.com/blog/achieving-extreme-efficiency-through-specialized-gpu-kernel-generation",
+      "source": "Databricks",
+      "published": "2026-09-04T20:00:00+00:00"
+    },
+    {
+      "title": "Five ways marketers can use Genie One",
+      "link": "https://www.databricks.com/blog/five-ways-marketers-can-use-genie-one",
+      "source": "Databricks",
+      "published": "2026-09-04T19:00:00+00:00"
+    },
+    {
+      "title": "Governance beyond security: knowledge, context & ontology on the lakehouse",
+      "link": "https://www.databricks.com/blog/governance-beyond-security-knowledge-context-ontology-lakehouse",
+      "source": "Databricks",
+      "published": "2026-09-03T20:20:00+00:00"
+    },
+    {
+      "title": "Building High-Quality and Trusted Data Products with Databricks",
+      "link": "https://www.databricks.com/blog/building-high-quality-and-trusted-data-products-databricks",
+      "source": "Databricks",
+      "published": "2026-09-03T19:55:00+00:00"
+    },
+    {
+      "title": "What is Data Transformation?",
+      "link": "https://www.databricks.com/blog/what-is-data-transformation",
+      "source": "Databricks",
+      "published": "2026-09-03T19:54:00+00:00"
+    },
+    {
+      "title": "ZGateway: Learnings from Putting a Proxy in Front of ZippyDB",
+      "link": "https://engineering.fb.com/2026/09/03/core-infra/zgateway-proxy-zippydb-meta/",
+      "source": "Engineering at Meta",
+      "published": "2026-09-03T16:00:20+00:00"
+    },
+    {
+      "title": "Southern Company’s SCOUT: Completing the Storm Intelligence Story",
+      "link": "https://www.databricks.com/blog/southern-companys-scout-completing-storm-intelligence-story",
+      "source": "Databricks",
+      "published": "2026-09-02T23:20:00+00:00"
+    },
+    {
+      "title": "Expanding Genie Agents: Deep analysis, file reasoning, and more",
+      "link": "https://www.databricks.com/blog/expanding-genie-agents-deep-analysis-file-reasoning-and-more",
+      "source": "Databricks",
+      "published": "2026-09-02T19:30:00+00:00"
+    },
+    {
+      "title": "An Organizational Second Brain: Building an AI That Learns From Experts",
+      "link": "https://engineering.fb.com/2026/09/02/ml-applications/organizational-second-brain-ai-learns-from-experts/",
+      "source": "Engineering at Meta",
+      "published": "2026-09-02T09:00:29+00:00"
+    },
+    {
+      "title": "Announcing the Databricks Big Book of AgentOps",
+      "link": "https://www.databricks.com/blog/announcing-databricks-big-book-agentops",
+      "source": "Databricks",
+      "published": "2026-09-02T01:30:00+00:00"
+    },
+    {
+      "title": "How the FDA is building a secure, AI-ready data foundation on Databricks for Government",
+      "link": "https://www.databricks.com/blog/how-fda-building-secure-ai-ready-data-foundation-databricks-government",
+      "source": "Databricks",
+      "published": "2026-09-01T21:45:00+00:00"
+    },
+    {
+      "title": "How we eliminated $1 million a year of wasted AI agent spend in one hour",
+      "link": "https://www.databricks.com/blog/how-we-eliminated-1-million-year-wasted-ai-agent-spend-one-hour",
+      "source": "Databricks",
+      "published": "2026-09-01T19:43:51+00:00"
+    },
+    {
+      "title": "MAPS: Netflix’s Multimodal Asset Personalization at Scale",
+      "link": "https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4",
+      "source": "Netflix TechBlog - Medium",
+      "published": "2026-08-28T16:01:02+00:00"
+    },
+    {
+      "title": "MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet",
+      "link": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet/",
+      "source": "Engineering at Meta",
+      "published": "2026-08-24T18:02:29+00:00"
+    },
+    {
+      "title": "MTIA 300: Meta’s First Training Chip with Built-in NICs and Communication-Offloading Engines",
+      "link": "https://engineering.fb.com/2026/08/24/networking-traffic/mtia-300-meta-training-chip-built-in-nics/",
+      "source": "Engineering at Meta",
+      "published": "2026-08-24T17:45:52+00:00"
+    },
+    {
+      "title": "A Tale of Two Flink Autoscalers",
+      "link": "https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4",
+      "source": "Netflix TechBlog - Medium",
+      "published": "2026-08-21T16:01:01+00:00"
+    },
+    {
+      "title": "How We’re Building Scam Alert on WhatsApp With End-to-End Encryption and Verifiability Guarantees",
+      "link": "https://engineering.fb.com/2026/08/12/security/how-were-building-scam-alert-whatsapp/",
+      "source": "Engineering at Meta",
+      "published": "2026-08-12T13:00:28+00:00"
+    },
+    {
+      "title": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…",
+      "link": "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4",
+      "source": "Netflix TechBlog - Medium",
+      "published": "2026-08-07T16:01:02+00:00"
+    },
+    {
+      "title": "From User Sequences to Scaling Laws: A Multi-Stage Architecture for Meta’s Ads Ranking",
+      "link": "https://engineering.fb.com/2026/08/05/ml-applications/from-user-sequences-to-scaling-laws-a-multi-stage-architecture-for-metas-ads-ranking/",
+      "source": "Engineering at Meta",
+      "published": "2026-08-05T19:20:20+00:00"
+    },
+    {
+      "title": "GEM Training: How Meta Doubled the Efficiency of Its LLM-Scale Ads Foundation Model",
+      "link": "https://engineering.fb.com/2026/08/03/ml-applications/training-gem-at-llm-scale-meta-ads-recommendation-foundation-model/",
+      "source": "Engineering at Meta",
+      "published": "2026-08-03T18:00:17+00:00"
+    },
+    {
+      "title": "Modeling Device Capabilities for Analytics",
+      "link": "https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4",
+      "source": "Netflix TechBlog - Medium",
+      "published": "2026-07-31T16:01:02+00:00"
+    },
+    {
+      "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
+      "link": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3?source=rss----2615bd06b42e---4",
+      "source": "Netflix TechBlog - Medium",
+      "published": "2026-07-30T20:10:15+00:00"
+    },
+    {
+      "title": "In-House LLM Serving at Netflix",
+      "link": "https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?source=rss----2615bd06b42e---4",
+      "source": "Netflix TechBlog - Medium",
+      "published": "2026-07-17T21:32:39+00:00"
+    },
+    {
+      "title": "Exploring Hierarchical Interest Representation For Meta Ads Deep Funnel Optimization",
+      "link": "https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/",
+      "source": "Engineering at Meta",
+      "published": "2026-07-15T17:00:52+00:00"
+    },
+    {
+      "title": "Building Service Topology at Scale: Architecture, Challenges, and Lessons Learned",
+      "link": "https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8?source=rss----2615bd06b42e---4",
+      "source": "Netflix TechBlog - Medium",
+      "published": "2026-07-13T22:44:11+00:00"
+    },
+    {
+      "title": "Modernizing the Meta Ads Service With an Open-Source Kernel Scheduler",
+      "link": "https://engineering.fb.com/2026/07/13/ml-applications/modernizing-the-meta-ads-service-with-an-open-source-kernel-scheduler/",
+      "source": "Engineering at Meta",
+      "published": "2026-07-13T16:00:50+00:00"
+    },
+    {
+      "title": "GenPage: Towards End-to-End Generative Homepage Construction at Netflix",
+      "link": "https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08?source=rss----2615bd06b42e---4",
+      "source": "Netflix TechBlog - Medium",
+      "published": "2026-06-29T13:01:02+00:00"
+    },
+    {
+      "title": "Toward More Controllable AI Video Editing: An Early Research Exploration at Netflix",
+      "link": "https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2?source=rss----2615bd06b42e---4",
+      "source": "Netflix TechBlog - Medium",
+      "published": "2026-06-23T00:31:01+00:00"
+    },
+    {
+      "title": "How Netflix Simplified Batch Compute with Kueue",
+      "link": "https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c?source=rss----2615bd06b42e---4",
+      "source": "Netflix TechBlog - Medium",
+      "published": "2026-06-22T21:35:01+00:00"
+    }
+  ]
+}
