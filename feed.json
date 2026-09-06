@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T08:23:14.781170+00:00",
+  "generated_at": "2026-09-06T08:35:42.950144+00:00",
   "items": [
     {
       "title": "XTX Markets commits £26m to boost pure maths research in UK universities",
@@ -116,10 +116,34 @@
       "published": "2026-08-28T10:24:17+00:00"
     },
     {
+      "title": "Tower Hosts Technical Seminar on Building Reliable Text-to-SQL Systems with LLMs",
+      "link": "https://tower-research.com/tower-hosts-technical-seminar-on-building-reliable-text-to-sql-systems-with-llms/",
+      "source": "Tower Research",
+      "published": "2026-08-28T02:30:00+00:00"
+    },
+    {
       "title": "ICML 2026: Paper reviews",
       "link": "https://www.gresearch.com/news/icml-2026-paper-reviews/",
       "source": "G-Research",
       "published": "2026-08-27T12:34:22+00:00"
+    },
+    {
+      "title": "Correlation, Noise, and the True (Statistical) Size of Financial Data",
+      "link": "https://sig.com/waves/posts/true-size-financial-data/",
+      "source": "SIG",
+      "published": "2026-08-27T00:00:00+00:00"
+    },
+    {
+      "title": "Risk Management in Quant Trading Strategies, Tools, and Insights",
+      "link": "https://sig.com/waves/posts/risk-management-quant-trading/",
+      "source": "SIG",
+      "published": "2026-08-27T00:00:00+00:00"
+    },
+    {
+      "title": "Why Invest in Early Quant Education?",
+      "link": "https://sig.com/waves/posts/early-quant-education/",
+      "source": "SIG",
+      "published": "2026-08-27T00:00:00+00:00"
     },
     {
       "title": "Meet the NextGen scholars: Mar",
@@ -146,6 +170,12 @@
       "published": "2026-08-21T11:47:10+00:00"
     },
     {
+      "title": "Employee Spotlight: Mathieu, Front-End Technical Lead",
+      "link": "https://tower-research.com/employee-spotlight-mathieu-front-end-technical-lead/",
+      "source": "Tower Research",
+      "published": "2026-08-20T12:30:00+00:00"
+    },
+    {
       "title": "Meet the NextGen scholars: Joshua",
       "link": "https://www.gresearch.com/news/meet-the-nextgen-scholars-joshua/",
       "source": "G-Research",
@@ -170,6 +200,12 @@
       "published": "2026-08-17T17:01:56+00:00"
     },
     {
+      "title": "Beyond Speed: Insights from Citi’s Panel on the Evolution of Alpha, Liquidity, and Trading Horizons",
+      "link": "https://tower-research.com/beyond-speed-insights-from-citis-panel-on-the-evolution-of-alpha-liquidity-and-trading-horizons/",
+      "source": "Tower Research",
+      "published": "2026-08-13T12:00:00+00:00"
+    },
+    {
       "title": "G-Research 2026 PhD prize winners: University of Cambridge",
       "link": "https://www.gresearch.com/news/g-research-2026-phd-prize-winners-university-of-cambridge/",
       "source": "G-Research",
@@ -182,10 +218,22 @@
       "published": "2026-08-11T18:14:56+00:00"
     },
     {
+      "title": "Advances in Time-Series Forecasting with Andrew Wilson",
+      "link": "https://tower-research.com/advances-in-time-series-forecasting-with-andrew-wilson/",
+      "source": "Tower Research",
+      "published": "2026-08-11T12:00:00+00:00"
+    },
+    {
       "title": "Meet the NextGen scholars: Daniel",
       "link": "https://www.gresearch.com/news/meet-the-nextgen-scholars-daniel/",
       "source": "G-Research",
       "published": "2026-08-11T09:30:08+00:00"
+    },
+    {
+      "title": "Tower Connects with the Global AI Community at ICML 2026",
+      "link": "https://tower-research.com/tower-connects-with-the-global-ai-community-at-icml-2026/",
+      "source": "Tower Research",
+      "published": "2026-08-06T12:30:00+00:00"
     },
     {
       "title": "Imperial College London adds G-Research to Circle of Benefactors",
@@ -212,6 +260,12 @@
       "published": "2026-08-04T15:22:18+00:00"
     },
     {
+      "title": "NLP for Finance: Use Cases, Technical Challenges, and What It Takes to Build Real-World Systems",
+      "link": "https://tower-research.com/nlp-for-finance-use-cases-technical-challenges-and-what-it-takes-to-build-real-world-systems/",
+      "source": "Tower Research",
+      "published": "2026-08-04T12:30:00+00:00"
+    },
+    {
       "title": "Will AI Make Firms Bigger or Smaller?",
       "link": "https://www.man.com/insights/will-ai-make-firms-bigger-or-smaller",
       "source": "Man Group",
@@ -228,6 +282,18 @@
       "link": "https://www.gresearch.com/news/inspiring-the-next-generation-of-mathematicians/",
       "source": "G-Research",
       "published": "2026-07-30T13:31:07+00:00"
+    },
+    {
+      "title": "Supporting AI-Powered Computer Science Education Across India",
+      "link": "https://tower-research.com/supporting-ai-powered-computer-science-education-across-india/",
+      "source": "Tower Research",
+      "published": "2026-07-28T02:30:00+00:00"
+    },
+    {
+      "title": "The American Baby Company: A New Model for Fertility Care",
+      "link": "https://tower-research.com/the-american-baby-company-a-new-model-for-fertility-care/",
+      "source": "Tower Research",
+      "published": "2026-07-23T12:00:00+00:00"
     },
     {
       "title": "Was 2026 the best World Cup ever played?",
@@ -320,10 +386,22 @@
       "published": "2026-06-17T20:58:21+00:00"
     },
     {
+      "title": "Europe’s Rates Markets Need More Than Competition. They Need Conviction.",
+      "link": "https://tower-research.com/europes-rates-markets-need-more-than-competition-they-need-conviction/",
+      "source": "Tower Research",
+      "published": "2026-06-16T12:00:00+00:00"
+    },
+    {
       "title": "Using OxCaml to implement type-safe reference counting between OCaml and Python",
       "link": "https://blog.janestreet.com/oxcaml-typesafe-reference-counting-python/",
       "source": "Jane Street",
       "published": "2026-06-15T00:00:00+00:00"
+    },
+    {
+      "title": "Tower Connects with the Python Community at PyCon US 2026",
+      "link": "https://tower-research.com/tower-connects-with-the-python-community-at-pycon-us-2026/",
+      "source": "Tower Research",
+      "published": "2026-06-11T12:00:00+00:00"
     },
     {
       "title": "Formal methods and the future of programming",
@@ -444,6 +522,12 @@
       "link": "https://blog.janestreet.com/fun-with-algebraic-effects-hardcaml/",
       "source": "Jane Street",
       "published": "2026-01-06T00:00:00+00:00"
+    },
+    {
+      "title": "The Concentration Game: Understanding Portfolio Effects of U.S. Equity Market Concentration",
+      "link": "https://www.deshaw.com/library/concentration-game",
+      "source": "DE Shaw",
+      "published": "2026-01-01T00:00:00+00:00"
     },
     {
       "title": "Research at scale: Orchestrating ML for systematic trading",
@@ -626,6 +710,24 @@
       "published": "2025-01-02T00:00:00+00:00"
     },
     {
+      "title": "Worth Its Weight? Assessing Gold’s Portfolio Utility",
+      "link": "https://www.deshaw.com/library/worth-its-weight",
+      "source": "DE Shaw",
+      "published": "2025-01-01T00:00:00+00:00"
+    },
+    {
+      "title": "Breaking the Language Barrier: PJRmi and Python-Java Interoperability",
+      "link": "https://www.deshaw.com/library/pjrmi",
+      "source": "DE Shaw",
+      "published": "2025-01-01T00:00:00+00:00"
+    },
+    {
+      "title": "Imbalance Sheet: Supply, Demand, and S&P 500®Financing",
+      "link": "https://www.deshaw.com/library/imbalance-sheet",
+      "source": "DE Shaw",
+      "published": "2025-01-01T00:00:00+00:00"
+    },
+    {
       "title": "Developer education at Jane Street",
       "link": "https://blog.janestreet.com/developer-education-at-jane-street-index/",
       "source": "Jane Street",
@@ -672,6 +774,12 @@
       "link": "https://www.hudsonrivertrading.com/hrtbeat/building-robust-codebases-with-pythons-type-annotations/",
       "source": "HRT",
       "published": "2024-02-16T13:54:08+00:00"
+    },
+    {
+      "title": "Tunnel Vision: 2024 Inflation and Growth Forecasts in Historical Perspective",
+      "link": "https://www.deshaw.com/library/tunnel-vision",
+      "source": "DE Shaw",
+      "published": "2024-01-01T00:00:00+00:00"
     },
     {
       "title": "How Our Engineers Hot-Patched a Third Party Binary Library",
@@ -752,6 +860,18 @@
       "published": "2023-01-09T00:00:00+00:00"
     },
     {
+      "title": "Machine Teaching: What I Learned From My Optimizer",
+      "link": "https://www.deshaw.com/library/machine-teaching",
+      "source": "DE Shaw",
+      "published": "2023-01-01T00:00:00+00:00"
+    },
+    {
+      "title": "Factored In: Carbon Reduction and Active Exposure in U.S. Equity Portfolios",
+      "link": "https://www.deshaw.com/library/factored-in",
+      "source": "DE Shaw",
+      "published": "2023-01-01T00:00:00+00:00"
+    },
+    {
       "title": "Intern Spotlight: 2022 HRT AI Labs Summer Projects",
       "link": "https://www.hudsonrivertrading.com/hrtbeat/intern-spotlight-2022-hrt-ai-labs-summer-projects/",
       "source": "HRT",
@@ -812,6 +932,18 @@
       "published": "2022-01-11T00:00:00+00:00"
     },
     {
+      "title": "Anchors that Stay: The Impact of U.S. Federal Reserve Policy on Inflation Expectations During the 2022 Inflation Surge",
+      "link": "https://www.deshaw.com/library/anchors-that-stay",
+      "source": "DE Shaw",
+      "published": "2022-01-01T00:00:00+00:00"
+    },
+    {
+      "title": "Projecting the Structure of U.S. Treasury Debt",
+      "link": "https://www.deshaw.com/library/projecting-the-structure-of-us-treasury-debt",
+      "source": "DE Shaw",
+      "published": "2022-01-01T00:00:00+00:00"
+    },
+    {
       "title": "Hiring a Developer Educator",
       "link": "https://blog.janestreet.com/hiring-a-developer-educator/",
       "source": "Jane Street",
@@ -834,6 +966,42 @@
       "link": "https://blog.janestreet.com/looking-for-a-developer-experience-engineer-index/",
       "source": "Jane Street",
       "published": "2021-06-15T00:00:00+00:00"
+    },
+    {
+      "title": "Pyflyby: Utilities and Extensions for Improving Productivity in Python",
+      "link": "https://www.deshaw.com/library/desco-quansight-improving-jupyter-efficiency",
+      "source": "DE Shaw",
+      "published": "2021-01-01T00:00:00+00:00"
+    },
+    {
+      "title": "Assessing U.S. Mortgage-Backed Credit Stress in 2020",
+      "link": "https://www.deshaw.com/library/assessing-us-mortgage-2020",
+      "source": "DE Shaw",
+      "published": "2021-01-01T00:00:00+00:00"
+    },
+    {
+      "title": "Analyzing European Bank Non-Core Assets",
+      "link": "https://www.deshaw.com/library/analyzing-european-bank-non-core-assets",
+      "source": "DE Shaw",
+      "published": "2021-01-01T00:00:00+00:00"
+    },
+    {
+      "title": "Revisiting Stock-Bond Correlation",
+      "link": "https://www.deshaw.com/library/market-insight-revisiting-stock-bond-correlation",
+      "source": "DE Shaw",
+      "published": "2021-01-01T00:00:00+00:00"
+    },
+    {
+      "title": "A Conversation: Fiscal Expansion, Monetary Policy, and Inflation",
+      "link": "https://www.deshaw.com/library/conversation-fiscal-expansion-policy-and-inflation#play",
+      "source": "DE Shaw",
+      "published": "2021-01-01T00:00:00+00:00"
+    },
+    {
+      "title": "Versioned HDF5: A Python Library for Versioning Array Data",
+      "link": "https://www.deshaw.com/library/desco-quansight-introducing-versioned-hdf5",
+      "source": "DE Shaw",
+      "published": "2021-01-01T00:00:00+00:00"
     },
     {
       "title": "Growing the Hardcaml toolset",
