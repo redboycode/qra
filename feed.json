@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T08:02:26.341731+00:00",
+  "generated_at": "2026-09-06T08:10:26.093545+00:00",
   "items": [
     {
       "title": "XTX Markets commits £26m to boost pure maths research in UK universities",
@@ -96,6 +96,18 @@
       "link": "https://www.twosigma.com/articles/meet-the-phd-fellows-spencer-compton/",
       "source": "Articles Archive - Two Sigma",
       "published": "2026-09-01T23:00:00+00:00"
+    },
+    {
+      "title": "Today’s Economy Mirrors Eve of 1997 Asian Financial Crisis",
+      "link": "https://www.man.com/insights/views-from-the-floor-2026-1-Sept",
+      "source": "Man Group Insights",
+      "published": "2026-09-01T00:00:00+00:00"
+    },
+    {
+      "title": "Professor Mia Bennett, on the Geo-Economic Future of the Arctic",
+      "link": "https://www.man.com/insights/ri-podcast-mia-bennett",
+      "source": "Man Group Insights",
+      "published": "2026-09-01T00:00:00+00:00"
     },
     {
       "title": "G-Research July 2026 grant winners",
@@ -200,6 +212,18 @@
       "published": "2026-08-04T15:22:18+00:00"
     },
     {
+      "title": "Will AI Make Firms Bigger or Smaller?",
+      "link": "https://www.man.com/insights/will-ai-make-firms-bigger-or-smaller",
+      "source": "Man Group Insights",
+      "published": "2026-08-01T00:00:00+00:00"
+    },
+    {
+      "title": "Portable Alpha: Ask the Hard Questions",
+      "link": "https://www.man.com/insights/portable-alpha-ask-the-hard-questions",
+      "source": "Man Group Insights",
+      "published": "2026-08-01T00:00:00+00:00"
+    },
+    {
       "title": "Inspiring the next generation of mathematicians",
       "link": "https://www.gresearch.com/news/inspiring-the-next-generation-of-mathematicians/",
       "source": "Latest News & Insights | From Our Experts | G-Research",
@@ -234,6 +258,54 @@
       "link": "https://www.twosigma.com/articles/out-of-the-group-stage-and-into-the-knockouts/",
       "source": "Articles Archive - Two Sigma",
       "published": "2026-07-01T21:12:28+00:00"
+    },
+    {
+      "title": "The Yield Trap Hiding in Junior Bank Bonds",
+      "link": "https://www.man.com/insights/views-from-the-floor-2026-28-July",
+      "source": "Man Group Insights",
+      "published": "2026-07-01T00:00:00+00:00"
+    },
+    {
+      "title": "The VIX Isn't Worried, But Maybe It Should Be",
+      "link": "https://www.man.com/insights/views-from-the-floor-2026-21-July",
+      "source": "Man Group Insights",
+      "published": "2026-07-01T00:00:00+00:00"
+    },
+    {
+      "title": "Looking for AI Alpha Without AI Beta",
+      "link": "https://www.man.com/insights/the-early-view-july-2026",
+      "source": "Man Group Insights",
+      "published": "2026-07-01T00:00:00+00:00"
+    },
+    {
+      "title": "Andy Burnham, Can You Hear Me?",
+      "link": "https://www.man.com/insights/road-ahead-andy-burnham",
+      "source": "Man Group Insights",
+      "published": "2026-07-01T00:00:00+00:00"
+    },
+    {
+      "title": "Chips Down, Then What?",
+      "link": "https://www.man.com/insights/views-from-the-floor-2026-14-july",
+      "source": "Man Group Insights",
+      "published": "2026-07-01T00:00:00+00:00"
+    },
+    {
+      "title": "James Talbot, Bank of England, on Climate Shocks and Monetary Policy",
+      "link": "https://www.man.com/insights/ri-podcast-james-talbot",
+      "source": "Man Group Insights",
+      "published": "2026-07-01T00:00:00+00:00"
+    },
+    {
+      "title": "Technology Outlook H2 2026: Still Dancing, But Moving Closer to the Door?",
+      "link": "https://www.man.com/insights/h2-2026-technology-outlook",
+      "source": "Man Group Insights",
+      "published": "2026-07-01T00:00:00+00:00"
+    },
+    {
+      "title": "Cecilia Tam on the IEA's 2026 World Energy Investment Report",
+      "link": "https://www.man.com/insights/ri-podcast-cecilia-tam",
+      "source": "Man Group Insights",
+      "published": "2026-07-01T00:00:00+00:00"
     },
     {
       "title": "Engineering the Agentic SDLC",
@@ -302,6 +374,12 @@
       "published": "2026-04-08T00:00:00+00:00"
     },
     {
+      "title": "Deglobalisation: Insights on a Regime Shift",
+      "link": "https://www.man.com/insights/global-regime-shift",
+      "source": "Man Group Insights",
+      "published": "2026-04-01T00:00:00+00:00"
+    },
+    {
       "title": "I Did Not Predict What Is Going on in Privates",
       "link": "https://www.aqr.com/Insights/Perspectives/I-Did-Not-Predict-What-is-Going-on-in-Privates",
       "source": "AQR Perspectives",
@@ -350,6 +428,12 @@
       "published": "2026-02-05T00:00:00+00:00"
     },
     {
+      "title": "The AI Bubble: Hidden Risks and Opportunities",
+      "link": "https://www.man.com/insights/the-ai-bubble",
+      "source": "Man Group Insights",
+      "published": "2026-02-01T00:00:00+00:00"
+    },
+    {
       "title": "Real-Time Trading Dashboards with Databricks Apps and Dash",
       "link": "https://www.optiver.com/insights/technology-blog/real-time-trading-dashboards-with-databricks-apps-and-dash/",
       "source": "Optiver Technology Blog",
@@ -392,6 +476,12 @@
       "published": "2025-11-24T00:00:00+00:00"
     },
     {
+      "title": "Gold: Bugs, Bears and Myths",
+      "link": "https://www.man.com/insights/gold-bugs-bears-myths",
+      "source": "Man Group Insights",
+      "published": "2025-11-01T00:00:00+00:00"
+    },
+    {
       "title": "HeraclesQL: A Python DSL for Writing Alerts",
       "link": "https://www.hudsonrivertrading.com/hrtbeat/heraclesql-a-python-dsl-for-writing-alerts/",
       "source": "Hudson River Trading (HRTBeat)",
@@ -402,6 +492,18 @@
       "link": "https://www.hudsonrivertrading.com/hrtbeat/engineering-and-interviewing-at-hrt/",
       "source": "Hudson River Trading (HRTBeat)",
       "published": "2025-10-02T19:28:50+00:00"
+    },
+    {
+      "title": "What Are We Buying When We Buy Gold?",
+      "link": "https://www.man.com/insights/what-are-we-buying-when-we-buy-gold",
+      "source": "Man Group Insights",
+      "published": "2025-10-01T00:00:00+00:00"
+    },
+    {
+      "title": "(De)-Carbonara: A Better Recipe for Reducing Emissions",
+      "link": "https://www.man.com/insights/reducing-emissions",
+      "source": "Man Group Insights",
+      "published": "2025-10-01T00:00:00+00:00"
     },
     {
       "title": "Why DevEx matters to Optiver",
@@ -432,6 +534,12 @@
       "link": "https://www.hudsonrivertrading.com/hrtbeat/inside-hrts-python-fork/",
       "source": "Hudson River Trading (HRTBeat)",
       "published": "2025-08-08T14:57:48+00:00"
+    },
+    {
+      "title": "Capital Market Assumptions: Redefined",
+      "link": "https://www.man.com/insights/captial-market-assumptions",
+      "source": "Man Group Insights",
+      "published": "2025-08-01T00:00:00+00:00"
     },
     {
       "title": "A Higgs-bugson in the Linux Kernel",
