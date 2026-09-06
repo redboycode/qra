@@ -30,9 +30,38 @@
     padding: 16px 24px 96px;
   }
   #status {
-    padding: 4px 0 18px;
+    padding: 4px 0 14px;
     color: #8b8f96;
     font-size: 13px;
+  }
+  .controls {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-bottom: 22px;
+  }
+  #search, #sourceFilter {
+    background: #1a1f24;
+    border: 1px solid #2a3038;
+    color: #f5f5f2;
+    border-radius: 6px;
+    padding: 9px 12px;
+    font-size: 13.5px;
+    font-family: inherit;
+  }
+  #search {
+    flex: 1;
+    min-width: 200px;
+    max-width: 360px;
+  }
+  #search::placeholder { color: #6b6f76; }
+  #search:focus, #sourceFilter:focus {
+    outline: none;
+    border-color: #ff8e9e;
+  }
+  #sourceFilter {
+    min-width: 170px;
+    cursor: pointer;
   }
   .batch {
     display: grid;
@@ -85,6 +114,12 @@
 <div class="header">Quant <span>Blog</span> Aggregator</div>
 <div class="container">
   <div id="status">Loading feed.json…</div>
+  <div class="controls">
+    <input type="search" id="search" placeholder="Search titles…" autocomplete="off">
+    <select id="sourceFilter">
+      <option value="">All sources</option>
+    </select>
+  </div>
   <div id="list"></div>
   <div id="sentinel"></div>
 </div>
@@ -169,16 +204,20 @@ function buildCard(item) {
 }
 
 let allItems = [];
+let visibleItems = [];
 let loadedCount = 0;
 let numColumns = 4;
+let generatedAt = null;
 
 const listEl = document.getElementById("list");
 const statusEl = document.getElementById("status");
 const sentinelEl = document.getElementById("sentinel");
+const searchEl = document.getElementById("search");
+const sourceFilterEl = document.getElementById("sourceFilter");
 
 function renderNextBatch() {
   const batchSize = numColumns * 10;
-  const slice = allItems.slice(loadedCount, loadedCount + batchSize);
+  const slice = visibleItems.slice(loadedCount, loadedCount + batchSize);
   if (slice.length === 0) return;
 
   const batchEl = document.createElement("div");
@@ -194,10 +233,59 @@ const observer = new IntersectionObserver(
   (entries) => {
     if (!entries[0].isIntersecting) return;
     renderNextBatch();
-    if (loadedCount >= allItems.length) observer.disconnect();
+    if (loadedCount >= visibleItems.length) observer.disconnect();
   },
   { rootMargin: "600px" }
 );
+
+function populateSourceFilter() {
+  const sources = [...new Set(allItems.map((item) => item.source))].sort((a, b) => a.localeCompare(b));
+  sources.forEach((source) => {
+    const opt = document.createElement("option");
+    opt.value = source;
+    opt.textContent = source;
+    sourceFilterEl.appendChild(opt);
+  });
+}
+
+function applyFilters() {
+  const query = searchEl.value.trim().toLowerCase();
+  const source = sourceFilterEl.value;
+  visibleItems = allItems.filter((item) => {
+    if (source && item.source !== source) return false;
+    if (query && !(item.title || "").toLowerCase().includes(query)) return false;
+    return true;
+  });
+}
+
+function resetAndRender() {
+  applyFilters();
+  observer.disconnect();
+  listEl.innerHTML = "";
+  loadedCount = 0;
+
+  if (!allItems.length) {
+    statusEl.textContent = "No items found.";
+  } else if (!visibleItems.length) {
+    statusEl.textContent = `No matches in ${allItems.length} items.`;
+  } else if (visibleItems.length === allItems.length) {
+    statusEl.textContent = `${allItems.length} items — updated ${relativeTime(generatedAt)}`;
+  } else {
+    statusEl.textContent = `${visibleItems.length} of ${allItems.length} items match`;
+  }
+
+  renderNextBatch();
+  if (loadedCount < visibleItems.length) {
+    observer.observe(sentinelEl);
+  }
+}
+
+let searchDebounce;
+searchEl.addEventListener("input", () => {
+  clearTimeout(searchDebounce);
+  searchDebounce = setTimeout(resetAndRender, 150);
+});
+sourceFilterEl.addEventListener("change", resetAndRender);
 
 async function loadFeed() {
   try {
@@ -205,16 +293,11 @@ async function loadFeed() {
     if (!res.ok) throw new Error("HTTP " + res.status);
     const data = await res.json();
     allItems = data.items || [];
+    generatedAt = data.generated_at;
     numColumns = computeColumns();
 
-    statusEl.textContent = allItems.length
-      ? `${allItems.length} items — updated ${relativeTime(data.generated_at)}`
-      : "No items found.";
-
-    renderNextBatch();
-    if (loadedCount < allItems.length) {
-      observer.observe(sentinelEl);
-    }
+    populateSourceFilter();
+    resetAndRender();
   } catch (err) {
     statusEl.textContent = "Failed to load feed.json: " + err.message;
   }
