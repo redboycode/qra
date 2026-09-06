@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T11:54:20.973785+00:00",
+  "generated_at": "2026-09-06T12:51:51.814007+00:00",
   "items": [
     {
       "title": "XTX Markets commits £26m to boost pure maths research in UK universities",
@@ -284,6 +284,12 @@
       "published": "2026-07-30T13:31:07+00:00"
     },
     {
+      "title": "G-Research June 2026 grant winners",
+      "link": "https://www.gresearch.com/news/g-research-june-2026-grant-winners/",
+      "source": "G-Research",
+      "published": "2026-07-29T15:03:43+00:00"
+    },
+    {
       "title": "Supporting AI-Powered Computer Science Education Across India",
       "link": "https://tower-research.com/supporting-ai-powered-computer-science-education-across-india/",
       "source": "Tower Research",
@@ -320,10 +326,28 @@
       "published": "2026-07-08T00:00:00+00:00"
     },
     {
+      "title": "G-Research partners with ELLIS to support the next generation of European AI researchers",
+      "link": "https://www.gresearch.com/news/g-research-partners-with-ellis-to-support-the-next-generation-of-european-ai-researchers/",
+      "source": "G-Research",
+      "published": "2026-07-02T14:57:20+00:00"
+    },
+    {
+      "title": "Meet the NextGen scholars: Nail",
+      "link": "https://www.gresearch.com/news/meet-the-nextgen-scholars-nail/",
+      "source": "G-Research",
+      "published": "2026-07-02T11:59:15+00:00"
+    },
+    {
       "title": "Out of the Group Stage and into the Knockouts",
       "link": "https://www.twosigma.com/articles/out-of-the-group-stage-and-into-the-knockouts/",
       "source": "Two Sigma",
       "published": "2026-07-01T21:12:28+00:00"
+    },
+    {
+      "title": "G-Research 2026 PhD prize winners: University of Oxford",
+      "link": "https://www.gresearch.com/news/g-research-2026-phd-prize-winners-university-of-oxford/",
+      "source": "G-Research",
+      "published": "2026-07-01T15:48:37+00:00"
     },
     {
       "title": "The Yield Trap Hiding in Junior Bank Bonds",
@@ -398,6 +422,18 @@
       "published": "2026-06-15T00:00:00+00:00"
     },
     {
+      "title": "G-Research May 2026 grant winners",
+      "link": "https://www.gresearch.com/news/g-research-may-2026-grant-winners/",
+      "source": "G-Research",
+      "published": "2026-06-12T12:33:18+00:00"
+    },
+    {
+      "title": "Will 2026 be the Best World Cup Yet? We Built a Model to Find Out",
+      "link": "https://www.twosigma.com/articles/will-2026-be-the-best-world-cup-yet-we-built-a-model-to-find-out/",
+      "source": "Two Sigma",
+      "published": "2026-06-11T19:06:11+00:00"
+    },
+    {
       "title": "Tower Connects with the Python Community at PyCon US 2026",
       "link": "https://tower-research.com/tower-connects-with-the-python-community-at-pycon-us-2026/",
       "source": "Tower Research",
@@ -410,10 +446,70 @@
       "published": "2026-06-07T00:00:00+00:00"
     },
     {
+      "title": "ICLR 2026: Paper reviews",
+      "link": "https://www.gresearch.com/news/iclr-2026-paper-reviews/",
+      "source": "G-Research",
+      "published": "2026-06-02T16:21:06+00:00"
+    },
+    {
+      "title": "Puzzle: Wacky Wiring",
+      "link": "https://www.twosigma.com/articles/puzzle-wacky-wiring/",
+      "source": "Two Sigma",
+      "published": "2026-05-29T16:20:23+00:00"
+    },
+    {
+      "title": "Meet the NextGen scholars: Matt",
+      "link": "https://www.gresearch.com/news/meet-the-nextgen-scholars-matt/",
+      "source": "G-Research",
+      "published": "2026-05-27T12:30:01+00:00"
+    },
+    {
+      "title": "G-Research supports young mathematicians at King’s College London Mathematics School",
+      "link": "https://www.gresearch.com/news/g-research-partners-with-kings-maths-school-to-support-young-mathematicians/",
+      "source": "G-Research",
+      "published": "2026-05-26T11:48:22+00:00"
+    },
+    {
       "title": "strace-ui, Bonsai_term, and the TUI renaissance",
       "link": "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/",
       "source": "Jane Street",
       "published": "2026-05-26T00:00:00+00:00"
+    },
+    {
+      "title": "G-Research April 2026 grant winners",
+      "link": "https://www.gresearch.com/news/g-research-april-2026-grant-winners/",
+      "source": "G-Research",
+      "published": "2026-05-21T16:26:31+00:00"
+    },
+    {
+      "title": "ACM CAIS 2026: What to Watch at the Inaugural Conference on AI & Agentic Systems",
+      "link": "https://www.twosigma.com/articles/acm-cais-2026-what-to-watch-at-the-inaugural-conference-on-ai-agentic-systems/",
+      "source": "Two Sigma",
+      "published": "2026-05-20T17:18:39+00:00"
+    },
+    {
+      "title": "Building a code review tool: The LLM patterns that actually work",
+      "link": "https://www.gresearch.com/news/building-a-code-review-tool-the-llm-patterns-that-actually-work/",
+      "source": "G-Research",
+      "published": "2026-05-13T11:22:13+00:00"
+    },
+    {
+      "title": "A Spanish Major, an Art Historian, and an Astrophysicist Walk Into a Hedge Fund",
+      "link": "https://www.twosigma.com/articles/a-spanish-major-the-art-historian-and-the-astrophysicist-walk-into-a-hedge-fund/",
+      "source": "Two Sigma",
+      "published": "2026-05-12T17:24:53+00:00"
+    },
+    {
+      "title": "G-Research 2026 PhD prize winners: Columbia University",
+      "link": "https://www.gresearch.com/news/g-research-2026-phd-prize-winners-columbia-university/",
+      "source": "G-Research",
+      "published": "2026-05-08T14:14:08+00:00"
+    },
+    {
+      "title": "The Skill Nobody Teaches You: Knowing When To Stop",
+      "link": "https://www.twosigma.com/articles/the-skill-nobody-teaches-you-knowing-when-to-stop/",
+      "source": "Two Sigma",
+      "published": "2026-05-08T14:07:59+00:00"
     },
     {
       "title": "Platform engineering, end to end: a conversation with Pat Cooney",
@@ -428,6 +524,18 @@
       "published": "2026-05-03T00:00:00+00:00"
     },
     {
+      "title": "Puzzle: Wordle Hack",
+      "link": "https://www.twosigma.com/articles/puzzle-wordle-hack/",
+      "source": "Two Sigma",
+      "published": "2026-04-30T13:55:34+00:00"
+    },
+    {
+      "title": "G-Research and UCL formalise PhD partnership at signing ceremony",
+      "link": "https://www.gresearch.com/news/g-research-and-the-university-college-london-mark-new-phd-scholarships-with-inaugural-signing-ceremony/",
+      "source": "G-Research",
+      "published": "2026-04-29T08:22:34+00:00"
+    },
+    {
       "title": "Pushing Postgres beyond storage",
       "link": "https://www.optiver.com/insights/technology-blog/pushing-postgres-beyond-storage/",
       "source": "Optiver",
@@ -440,10 +548,64 @@
       "published": "2026-04-27T00:00:00+00:00"
     },
     {
+      "title": "If Walls Could Talk",
+      "link": "https://www.twosigma.com/articles/if-walls-could-talk/",
+      "source": "Two Sigma",
+      "published": "2026-04-23T13:48:07+00:00"
+    },
+    {
+      "title": "From Code to Competition: Inside Two Sigma’s Commitment to NYC FIRST Robotics",
+      "link": "https://www.twosigma.com/articles/two-sigmas-commitment-to-nyc-first-robotics/",
+      "source": "Two Sigma",
+      "published": "2026-04-22T14:19:54+00:00"
+    },
+    {
+      "title": "G-Research March 2026 grant winners",
+      "link": "https://www.gresearch.com/news/g-research-march-2026-grant-winners/",
+      "source": "G-Research",
+      "published": "2026-04-22T09:11:17+00:00"
+    },
+    {
       "title": "Using group theory to explore the space of positional encodings for attention",
       "link": "https://blog.janestreet.com/using-group-theory-to-explore-positional-encodings-attention/",
       "source": "Jane Street",
       "published": "2026-04-22T00:00:00+00:00"
+    },
+    {
+      "title": "Puzzle Solutions: Q1 2026",
+      "link": "https://www.twosigma.com/articles/puzzle-solutions-q1-2026/",
+      "source": "Two Sigma",
+      "published": "2026-04-20T20:52:31+00:00"
+    },
+    {
+      "title": "How New Seekers Summit Kick-Started One Quantitative Researcher’s Career at Two Sigma",
+      "link": "https://www.twosigma.com/articles/how-new-seekers-summit-kick-started-one-quantitative-researchers-career-at-two-sigma/",
+      "source": "Two Sigma",
+      "published": "2026-04-16T16:21:09+00:00"
+    },
+    {
+      "title": "Meet the NextGen scholars: Rohan",
+      "link": "https://www.gresearch.com/news/meet-the-nextgen-scholars-rohan/",
+      "source": "G-Research",
+      "published": "2026-04-16T13:13:51+00:00"
+    },
+    {
+      "title": "Meet the NextGen scholars: Tobias",
+      "link": "https://www.gresearch.com/news/meet-the-nextgen-scholars-tobias/",
+      "source": "G-Research",
+      "published": "2026-04-16T13:12:46+00:00"
+    },
+    {
+      "title": "Meet the NextGen scholars: Pedro",
+      "link": "https://www.gresearch.com/news/meet-the-nextgen-scholars-pedro/",
+      "source": "G-Research",
+      "published": "2026-04-16T13:10:36+00:00"
+    },
+    {
+      "title": "Over Coffee With Foundational Data Manager Candi Coe, PhD",
+      "link": "https://www.twosigma.com/articles/over-coffee-with-foundational-data-manager-candi-coe-phd/",
+      "source": "Two Sigma",
+      "published": "2026-04-08T19:17:20+00:00"
     },
     {
       "title": "A Positive Stock-Bond Correlation Is a Terrible Reason to Add More Equity Risk to Your Portfolio",
@@ -452,16 +614,58 @@
       "published": "2026-04-08T00:00:00+00:00"
     },
     {
+      "title": "4 Mind-Sharpening Games We Love at Two Sigma",
+      "link": "https://www.twosigma.com/articles/4-mind-sharpening-games-we-love-at-two-sigma/",
+      "source": "Two Sigma",
+      "published": "2026-04-01T14:18:35+00:00"
+    },
+    {
       "title": "Deglobalisation: Insights on a Regime Shift",
       "link": "https://www.man.com/insights/global-regime-shift",
       "source": "Man Group",
       "published": "2026-04-01T00:00:00+00:00"
     },
     {
+      "title": "Puzzle: Resume Play",
+      "link": "https://www.twosigma.com/articles/puzzle-resume-play/",
+      "source": "Two Sigma",
+      "published": "2026-03-26T18:22:06+00:00"
+    },
+    {
+      "title": "G-Research February 2026 grant winners",
+      "link": "https://www.gresearch.com/news/g-research-february-2026-grant-winners/",
+      "source": "G-Research",
+      "published": "2026-03-26T17:18:37+00:00"
+    },
+    {
+      "title": "Meet the NextGen scholars: April",
+      "link": "https://www.gresearch.com/news/meet-the-nextgen-scholars-april/",
+      "source": "G-Research",
+      "published": "2026-03-25T16:06:12+00:00"
+    },
+    {
+      "title": "Meet the NextGen scholars: Dayyán",
+      "link": "https://www.gresearch.com/news/meet-the-nextgen-scholars-dayyan/",
+      "source": "G-Research",
+      "published": "2026-03-25T16:04:32+00:00"
+    },
+    {
+      "title": "Meet the NextGen scholars: Emily",
+      "link": "https://www.gresearch.com/news/meet-the-nextgen-scholars-emily/",
+      "source": "G-Research",
+      "published": "2026-03-25T16:02:31+00:00"
+    },
+    {
       "title": "I Did Not Predict What Is Going on in Privates",
       "link": "https://www.aqr.com/Insights/Perspectives/I-Did-Not-Predict-What-is-Going-on-in-Privates",
       "source": "AQR",
       "published": "2026-03-25T00:00:00+00:00"
+    },
+    {
+      "title": "5 Career Myths From Women in Engineering",
+      "link": "https://www.twosigma.com/articles/5-career-myths-from-women-in-engineering/",
+      "source": "Two Sigma",
+      "published": "2026-03-17T13:28:39+00:00"
     },
     {
       "title": "Designing a SystemVerilog Language Server",
@@ -476,10 +680,22 @@
       "published": "2026-03-01T00:00:00+00:00"
     },
     {
+      "title": "Puzzle: Coffee Spill",
+      "link": "https://www.twosigma.com/articles/puzzle-coffee-spill/",
+      "source": "Two Sigma",
+      "published": "2026-02-25T19:37:08+00:00"
+    },
+    {
       "title": "Can you reverse engineer our neural network?",
       "link": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
       "source": "Jane Street",
       "published": "2026-02-24T00:00:00+00:00"
+    },
+    {
+      "title": "G-Research January 2026 grant winners",
+      "link": "https://www.gresearch.com/news/g-research-january-2026-grant-winners/",
+      "source": "G-Research",
+      "published": "2026-02-16T13:40:58+00:00"
     },
     {
       "title": "UI as a Systems Problem",
@@ -512,10 +728,130 @@
       "published": "2026-02-01T00:00:00+00:00"
     },
     {
+      "title": "NeurIPS paper reviews 2025 #14",
+      "link": "https://www.gresearch.com/news/neurips-paper-reviews-2025-14/",
+      "source": "G-Research",
+      "published": "2026-01-30T17:31:16+00:00"
+    },
+    {
+      "title": "NeurIPS paper reviews 2025 #13",
+      "link": "https://www.gresearch.com/news/neurips-paper-reviews-2025-13/",
+      "source": "G-Research",
+      "published": "2026-01-30T17:28:17+00:00"
+    },
+    {
+      "title": "NeurIPS paper reviews 2025 #12",
+      "link": "https://www.gresearch.com/news/neurips-paper-reviews-2025-12/",
+      "source": "G-Research",
+      "published": "2026-01-30T17:24:45+00:00"
+    },
+    {
+      "title": "NeurIPS paper reviews 2025 #11",
+      "link": "https://www.gresearch.com/news/neurips-paper-reviews-2025-11/",
+      "source": "G-Research",
+      "published": "2026-01-30T17:23:47+00:00"
+    },
+    {
+      "title": "NeurIPS paper reviews 2025 #10",
+      "link": "https://www.gresearch.com/news/neurips-paper-reviews-2025-10/",
+      "source": "G-Research",
+      "published": "2026-01-30T17:22:02+00:00"
+    },
+    {
+      "title": "NeurIPS paper reviews 2025 #9",
+      "link": "https://www.gresearch.com/news/neurips-paper-reviews-2025-9/",
+      "source": "G-Research",
+      "published": "2026-01-30T17:18:20+00:00"
+    },
+    {
+      "title": "NeurIPS paper reviews 2025 #8",
+      "link": "https://www.gresearch.com/news/neurips-paper-reviews-2025-8/",
+      "source": "G-Research",
+      "published": "2026-01-30T17:15:30+00:00"
+    },
+    {
+      "title": "NeurIPS paper reviews 2025 #7",
+      "link": "https://www.gresearch.com/news/neurips-paper-reviews-2025-7/",
+      "source": "G-Research",
+      "published": "2026-01-30T17:13:35+00:00"
+    },
+    {
+      "title": "NeurIPS paper reviews 2025 #6",
+      "link": "https://www.gresearch.com/news/neurips-paper-reviews-2025-6/",
+      "source": "G-Research",
+      "published": "2026-01-30T17:11:29+00:00"
+    },
+    {
+      "title": "NeurIPS paper reviews 2025 #5",
+      "link": "https://www.gresearch.com/news/neurips-paper-reviews-2025-5/",
+      "source": "G-Research",
+      "published": "2026-01-30T17:07:47+00:00"
+    },
+    {
+      "title": "NeurIPS paper reviews 2025 #4",
+      "link": "https://www.gresearch.com/news/neurips-paper-reviews-2025-4/",
+      "source": "G-Research",
+      "published": "2026-01-30T17:03:27+00:00"
+    },
+    {
+      "title": "NeurIPS paper reviews 2025 #3",
+      "link": "https://www.gresearch.com/news/neurips-paper-reviews-2025-3/",
+      "source": "G-Research",
+      "published": "2026-01-30T17:00:39+00:00"
+    },
+    {
+      "title": "NeurIPS paper reviews 2025 #2",
+      "link": "https://www.gresearch.com/news/neurips-paper-reviews-2025-2/",
+      "source": "G-Research",
+      "published": "2026-01-30T16:56:52+00:00"
+    },
+    {
+      "title": "NeurIPS paper reviews 2025 #1",
+      "link": "https://www.gresearch.com/news/neurips-paper-reviews-2025-1/",
+      "source": "G-Research",
+      "published": "2026-01-30T16:53:12+00:00"
+    },
+    {
+      "title": "Puzzle: Pizza Points",
+      "link": "https://www.twosigma.com/articles/puzzle-pizza-points/",
+      "source": "Two Sigma",
+      "published": "2026-01-29T19:04:33+00:00"
+    },
+    {
       "title": "Real-Time Trading Dashboards with Databricks Apps and Dash",
       "link": "https://www.optiver.com/insights/technology-blog/real-time-trading-dashboards-with-databricks-apps-and-dash/",
       "source": "Optiver",
       "published": "2026-01-29T00:00:00+00:00"
+    },
+    {
+      "title": "G-Research 2025 PhD prize winners: SOCINT",
+      "link": "https://www.gresearch.com/news/g-research-2025-phd-prize-winners-socint/",
+      "source": "G-Research",
+      "published": "2026-01-28T14:18:44+00:00"
+    },
+    {
+      "title": "AI in Investment Management: 2026 Outlook (Part II)",
+      "link": "https://www.twosigma.com/articles/ai-in-investment-management-2026-outlook-part-ii/",
+      "source": "Two Sigma",
+      "published": "2026-01-21T15:55:26+00:00"
+    },
+    {
+      "title": "An interview with Prof. Edriss S. Titi",
+      "link": "https://www.gresearch.com/news/an-interview-with-prof-edriss-titi/",
+      "source": "G-Research",
+      "published": "2026-01-19T17:01:21+00:00"
+    },
+    {
+      "title": "G-Research and The University of Oxford mark new PhD scholarships with inaugural signing ceremony",
+      "link": "https://www.gresearch.com/news/g-research-and-the-university-of-oxford-mark-new-phd-scholarships-with-inaugural-signing-ceremony/",
+      "source": "G-Research",
+      "published": "2026-01-15T12:21:29+00:00"
+    },
+    {
+      "title": "AI in Investment Management: 2026 Outlook (Part I)",
+      "link": "https://www.twosigma.com/articles/ai-in-investment-management-2026-outlook-part-i/",
+      "source": "Two Sigma",
+      "published": "2026-01-12T17:05:01+00:00"
     },
     {
       "title": "Fun with Algebraic Effects - from Toy Examples to Hardcaml Simulations",
@@ -530,10 +866,22 @@
       "published": "2026-01-01T00:00:00+00:00"
     },
     {
+      "title": "G-Research November 2025 grant winners",
+      "link": "https://www.gresearch.com/news/g-research-november-2025-grant-winners/",
+      "source": "G-Research",
+      "published": "2025-12-22T15:52:26+00:00"
+    },
+    {
       "title": "Research at scale: Orchestrating ML for systematic trading",
       "link": "https://www.optiver.com/insights/technology-blog/research-at-scale/",
       "source": "Optiver",
       "published": "2025-12-18T00:00:00+00:00"
+    },
+    {
+      "title": "G-Research October 2025 grant winners",
+      "link": "https://www.gresearch.com/news/g-research-october-2025-grant-winners/",
+      "source": "G-Research",
+      "published": "2025-12-04T09:58:19+00:00"
     },
     {
       "title": "Getting from tested to battle-tested",
@@ -560,6 +908,30 @@
       "published": "2025-11-24T00:00:00+00:00"
     },
     {
+      "title": "Office Hours with Chris Busby, Global Head of Investor Relations",
+      "link": "https://www.twosigma.com/articles/office-hours-with-chris-busby-global-head-of-investor-relations/",
+      "source": "Two Sigma",
+      "published": "2025-11-20T21:37:07+00:00"
+    },
+    {
+      "title": "Shaping the future of maths learning with MathsWorld London",
+      "link": "https://www.gresearch.com/news/shaping-the-future-of-maths-learning-with-mathsworld-london/",
+      "source": "G-Research",
+      "published": "2025-11-14T12:42:04+00:00"
+    },
+    {
+      "title": "Treating Data as Code at Two Sigma",
+      "link": "https://www.twosigma.com/articles/treating-data-as-code-at-two-sigma/",
+      "source": "Two Sigma",
+      "published": "2025-11-13T16:09:02+00:00"
+    },
+    {
+      "title": "G-Research 2025 PhD prize winners: ETH Zurich",
+      "link": "https://www.gresearch.com/news/g-research-2025-phd-prize-winners-eth-zurich/",
+      "source": "G-Research",
+      "published": "2025-11-12T12:53:49+00:00"
+    },
+    {
       "title": "Gold: Bugs, Bears and Myths",
       "link": "https://www.man.com/insights/gold-bugs-bears-myths",
       "source": "Man Group",
@@ -570,6 +942,30 @@
       "link": "https://www.hudsonrivertrading.com/hrtbeat/heraclesql-a-python-dsl-for-writing-alerts/",
       "source": "HRT",
       "published": "2025-10-28T13:56:23+00:00"
+    },
+    {
+      "title": "Platform Thinking: Three Views from Two Sigma Leaders",
+      "link": "https://www.twosigma.com/articles/platform-thinking-three-views-from-two-sigma-leaders/",
+      "source": "Two Sigma",
+      "published": "2025-10-23T14:49:45+00:00"
+    },
+    {
+      "title": "G-Research September 2025 grant winners",
+      "link": "https://www.gresearch.com/news/g-research-september-2025-grant-winners/",
+      "source": "G-Research",
+      "published": "2025-10-15T09:42:20+00:00"
+    },
+    {
+      "title": "Series: Office Hours with Two Sigma Leaders",
+      "link": "https://www.twosigma.com/articles/series-office-hours-with-two-sigma-leaders/",
+      "source": "Two Sigma",
+      "published": "2025-10-13T12:35:33+00:00"
+    },
+    {
+      "title": "G-Research August 2025 grant winners",
+      "link": "https://www.gresearch.com/news/g-research-august-2025-grant-winners/",
+      "source": "G-Research",
+      "published": "2025-10-06T09:48:06+00:00"
     },
     {
       "title": "Answers to Questions I Often Get: Engineering and Interviewing at HRT",
@@ -590,10 +986,52 @@
       "published": "2025-10-01T00:00:00+00:00"
     },
     {
+      "title": "Office Hours with Portfolio Manager Grace Gu",
+      "link": "https://www.twosigma.com/articles/office-hours-with-portfolio-manager-grace-gu/",
+      "source": "Two Sigma",
+      "published": "2025-09-30T14:25:12+00:00"
+    },
+    {
+      "title": "Series: Two Sigma Leaders’ Advice for Interns",
+      "link": "https://www.twosigma.com/articles/series-two-sigma-leaders-advice-for-interns/",
+      "source": "Two Sigma",
+      "published": "2025-09-25T14:19:20+00:00"
+    },
+    {
+      "title": "G-Research 2025 PhD prize winners: EPFL",
+      "link": "https://www.gresearch.com/news/g-research-2025-phd-prize-winners-epfl/",
+      "source": "G-Research",
+      "published": "2025-09-25T09:37:10+00:00"
+    },
+    {
+      "title": "Junior physics team tastes international success",
+      "link": "https://www.gresearch.com/news/junior-physics-team-tastes-international-success/",
+      "source": "G-Research",
+      "published": "2025-09-15T10:25:34+00:00"
+    },
+    {
+      "title": "Distinguished Speaker Symposium: Aerodynamics and the Navier-Stokes equations",
+      "link": "https://www.gresearch.com/news/distinguished-speaker-symposium-aerodynamics-and-the-navier-stokes-equation/",
+      "source": "G-Research",
+      "published": "2025-09-15T09:12:48+00:00"
+    },
+    {
+      "title": "Why Failure Is an Option—in Science",
+      "link": "https://www.twosigma.com/articles/why-failure-is-an-option-in-science/",
+      "source": "Two Sigma",
+      "published": "2025-09-11T17:59:00+00:00"
+    },
+    {
       "title": "Why DevEx matters to Optiver",
       "link": "https://www.optiver.com/insights/technology-blog/why-devex-matters/",
       "source": "Optiver",
       "published": "2025-09-09T00:00:00+00:00"
+    },
+    {
+      "title": "The 2025 Summer Intern Program: Innovation, Growth, and Impact",
+      "link": "https://www.twosigma.com/articles/the-2025-summer-intern-program-innovation-growth-and-impact/",
+      "source": "Two Sigma",
+      "published": "2025-08-27T20:27:57+00:00"
     },
     {
       "title": "What the interns have wrought, 2025 edition",
@@ -608,6 +1046,12 @@
       "published": "2025-08-19T21:28:24+00:00"
     },
     {
+      "title": "Two Sigma Leaders’ Advice for Interns, Part 3",
+      "link": "https://www.twosigma.com/articles/two-sigma-leaders-advice-for-interns-part-3/",
+      "source": "Two Sigma",
+      "published": "2025-08-12T14:26:38+00:00"
+    },
+    {
       "title": "There Ain’t No Such Thing as a Free Lunch",
       "link": "https://www.aqr.com/Insights/Perspectives/There-Aint-No-Such-Thing-as-a-Free-Lunch",
       "source": "AQR",
@@ -620,10 +1064,52 @@
       "published": "2025-08-08T14:57:48+00:00"
     },
     {
+      "title": "G-Research July 2025 grant winners",
+      "link": "https://www.gresearch.com/news/g-research-july-2025-grant-winners/",
+      "source": "G-Research",
+      "published": "2025-08-08T11:28:41+00:00"
+    },
+    {
       "title": "Capital Market Assumptions: Redefined",
       "link": "https://www.man.com/insights/captial-market-assumptions",
       "source": "Man Group",
       "published": "2025-08-01T00:00:00+00:00"
+    },
+    {
+      "title": "ICML 2025: Key Ideas on LLMs, Human-AI Alignment, and More",
+      "link": "https://www.twosigma.com/articles/icml-2025-key-ideas-on-llms-human-ai-alignment-and-more/",
+      "source": "Two Sigma",
+      "published": "2025-07-31T14:09:53+00:00"
+    },
+    {
+      "title": "G-Research June 2025 grant winners",
+      "link": "https://www.gresearch.com/news/g-research-june-2025-grant-winners/",
+      "source": "G-Research",
+      "published": "2025-07-29T11:11:02+00:00"
+    },
+    {
+      "title": "Rebuilding MLflow’s experiment tracking backend in Go",
+      "link": "https://www.gresearch.com/news/rebuilding-mlflows-experiment-tracking-backend-in-go/",
+      "source": "G-Research",
+      "published": "2025-07-25T15:42:58+00:00"
+    },
+    {
+      "title": "Two Sigma Leaders’ Advice for Interns, Part 2",
+      "link": "https://www.twosigma.com/articles/two-sigma-leaders-advice-for-interns-part-2/",
+      "source": "Two Sigma",
+      "published": "2025-07-23T17:37:57+00:00"
+    },
+    {
+      "title": "G-Research 2025 PhD prize winners: Imperial College London",
+      "link": "https://www.gresearch.com/news/g-research-2025-phd-prize-winners-imperial-college-london/",
+      "source": "G-Research",
+      "published": "2025-07-21T12:04:37+00:00"
+    },
+    {
+      "title": "Two Sigma Leaders’ Advice for Interns, Part 1",
+      "link": "https://www.twosigma.com/articles/two-sigma-leaders-advice-for-interns-part-1/",
+      "source": "Two Sigma",
+      "published": "2025-07-02T20:05:06+00:00"
     },
     {
       "title": "A Higgs-bugson in the Linux Kernel",
@@ -636,6 +1122,12 @@
       "link": "https://www.hudsonrivertrading.com/hrtbeat/intern-spotlight-hrt-ai-labs-project/",
       "source": "HRT",
       "published": "2025-06-20T15:52:53+00:00"
+    },
+    {
+      "title": "G-Research May 2025 grant winners",
+      "link": "https://www.gresearch.com/news/g-research-may-2025-grant-winners/",
+      "source": "G-Research",
+      "published": "2025-06-18T15:09:47+00:00"
     },
     {
       "title": "Introducing OxCaml",
@@ -656,6 +1148,36 @@
       "published": "2025-06-05T00:00:00+00:00"
     },
     {
+      "title": "G-Research 2025 PhD prize winners: University of Warwick",
+      "link": "https://www.gresearch.com/news/g-research-2025-phd-prize-winners-university-of-warwick/",
+      "source": "G-Research",
+      "published": "2025-06-04T13:45:51+00:00"
+    },
+    {
+      "title": "G-Research 2025 PhD prize winners: University of Oxford",
+      "link": "https://www.gresearch.com/news/g-research-2025-phd-prize-winners-university-of-oxford/",
+      "source": "G-Research",
+      "published": "2025-05-29T08:04:58+00:00"
+    },
+    {
+      "title": "Odysseus to AI: Matt Greenwood on the Dev Interrupted Podcast",
+      "link": "https://www.twosigma.com/articles/matt-greenwood-on-the-dev-interrupted-podcast/",
+      "source": "Two Sigma",
+      "published": "2025-05-27T16:55:02+00:00"
+    },
+    {
+      "title": "G-Research 2025 PhD prize winners: University of Cambridge",
+      "link": "https://www.gresearch.com/news/g-research-2025-phd-prize-winners-university-of-cambridge/",
+      "source": "G-Research",
+      "published": "2025-05-27T10:51:39+00:00"
+    },
+    {
+      "title": "G-Research April 2025 grant winners",
+      "link": "https://www.gresearch.com/news/g-research-april-2025-grant-winners/",
+      "source": "G-Research",
+      "published": "2025-05-15T08:35:05+00:00"
+    },
+    {
       "title": "FPGA Hardware at Optiver: Making impact at speed and scale",
       "link": "https://www.optiver.com/insights/technology-blog/fpga-hardware-at-optiver-making-impact-at-speed-and-scale/",
       "source": "Optiver",
@@ -668,10 +1190,28 @@
       "published": "2025-05-08T00:00:00+00:00"
     },
     {
+      "title": "The tyranny of tech debt",
+      "link": "https://www.gresearch.com/news/the-tyranny-of-tech-debt/",
+      "source": "G-Research",
+      "published": "2025-04-28T11:50:00+00:00"
+    },
+    {
       "title": "Antti Is (Still) Trying to Understand Return Expectations",
       "link": "https://www.aqr.com/Insights/Perspectives/Antti-Is-Still-Trying-to-Understand-Return-Expectations",
       "source": "AQR",
       "published": "2025-04-28T00:00:00+00:00"
+    },
+    {
+      "title": "G-Research March 2025 grant winners",
+      "link": "https://www.gresearch.com/news/g-research-march-2025-grant-winners/",
+      "source": "G-Research",
+      "published": "2025-04-22T09:35:28+00:00"
+    },
+    {
+      "title": "Office Hours with Kenny Lam, CEO of Two Sigma Asia Pacific",
+      "link": "https://www.twosigma.com/articles/office-hours-with-kenny-lam-ceo-of-two-sigma-asia-pacific/",
+      "source": "Two Sigma",
+      "published": "2025-04-02T15:10:27+00:00"
     },
     {
       "title": "Low Latency C++ Systems for Trading with David Gross at CppCon",
@@ -686,6 +1226,18 @@
       "published": "2025-03-28T00:00:00+00:00"
     },
     {
+      "title": "Invisible work of OpenStack: Eventlet migration",
+      "link": "https://www.gresearch.com/news/invisible-work-of-openstack-eventlet-migration/",
+      "source": "G-Research",
+      "published": "2025-03-25T16:33:29+00:00"
+    },
+    {
+      "title": "SXSW 2025: Key takeaways from our engineers",
+      "link": "https://www.gresearch.com/news/sxsw-2025-key-takeaways-from-our-engineers/",
+      "source": "G-Research",
+      "published": "2025-03-24T16:50:04+00:00"
+    },
+    {
       "title": "Advent of Hardcaml",
       "link": "https://blog.janestreet.com/advent-of-hardcaml-2024/",
       "source": "Jane Street",
@@ -698,10 +1250,124 @@
       "published": "2025-03-21T00:00:00+00:00"
     },
     {
+      "title": "G-Research February 2025 grant winners",
+      "link": "https://www.gresearch.com/news/g-research-february-2025-grant-winners/",
+      "source": "G-Research",
+      "published": "2025-03-17T13:59:03+00:00"
+    },
+    {
+      "title": "G-Research 2024 PhD prize winners: SOCINT",
+      "link": "https://www.gresearch.com/news/g-research-2024-phd-prize-winners-socint/",
+      "source": "G-Research",
+      "published": "2025-03-11T14:52:13+00:00"
+    },
+    {
+      "title": "G-Research scholarships: We’re fully funding 42 PhD students",
+      "link": "https://www.gresearch.com/news/fully-funding-42-phd-students/",
+      "source": "G-Research",
+      "published": "2025-02-25T14:00:17+00:00"
+    },
+    {
+      "title": "G-Research January 2025 grant winners",
+      "link": "https://www.gresearch.com/news/g-research-january-2024-grant-winners-2/",
+      "source": "G-Research",
+      "published": "2025-02-24T13:54:30+00:00"
+    },
+    {
+      "title": "Kafka producer tuning for high latency networks",
+      "link": "https://www.gresearch.com/news/kafka-producer-tuning-for-high-latency-networks/",
+      "source": "G-Research",
+      "published": "2025-02-11T13:42:47+00:00"
+    },
+    {
+      "title": "NeurIPS paper reviews 2024 #10",
+      "link": "https://www.gresearch.com/news/neurips-paper-reviews-2024-10/",
+      "source": "G-Research",
+      "published": "2025-02-07T12:56:28+00:00"
+    },
+    {
+      "title": "NeurIPS paper reviews 2024 #9",
+      "link": "https://www.gresearch.com/news/neurips-paper-reviews-2024-9/",
+      "source": "G-Research",
+      "published": "2025-02-07T11:24:20+00:00"
+    },
+    {
+      "title": "NeurIPS Paper Reviews 2024 #8",
+      "link": "https://www.gresearch.com/news/neurips-paper-reviews-2024-8/",
+      "source": "G-Research",
+      "published": "2025-02-07T11:12:06+00:00"
+    },
+    {
+      "title": "NeurIPS paper reviews 2024 #7",
+      "link": "https://www.gresearch.com/news/neurips-paper-reviews-2024-7/",
+      "source": "G-Research",
+      "published": "2025-02-07T10:59:16+00:00"
+    },
+    {
+      "title": "NeurIPS paper reviews 2024 #6",
+      "link": "https://www.gresearch.com/news/neurips-paper-reviews-2024-6/",
+      "source": "G-Research",
+      "published": "2025-02-07T10:52:24+00:00"
+    },
+    {
+      "title": "AI Core Team Lead Mike Schuster on How to Get the Most From LLMs",
+      "link": "https://www.twosigma.com/articles/how-to-get-the-most-from-llms/",
+      "source": "Two Sigma",
+      "published": "2025-02-04T17:03:42+00:00"
+    },
+    {
+      "title": "The Innovation Equation: Curiosity x the Scientific Method at Two Sigma",
+      "link": "https://www.twosigma.com/articles/the-innovation-equation-curiosity-x-the-scientific-method-at-two-sigma/",
+      "source": "Two Sigma",
+      "published": "2025-01-31T15:59:58+00:00"
+    },
+    {
       "title": "How we accidentally built a better build system for OCaml",
       "link": "https://blog.janestreet.com/how-we-accidentally-built-a-better-build-system-for-ocaml-index/",
       "source": "Jane Street",
       "published": "2025-01-24T00:00:00+00:00"
+    },
+    {
+      "title": "NeurIPS paper reviews 2024 #5",
+      "link": "https://www.gresearch.com/news/neurips-paper-reviews-2024-5/",
+      "source": "G-Research",
+      "published": "2025-01-23T18:14:05+00:00"
+    },
+    {
+      "title": "NeurIPS paper reviews 2024 #4",
+      "link": "https://www.gresearch.com/news/neurips-paper-reviews-2024-4/",
+      "source": "G-Research",
+      "published": "2025-01-23T18:13:56+00:00"
+    },
+    {
+      "title": "NeurIPS paper reviews 2024 #3",
+      "link": "https://www.gresearch.com/news/neurips-paper-reviews-2024-3/",
+      "source": "G-Research",
+      "published": "2025-01-23T18:13:48+00:00"
+    },
+    {
+      "title": "NeurIPS paper reviews 2024 #2",
+      "link": "https://www.gresearch.com/news/neurips-paper-reviews-2024-2/",
+      "source": "G-Research",
+      "published": "2025-01-23T18:13:38+00:00"
+    },
+    {
+      "title": "NeurIPS paper reviews 2024 #1",
+      "link": "https://www.gresearch.com/news/neurips-paper-reviews-2024-1/",
+      "source": "G-Research",
+      "published": "2025-01-23T18:13:27+00:00"
+    },
+    {
+      "title": "Going 15 percent faster with graph-based type-checking (part two)",
+      "link": "https://www.gresearch.com/news/going-15-percent-faster-with-graph-based-type-checking-part-two/",
+      "source": "G-Research",
+      "published": "2025-01-13T14:50:53+00:00"
+    },
+    {
+      "title": "G-Research December 2024 grant winners",
+      "link": "https://www.gresearch.com/news/g-research-december-2024-grant-winners/",
+      "source": "G-Research",
+      "published": "2025-01-09T11:53:25+00:00"
     },
     {
       "title": "2035: An Allocator Looks Back Over the Last 10 Years",
@@ -728,10 +1394,160 @@
       "published": "2025-01-01T00:00:00+00:00"
     },
     {
+      "title": "James Maynard on prime numbers: Cryptography, twin primes and groundbreaking discoveries",
+      "link": "https://www.gresearch.com/news/james-maynard-on-prime-numbers-cryptography-twin-primes-and-groundbreaking-discoveries/",
+      "source": "G-Research",
+      "published": "2024-12-19T13:07:17+00:00"
+    },
+    {
+      "title": "Going 15 percent faster with graph-based type-checking (part one)",
+      "link": "https://www.gresearch.com/news/going-15-percent-faster-with-graph-based-type-checking-part-one/",
+      "source": "G-Research",
+      "published": "2024-12-19T11:52:46+00:00"
+    },
+    {
+      "title": "Cliff Cocks on the origins of public key cryptography",
+      "link": "https://www.gresearch.com/news/cliff-cocks-on-the-origins-of-public-key-cryptography/",
+      "source": "G-Research",
+      "published": "2024-12-18T09:58:37+00:00"
+    },
+    {
+      "title": "Distinguished Speaker Symposium on Prime Numbers and Cryptography",
+      "link": "https://www.gresearch.com/news/distinguished-speaker-symposium-on-prime-numbers-and-cryptography/",
+      "source": "G-Research",
+      "published": "2024-12-04T10:32:44+00:00"
+    },
+    {
+      "title": "G-Research November 2024 Grant Winners",
+      "link": "https://www.gresearch.com/news/g-research-november-2024-grant-winners/",
+      "source": "G-Research",
+      "published": "2024-12-02T15:32:46+00:00"
+    },
+    {
+      "title": "Welcoming Sarah Fass: Our New Chief People Officer",
+      "link": "https://www.twosigma.com/articles/welcoming-sarah-fass-our-new-chief-people-officer/",
+      "source": "Two Sigma",
+      "published": "2024-11-13T15:00:04+00:00"
+    },
+    {
+      "title": "G-Research October 2024 Grant Winners",
+      "link": "https://www.gresearch.com/news/g-research-october-2024-grant-winners/",
+      "source": "G-Research",
+      "published": "2024-11-08T11:01:20+00:00"
+    },
+    {
+      "title": "Academic Partnerships: Meet Stanford Professor Madeleine Udell",
+      "link": "https://www.twosigma.com/articles/academic-partnerships-meet-stanford-professor-madeleine-udell/",
+      "source": "Two Sigma",
+      "published": "2024-11-07T15:31:34+00:00"
+    },
+    {
+      "title": "What could possibly go wrong when migrating a VM?",
+      "link": "https://www.gresearch.com/news/what-could-possibly-go-wrong-when-migrating-a-vm/",
+      "source": "G-Research",
+      "published": "2024-10-30T18:12:49+00:00"
+    },
+    {
+      "title": "G-Research 2024 PhD prize winners: ETH Zurich",
+      "link": "https://www.gresearch.com/news/g-research-2024-phd-prize-winners-eth-zurich/",
+      "source": "G-Research",
+      "published": "2024-10-23T16:11:37+00:00"
+    },
+    {
+      "title": "How G-Research Invests in Open Source for Long-Term Impact",
+      "link": "https://www.gresearch.com/news/how-g-research-invests-in-open-source-for-long-term-impact/",
+      "source": "G-Research",
+      "published": "2024-10-14T09:10:30+00:00"
+    },
+    {
+      "title": "G-Research September 2024 Grant Winners",
+      "link": "https://www.gresearch.com/news/g-research-september-2024-grant-winners/",
+      "source": "G-Research",
+      "published": "2024-10-08T14:03:24+00:00"
+    },
+    {
+      "title": "Improving Compute Sustainability: A Case Study",
+      "link": "https://www.twosigma.com/articles/improving-compute-sustainability-a-case-study/",
+      "source": "Two Sigma",
+      "published": "2024-10-07T20:45:28+00:00"
+    },
+    {
+      "title": "Lessons learned: Delivering software programs (part 5)",
+      "link": "https://www.gresearch.com/news/lessons-learned-delivering-software-programs-part-5/",
+      "source": "G-Research",
+      "published": "2024-10-04T15:01:44+00:00"
+    },
+    {
       "title": "Developer education at Jane Street",
       "link": "https://blog.janestreet.com/developer-education-at-jane-street-index/",
       "source": "Jane Street",
       "published": "2024-10-04T00:00:00+00:00"
+    },
+    {
+      "title": "ICML 2024: Paper Review #8",
+      "link": "https://www.gresearch.com/news/icml-2024-paper-review-8/",
+      "source": "G-Research",
+      "published": "2024-09-25T09:45:02+00:00"
+    },
+    {
+      "title": "ICML 2024: Paper Review #7",
+      "link": "https://www.gresearch.com/news/icml-2024-paper-review-7/",
+      "source": "G-Research",
+      "published": "2024-09-24T13:50:13+00:00"
+    },
+    {
+      "title": "ICML 2024: Paper Review #6",
+      "link": "https://www.gresearch.com/news/icml-2024-paper-review-6/",
+      "source": "G-Research",
+      "published": "2024-09-24T13:50:10+00:00"
+    },
+    {
+      "title": "ICML 2024: Paper Review #5",
+      "link": "https://www.gresearch.com/news/icml-2024-paper-review-5/",
+      "source": "G-Research",
+      "published": "2024-09-24T13:50:06+00:00"
+    },
+    {
+      "title": "ICML 2024: Paper Review #4",
+      "link": "https://www.gresearch.com/news/icml-2024-paper-review-4/",
+      "source": "G-Research",
+      "published": "2024-09-24T13:50:02+00:00"
+    },
+    {
+      "title": "ICML 2024: Paper Review #3",
+      "link": "https://www.gresearch.com/news/icml-2024-paper-review-3/",
+      "source": "G-Research",
+      "published": "2024-09-24T13:49:59+00:00"
+    },
+    {
+      "title": "ICML 2024: Paper Review #2",
+      "link": "https://www.gresearch.com/news/icml-2024-paper-review-2/",
+      "source": "G-Research",
+      "published": "2024-09-24T13:49:23+00:00"
+    },
+    {
+      "title": "ICML 2024: Paper Review #1",
+      "link": "https://www.gresearch.com/news/icml-2024-paper-review-1/",
+      "source": "G-Research",
+      "published": "2024-09-24T13:44:19+00:00"
+    },
+    {
+      "title": "From STEM to Finance: Employees Share Their Stories",
+      "link": "https://www.twosigma.com/articles/from-stem-to-finance-employees-share-their-stories/",
+      "source": "Two Sigma",
+      "published": "2024-09-17T20:25:58+00:00"
+    },
+    {
+      "title": "Lessons learned: Delivering software programs (part 4)",
+      "link": "https://www.gresearch.com/news/lessons-learned-delivering-software-programs-part-4/",
+      "source": "G-Research",
+      "published": "2024-09-13T15:12:42+00:00"
+    },
+    {
+      "title": "G-Research August 2024 Grant Winners",
+      "link": "https://www.gresearch.com/news/g-research-august-2024-grant-winners/",
+      "source": "G-Research",
+      "published": "2024-09-13T13:06:00+00:00"
     },
     {
       "title": "In Praise of High-Volatility Alternatives",
@@ -746,10 +1562,58 @@
       "published": "2024-08-29T00:00:00+00:00"
     },
     {
+      "title": "Two Sigma Announces Leadership Changes",
+      "link": "https://www.twosigma.com/articles/two-sigma-announces-leadership-changes/",
+      "source": "Two Sigma",
+      "published": "2024-08-28T02:08:20+00:00"
+    },
+    {
       "title": "What the interns have wrought, 2024 edition",
       "link": "https://blog.janestreet.com/what-the-interns-have-wrought-2024-edition-index/",
       "source": "Jane Street",
       "published": "2024-08-26T00:00:00+00:00"
+    },
+    {
+      "title": "Lessons learned: Delivering software programs (part 3)",
+      "link": "https://www.gresearch.com/news/lessons-learned-delivering-software-programs-part-3/",
+      "source": "G-Research",
+      "published": "2024-08-14T09:47:38+00:00"
+    },
+    {
+      "title": "Lessons learned: Delivering software programs (part 2)",
+      "link": "https://www.gresearch.com/news/lessons-learned-delivering-software-programs-part-2/",
+      "source": "G-Research",
+      "published": "2024-08-14T09:42:38+00:00"
+    },
+    {
+      "title": "Lessons learned: Delivering software programs (part 1)",
+      "link": "https://www.gresearch.com/news/lessons-learned-delivering-software-programs-part-1/",
+      "source": "G-Research",
+      "published": "2024-08-14T09:30:19+00:00"
+    },
+    {
+      "title": "G-Research July 2024 Grant Winners",
+      "link": "https://www.gresearch.com/news/g-research-july-2024-grant-winners/",
+      "source": "G-Research",
+      "published": "2024-08-14T08:55:07+00:00"
+    },
+    {
+      "title": "G-Research Dallas: A collaborative, learning-focused culture",
+      "link": "https://www.gresearch.com/news/g-research-dallas-a-collaborative-learning-focused-culture/",
+      "source": "G-Research",
+      "published": "2024-07-24T14:32:14+00:00"
+    },
+    {
+      "title": "G-Research Dallas: A Platform Engineer’s experience",
+      "link": "https://www.gresearch.com/news/g-research-dallas-a-platform-engineers-experience/",
+      "source": "G-Research",
+      "published": "2024-07-24T14:31:53+00:00"
+    },
+    {
+      "title": "G-Research June 2024 Grant Winners",
+      "link": "https://www.gresearch.com/news/g-research-june-2024-grant-winners/",
+      "source": "G-Research",
+      "published": "2024-07-23T14:29:58+00:00"
     },
     {
       "title": "Visualizing piecewise linear neural networks",
@@ -758,10 +1622,64 @@
       "published": "2024-07-22T00:00:00+00:00"
     },
     {
+      "title": "Building Modern, Resilient and Reliant Infrastructure",
+      "link": "https://www.gresearch.com/news/building-modern-resilient-and-reliant-infrastructure/",
+      "source": "G-Research",
+      "published": "2024-07-15T15:49:55+00:00"
+    },
+    {
+      "title": "Celebrating our new Dallas home",
+      "link": "https://www.gresearch.com/news/celebrating-our-new-dallas-home/",
+      "source": "G-Research",
+      "published": "2024-07-11T18:47:03+00:00"
+    },
+    {
       "title": "Engineering the three pillars of trading: Pricing, risk, and execution",
       "link": "https://www.optiver.com/insights/technology-blog/engineering-the-three-pillars-of-trading-pricing-risk-and-execution/",
       "source": "Optiver",
       "published": "2024-07-04T00:00:00+00:00"
+    },
+    {
+      "title": "An interview with Michael Kagan (CTO at NVIDIA)",
+      "link": "https://www.gresearch.com/news/an-interview-with-michael-kagan-cto-at-nvidia/",
+      "source": "G-Research",
+      "published": "2024-07-02T10:04:01+00:00"
+    },
+    {
+      "title": "Office Hours with Engineering Managing Director Mae Santos",
+      "link": "https://www.twosigma.com/articles/office-hours-with-engineering-managing-director-mae-santos/",
+      "source": "Two Sigma",
+      "published": "2024-06-26T17:34:49+00:00"
+    },
+    {
+      "title": "Why Human Intuition Is Essential in Machine Learning",
+      "link": "https://www.twosigma.com/articles/why-human-intuition-is-essential-in-machine-learning/",
+      "source": "Two Sigma",
+      "published": "2024-06-24T19:47:31+00:00"
+    },
+    {
+      "title": "G-Research 2024 PhD prize winners: Imperial College London",
+      "link": "https://www.gresearch.com/news/g-research-2024-phd-prize-winners-imperial-college-london/",
+      "source": "G-Research",
+      "published": "2024-06-18T12:12:50+00:00"
+    },
+    {
+      "title": "G-Research May 2024 Grant Winners",
+      "link": "https://www.gresearch.com/news/g-research-may-2024-grant-winners/",
+      "source": "G-Research",
+      "published": "2024-06-06T08:30:32+00:00"
+    },
+    {
+      "title": "G-Research 2024 PhD prize winners: University of Oxford",
+      "link": "https://www.gresearch.com/news/g-research-2024-phd-prize-winners-university-of-oxford/",
+      "source": "G-Research",
+      "published": "2024-06-03T09:27:03+00:00"
+    },
+    {
+      "title": "Academic Partnerships: Meet Harvard Professor Jun Liu",
+      "link": "https://www.twosigma.com/articles/academic-partnerships-meet-harvard-professor-jun-liu/",
+      "source": "Two Sigma",
+      "published": "2024-05-29T13:24:26+00:00"
     },
     {
       "title": "Optimising Compiler Performance: A Case For Devirtualisation",
@@ -770,10 +1688,160 @@
       "published": "2024-05-21T09:32:00+00:00"
     },
     {
+      "title": "G-Research 2024 PhD prize winners: University of Cambridge",
+      "link": "https://www.gresearch.com/news/g-research-2024-phd-prize-winners-university-of-cambridge/",
+      "source": "G-Research",
+      "published": "2024-05-16T08:29:37+00:00"
+    },
+    {
+      "title": "G-Research 2024 PhD prize winners: EPFL",
+      "link": "https://www.gresearch.com/news/g-research-2024-phd-prize-winners-epfl/",
+      "source": "G-Research",
+      "published": "2024-05-13T08:29:17+00:00"
+    },
+    {
+      "title": "G-Research April 2024 Grant Winners",
+      "link": "https://www.gresearch.com/news/g-research-april-2024-grant-winners/",
+      "source": "G-Research",
+      "published": "2024-05-02T14:31:15+00:00"
+    },
+    {
+      "title": "W@TS Circles: Fostering Authentic Connections Among Women",
+      "link": "https://www.twosigma.com/articles/wats-circles-fostering-authentic-connections-among-women/",
+      "source": "Two Sigma",
+      "published": "2024-04-24T18:20:18+00:00"
+    },
+    {
+      "title": "Meet the Two Sigma Fellows: Suproteem Sarkar",
+      "link": "https://www.twosigma.com/articles/meet-the-two-sigma-fellows-suproteem-sarkar/",
+      "source": "Two Sigma",
+      "published": "2024-04-16T19:31:07+00:00"
+    },
+    {
+      "title": "Drew Conway Discusses Data Science, AI, and Real Estate Investing",
+      "link": "https://www.twosigma.com/articles/drew-conway-discusses-data-science-ai-and-real-estate-investing/",
+      "source": "Two Sigma",
+      "published": "2024-04-12T19:23:10+00:00"
+    },
+    {
+      "title": "Insights from SXSW 2024: Reflections of a G-Research Software Engineer",
+      "link": "https://www.gresearch.com/news/insights-from-sxsw-2024-reflections-of-a-g-research-software-engineer/",
+      "source": "G-Research",
+      "published": "2024-04-08T14:18:42+00:00"
+    },
+    {
+      "title": "G-Research March 2024 Grant Winners",
+      "link": "https://www.gresearch.com/news/g-research-march-2024-grant-winners/",
+      "source": "G-Research",
+      "published": "2024-04-02T12:19:39+00:00"
+    },
+    {
+      "title": "Insights from SXSW 2024: Reflections of a G-Research Platform Engineer",
+      "link": "https://www.gresearch.com/news/insights-from-sxsw-2024-reflections-of-a-g-research-platform-engineer/",
+      "source": "G-Research",
+      "published": "2024-03-22T16:45:47+00:00"
+    },
+    {
+      "title": "NeurIPS 2023: Our Favorite Papers on LLMs, Statistical Learning, and More",
+      "link": "https://www.twosigma.com/articles/neurips-2023-our-favorite-papers-on-llms-statistical-learning-and-more/",
+      "source": "Two Sigma",
+      "published": "2024-03-21T19:52:06+00:00"
+    },
+    {
+      "title": "Ben Wellington Talks AI, Data Science, and Improv on The Gradient Podcast",
+      "link": "https://www.twosigma.com/articles/ben-wellington-talks-ai-data-science-and-improv-on-the-gradient-podcast/",
+      "source": "Two Sigma",
+      "published": "2024-03-14T17:07:44+00:00"
+    },
+    {
+      "title": "An interview with James Ashton",
+      "link": "https://www.gresearch.com/news/an-interview-with-james-ashton/",
+      "source": "G-Research",
+      "published": "2024-03-05T08:54:57+00:00"
+    },
+    {
+      "title": "G-Research February 2024 Grant Winners",
+      "link": "https://www.gresearch.com/news/g-research-february-2024-grant-winners/",
+      "source": "G-Research",
+      "published": "2024-02-29T13:06:12+00:00"
+    },
+    {
       "title": "Building Robust Codebases with Python’s Type Annotations",
       "link": "https://www.hudsonrivertrading.com/hrtbeat/building-robust-codebases-with-pythons-type-annotations/",
       "source": "HRT",
       "published": "2024-02-16T13:54:08+00:00"
+    },
+    {
+      "title": "An interview with Professor Sir Andre Geim",
+      "link": "https://www.gresearch.com/news/an-interview-with-professor-sir-andre-geim/",
+      "source": "G-Research",
+      "published": "2024-02-12T19:47:21+00:00"
+    },
+    {
+      "title": "Chief Innovation Officer Matt Greenwood on the Engineering Leadership Podcast",
+      "link": "https://www.twosigma.com/articles/chief-innovation-officer-matt-greenwood-on-the-engineering-leadership-podcast/",
+      "source": "Two Sigma",
+      "published": "2024-02-06T20:16:16+00:00"
+    },
+    {
+      "title": "Observing Spark Aggregates: Cheap Metrics from Datasets",
+      "link": "https://www.gresearch.com/news/observing-spark-aggregates-cheap-metrics-from-datasets-2/",
+      "source": "G-Research",
+      "published": "2024-02-06T13:53:36+00:00"
+    },
+    {
+      "title": "G-Research January 2024 Grant Winners",
+      "link": "https://www.gresearch.com/news/g-research-january-2024-grant-winners/",
+      "source": "G-Research",
+      "published": "2024-01-31T13:02:00+00:00"
+    },
+    {
+      "title": "PySpark apps with dependencies: Managing Python dependencies in code",
+      "link": "https://www.gresearch.com/news/pyspark-apps-with-dependencies-managing-python-dependencies-in-code/",
+      "source": "G-Research",
+      "published": "2024-01-24T15:34:26+00:00"
+    },
+    {
+      "title": "NeurIPs Paper Reviews 2023 #6",
+      "link": "https://www.gresearch.com/news/neurips-paper-reviews-2023-6/",
+      "source": "G-Research",
+      "published": "2024-01-23T15:33:21+00:00"
+    },
+    {
+      "title": "NeurIPs Paper Reviews 2023 #5",
+      "link": "https://www.gresearch.com/news/neurips-paper-reviews-2023-5/",
+      "source": "G-Research",
+      "published": "2024-01-23T15:33:10+00:00"
+    },
+    {
+      "title": "NeurIPs Paper Reviews 2023 #4",
+      "link": "https://www.gresearch.com/news/neurips-paper-reviews-2023-4/",
+      "source": "G-Research",
+      "published": "2024-01-23T15:32:59+00:00"
+    },
+    {
+      "title": "NeurIPs Paper Reviews 2023 #3",
+      "link": "https://www.gresearch.com/news/neurips-paper-reviews-2023-3/",
+      "source": "G-Research",
+      "published": "2024-01-23T15:25:19+00:00"
+    },
+    {
+      "title": "NeurIPs Paper Reviews 2023 #2",
+      "link": "https://www.gresearch.com/news/neurips-paper-reviews-2023-2/",
+      "source": "G-Research",
+      "published": "2024-01-23T15:25:10+00:00"
+    },
+    {
+      "title": "NeurIPs Paper Reviews 2023 #1",
+      "link": "https://www.gresearch.com/news/neurips-2023-paper-reviews-1/",
+      "source": "G-Research",
+      "published": "2024-01-19T16:56:09+00:00"
+    },
+    {
+      "title": "A Guide to Large Language Model Abstractions",
+      "link": "https://www.twosigma.com/articles/a-guide-to-large-language-model-abstractions/",
+      "source": "Two Sigma",
+      "published": "2024-01-16T22:03:26+00:00"
     },
     {
       "title": "Tunnel Vision: 2024 Inflation and Growth Forecasts in Historical Perspective",
@@ -782,10 +1850,52 @@
       "published": "2024-01-01T00:00:00+00:00"
     },
     {
+      "title": "G-Research November 2023 Grant Winners",
+      "link": "https://www.gresearch.com/news/g-research-november-2023-grant-winners/",
+      "source": "G-Research",
+      "published": "2023-12-22T11:23:06+00:00"
+    },
+    {
+      "title": "Distinguished Speaker Symposium returns in January 2024",
+      "link": "https://www.gresearch.com/news/distinguished-speaker-symposium-returns-in-january-2024/",
+      "source": "G-Research",
+      "published": "2023-12-20T09:37:06+00:00"
+    },
+    {
+      "title": "Key Takeaways: 5 Favorite Insights from 2023",
+      "link": "https://www.twosigma.com/articles/key-takeaways-5-favorite-insights-from-2023/",
+      "source": "Two Sigma",
+      "published": "2023-12-18T15:05:35+00:00"
+    },
+    {
+      "title": "Enhancing Spark’s UI with Job Descriptions",
+      "link": "https://www.gresearch.com/news/enhancing-sparks-ui-with-job-descriptions/",
+      "source": "G-Research",
+      "published": "2023-12-12T00:00:00+00:00"
+    },
+    {
       "title": "How Our Engineers Hot-Patched a Third Party Binary Library",
       "link": "https://www.hudsonrivertrading.com/hrtbeat/how-our-engineers-hot-patched-a-third-party-binary-library/",
       "source": "HRT",
       "published": "2023-12-07T10:37:00+00:00"
+    },
+    {
+      "title": "G-Research triumphs at HPCwire Awards",
+      "link": "https://www.gresearch.com/news/g-research-triumphs-at-hpcwire-awards/",
+      "source": "G-Research",
+      "published": "2023-11-28T02:22:06+00:00"
+    },
+    {
+      "title": "Two Sigma Open: Giving Back to the Open Source Community",
+      "link": "https://www.twosigma.com/articles/two-sigma-open-giving-back-to-the-open-source-community/",
+      "source": "Two Sigma",
+      "published": "2023-11-27T15:39:58+00:00"
+    },
+    {
+      "title": "G-Research October 2023 Grant Winners",
+      "link": "https://www.gresearch.com/news/g-research-october-2023-grant-winners/",
+      "source": "G-Research",
+      "published": "2023-11-23T12:11:06+00:00"
     },
     {
       "title": "Intern Spotlight: 2023 Software Engineering Summer Projects",
@@ -794,10 +1904,58 @@
       "published": "2023-11-02T05:01:53+00:00"
     },
     {
+      "title": "Watch: An interview with Janelle Shane, AI Weirdness",
+      "link": "https://www.gresearch.com/news/watch-an-interview-with-janelle-shane-ai-weirdness/",
+      "source": "G-Research",
+      "published": "2023-10-25T01:56:06+00:00"
+    },
+    {
+      "title": "Watch: The Distinguished Speaker Series with Janelle Shane (Talk and Q&A)",
+      "link": "https://www.gresearch.com/news/watch-the-distinguished-speaker-series-with-janelle-shane-talk-and-qa/",
+      "source": "G-Research",
+      "published": "2023-10-25T01:22:06+00:00"
+    },
+    {
+      "title": "Series: Elevating Your Skills as a Two Sigma Engineer",
+      "link": "https://www.twosigma.com/articles/series-elevating-your-skills-as-a-two-sigma-engineer/",
+      "source": "Two Sigma",
+      "published": "2023-10-16T13:42:12+00:00"
+    },
+    {
+      "title": "G-Research September 2023 Grant Winners",
+      "link": "https://www.gresearch.com/news/g-research-september-2023-grant-winners/",
+      "source": "G-Research",
+      "published": "2023-10-09T23:00:00+00:00"
+    },
+    {
+      "title": "The Terminal Escapes: Engineering unexpected execution from command line interfaces",
+      "link": "https://www.gresearch.com/news/g-research-the-terminal-escapes/",
+      "source": "G-Research",
+      "published": "2023-10-04T02:03:44+00:00"
+    },
+    {
+      "title": "Building for the Future: Architecture Month at Two Sigma",
+      "link": "https://www.twosigma.com/articles/building-for-the-future-architecture-month-at-two-sigma/",
+      "source": "Two Sigma",
+      "published": "2023-09-22T16:53:32+00:00"
+    },
+    {
       "title": "Intern Spotlight: 2023 HRT AI Labs Summer Projects",
       "link": "https://www.hudsonrivertrading.com/hrtbeat/intern-spotlight-2023-hrt-ai-labs-summer-projects/",
       "source": "HRT",
       "published": "2023-09-21T07:30:00+00:00"
+    },
+    {
+      "title": "Sustainability Science in Action: Measuring the Carbon Intensity of a Compute Environment",
+      "link": "https://www.twosigma.com/articles/measuring-the-carbon-intensity-of-a-compute-environment/",
+      "source": "Two Sigma",
+      "published": "2023-09-15T14:26:52+00:00"
+    },
+    {
+      "title": "G-Research August 2023 grant winners",
+      "link": "https://www.gresearch.com/news/g-research-august-2023-grant-winners/",
+      "source": "G-Research",
+      "published": "2023-09-13T01:54:06+00:00"
     },
     {
       "title": "What the interns have wrought, 2023 edition",
@@ -812,16 +1970,160 @@
       "published": "2023-09-01T00:00:00+00:00"
     },
     {
+      "title": "The best of ICML 2023 (part 3)",
+      "link": "https://www.gresearch.com/news/the-best-of-icml-2023-part-3/",
+      "source": "G-Research",
+      "published": "2023-08-24T02:29:06+00:00"
+    },
+    {
+      "title": "The best of ICML 2023 (part 2)",
+      "link": "https://www.gresearch.com/news/the-best-of-icml-2023-part-2/",
+      "source": "G-Research",
+      "published": "2023-08-21T02:29:06+00:00"
+    },
+    {
+      "title": "G-Research-sponsored UK team triumphs in International Olympiad",
+      "link": "https://www.gresearch.com/news/g-research-sponsored-uk-team-triumphs-in-international-olympiad/",
+      "source": "G-Research",
+      "published": "2023-08-21T02:17:06+00:00"
+    },
+    {
+      "title": "The best of ICML 2023 (part 1)",
+      "link": "https://www.gresearch.com/news/the-best-of-icml-2023-part-1/",
+      "source": "G-Research",
+      "published": "2023-08-19T02:29:06+00:00"
+    },
+    {
+      "title": "ICML 2023: Paper reviews, Poster Parties and grants",
+      "link": "https://www.gresearch.com/news/icml-2023-paper-reviews-poster-parties-and-grants/",
+      "source": "G-Research",
+      "published": "2023-08-17T02:32:06+00:00"
+    },
+    {
+      "title": "ParquetSharp – What we’ve learned and how it’s even better",
+      "link": "https://www.gresearch.com/news/parquetsharp-what-weve-learned-and-how-its-even-better/",
+      "source": "G-Research",
+      "published": "2023-08-16T08:43:05+00:00"
+    },
+    {
+      "title": "You don’t need to be a colossus to contribute to Kubernetes",
+      "link": "https://www.gresearch.com/news/you-dont-need-to-be-a-colossus-to-contribute-to-kubernetes/",
+      "source": "G-Research",
+      "published": "2023-08-15T07:49:05+00:00"
+    },
+    {
+      "title": "G-Research July 2023 grant winners",
+      "link": "https://www.gresearch.com/news/g-research-july-2023-grant-winners/",
+      "source": "G-Research",
+      "published": "2023-08-15T00:59:05+00:00"
+    },
+    {
+      "title": "Systematic and Discretionary Macro: Better Together",
+      "link": "https://www.twosigma.com/articles/systematic-and-discretionary-macro-better-together/",
+      "source": "Two Sigma",
+      "published": "2023-08-02T16:44:27+00:00"
+    },
+    {
+      "title": "Inspecting Parquet files with Spark",
+      "link": "https://www.gresearch.com/news/parquet-files-know-your-scaling-limits/",
+      "source": "G-Research",
+      "published": "2023-07-31T00:50:05+00:00"
+    },
+    {
+      "title": "FastTrackML: The fastest ML experiment tracker yet",
+      "link": "https://www.gresearch.com/news/fasttrackml-the-fastest-ml-experiment-tracker-yet/",
+      "source": "G-Research",
+      "published": "2023-07-26T06:45:05+00:00"
+    },
+    {
+      "title": "Celebrating Pride at Two Sigma",
+      "link": "https://www.twosigma.com/articles/celebrating-pride-at-two-sigma/",
+      "source": "Two Sigma",
+      "published": "2023-07-24T19:57:07+00:00"
+    },
+    {
+      "title": "2023 PhD prize winners: UCL",
+      "link": "https://www.gresearch.com/news/2023-phd-prize-winners-ucl/",
+      "source": "G-Research",
+      "published": "2023-07-06T23:00:00+00:00"
+    },
+    {
+      "title": "G-Research June 2023 Grant Winners",
+      "link": "https://www.gresearch.com/news/g-research-june-2023-grant-winners/",
+      "source": "G-Research",
+      "published": "2023-07-06T23:00:00+00:00"
+    },
+    {
       "title": "We're sponsoring SoME3",
       "link": "https://blog.janestreet.com/were-sponsoring-some3/",
       "source": "Jane Street",
       "published": "2023-07-06T00:00:00+00:00"
     },
     {
+      "title": "2023 PhD prize winners: University of Oxford",
+      "link": "https://www.gresearch.com/news/2023-phd-prize-winners-university-of-oxford/",
+      "source": "G-Research",
+      "published": "2023-07-03T23:00:00+00:00"
+    },
+    {
+      "title": "2023 PhD prize winners: University of Cambridge",
+      "link": "https://www.gresearch.com/news/2023-phd-prize-winners-university-of-cambridge/",
+      "source": "G-Research",
+      "published": "2023-07-03T23:00:00+00:00"
+    },
+    {
+      "title": "Armada: Six months in the sandbox",
+      "link": "https://www.gresearch.com/news/armada-six-months-in-the-sandbox/",
+      "source": "G-Research",
+      "published": "2023-06-30T07:32:05+00:00"
+    },
+    {
+      "title": "Semantic Types: From Computer-Centric to Human-Centric Data Types",
+      "link": "https://www.twosigma.com/articles/semantic-types-from-computer-centric-to-human-centric-data-types/",
+      "source": "Two Sigma",
+      "published": "2023-06-22T13:12:38+00:00"
+    },
+    {
       "title": "Oxidizing OCaml: Rust-Style Ownership",
       "link": "https://blog.janestreet.com/oxidizing-ocaml-ownership/",
       "source": "Jane Street",
       "published": "2023-06-21T00:00:00+00:00"
+    },
+    {
+      "title": "Working in Forecast Engineering at G-Research",
+      "link": "https://www.gresearch.com/news/working-in-forecast-engineering-at-g-research/",
+      "source": "G-Research",
+      "published": "2023-06-14T08:30:05+00:00"
+    },
+    {
+      "title": "Moving from Academia to Industry",
+      "link": "https://www.gresearch.com/news/moving-from-academia-to-industry/",
+      "source": "G-Research",
+      "published": "2023-06-14T08:05:05+00:00"
+    },
+    {
+      "title": "Hype vs. Reality: David Siegel on Large Language Models",
+      "link": "https://www.twosigma.com/articles/hype-vs-reality-david-siegel-on-large-language-models/",
+      "source": "Two Sigma",
+      "published": "2023-06-13T17:24:17+00:00"
+    },
+    {
+      "title": "Spark’s groupByKey should be avoided – and here’s why",
+      "link": "https://www.gresearch.com/news/sparks-groupbykey-should-be-avoided-and-heres-why/",
+      "source": "G-Research",
+      "published": "2023-06-13T07:46:05+00:00"
+    },
+    {
+      "title": "Meet the Two Sigma Fellows: Ellie Abrahams",
+      "link": "https://www.twosigma.com/articles/meet-the-two-sigma-fellows-ellianna-abrahams/",
+      "source": "Two Sigma",
+      "published": "2023-06-12T16:31:11+00:00"
+    },
+    {
+      "title": "G-Research May 2023 grant winners",
+      "link": "https://www.gresearch.com/news/g-research-may-2023-grant-winners/",
+      "source": "G-Research",
+      "published": "2023-06-07T23:00:00+00:00"
     },
     {
       "title": "Building a Dependency Graph of Our Python Codebase",
@@ -836,10 +2138,82 @@
       "published": "2023-05-26T00:00:00+00:00"
     },
     {
+      "title": "Soho Place: A new home for our Research Lab",
+      "link": "https://www.gresearch.com/news/soho-place-a-new-home-for-our-research-lab/",
+      "source": "G-Research",
+      "published": "2023-05-25T11:36:05+00:00"
+    },
+    {
+      "title": "Our move to .com",
+      "link": "https://www.gresearch.com/news/our-move-to-com/",
+      "source": "G-Research",
+      "published": "2023-05-24T08:45:05+00:00"
+    },
+    {
+      "title": "Aeron – Proof of the benefits of open development",
+      "link": "https://www.gresearch.com/news/aeron-proof-of-the-benefits-of-open-development/",
+      "source": "G-Research",
+      "published": "2023-05-18T09:15:05+00:00"
+    },
+    {
+      "title": "G-Research April 2023 grant winners",
+      "link": "https://www.gresearch.com/news/g-research-april-2023-grant-winners/",
+      "source": "G-Research",
+      "published": "2023-05-04T23:00:00+00:00"
+    },
+    {
+      "title": "Curiosity at Two Sigma: “Poking and Prying with a Purpose”",
+      "link": "https://www.twosigma.com/articles/curiosity-at-two-sigma-poking-and-prying-with-a-purpose/",
+      "source": "Two Sigma",
+      "published": "2023-05-02T13:41:48+00:00"
+    },
+    {
+      "title": "Working in DevSecOps at G-Research, Dallas",
+      "link": "https://www.gresearch.com/news/working-in-devsecops-at-g-research-dallas/",
+      "source": "G-Research",
+      "published": "2023-05-01T23:00:00+00:00"
+    },
+    {
       "title": "Building reproducible Python environments with XARs",
       "link": "https://blog.janestreet.com/building-reproducible-python-environments-with-xars/",
       "source": "Jane Street",
       "published": "2023-04-14T00:00:00+00:00"
+    },
+    {
+      "title": "G-Research: Distinguished Speaker Series with Janelle Shane",
+      "link": "https://www.gresearch.com/news/g-research-distinguished-speaker-series-with-janelle-shane/",
+      "source": "G-Research",
+      "published": "2023-04-08T23:00:00+00:00"
+    },
+    {
+      "title": "Invisible Work of OpenStack: Testing Matrices",
+      "link": "https://www.gresearch.com/news/invisible-work-of-openstack-testing-matrices/",
+      "source": "G-Research",
+      "published": "2023-04-04T23:00:00+00:00"
+    },
+    {
+      "title": "G-Research March 2023 grant winners",
+      "link": "https://www.gresearch.com/news/g-research-march-2023-grant-winners/",
+      "source": "G-Research",
+      "published": "2023-04-03T23:00:00+00:00"
+    },
+    {
+      "title": "A PySpark bug makes co-grouping with window function partition-key-order-sensitive",
+      "link": "https://www.gresearch.com/news/a-pyspark-bug-makes-co-grouping-with-window-function-partition-key-order-sensitive/",
+      "source": "G-Research",
+      "published": "2023-03-29T08:51:05+00:00"
+    },
+    {
+      "title": "Un-pivot, sorted groups and many bug fixes: Celebrating the first Spark 3.4 release",
+      "link": "https://www.gresearch.com/news/un-pivot-sorted-groups-and-many-bug-fixes-celebrating-the-first-spark-3-4-release/",
+      "source": "G-Research",
+      "published": "2023-03-21T01:48:05+00:00"
+    },
+    {
+      "title": "G-Research Quant Finance Workshop, Leuven",
+      "link": "https://www.gresearch.com/news/g-research-quant-finance-workshop-leuven/",
+      "source": "G-Research",
+      "published": "2023-03-14T08:40:05+00:00"
     },
     {
       "title": "Modeling Equities Returns: The Linear Case",
@@ -848,10 +2222,118 @@
       "published": "2023-03-09T08:12:00+00:00"
     },
     {
+      "title": "G-Research February 2023 grant winners",
+      "link": "https://www.gresearch.com/news/g-research-february-2023-grant-winners/",
+      "source": "G-Research",
+      "published": "2023-03-08T09:36:05+00:00"
+    },
+    {
+      "title": "G-Research Coding Challenge with Hired",
+      "link": "https://www.gresearch.com/news/g-research-coding-challenge-with-hired/",
+      "source": "G-Research",
+      "published": "2023-02-27T02:44:05+00:00"
+    },
+    {
+      "title": "The search for universal storage",
+      "link": "https://www.gresearch.com/news/the-search-for-universal-storage/",
+      "source": "G-Research",
+      "published": "2023-02-15T10:21:05+00:00"
+    },
+    {
+      "title": "G-Research Quant Finance Workshop, Aarhus",
+      "link": "https://www.gresearch.com/news/g-research-quant-finance-workshop-aarhus/",
+      "source": "G-Research",
+      "published": "2023-02-13T07:45:05+00:00"
+    },
+    {
+      "title": "G-Research’s latest grant winners",
+      "link": "https://www.gresearch.com/news/g-researchs-latest-grant-winners/",
+      "source": "G-Research",
+      "published": "2023-01-30T09:52:05+00:00"
+    },
+    {
       "title": "Optimizing UX/UI Design for Trading at HRT",
       "link": "https://www.hudsonrivertrading.com/hrtbeat/optimizing-ux-ui-design-for-trading/",
       "source": "HRT",
       "published": "2023-01-27T10:20:00+00:00"
+    },
+    {
+      "title": "G-Research Quant Finance Workshop, Paris",
+      "link": "https://www.gresearch.com/news/g-research-quant-finance-workshop-paris/",
+      "source": "G-Research",
+      "published": "2023-01-26T12:15:05+00:00"
+    },
+    {
+      "title": "An interview with Alex Davies",
+      "link": "https://www.gresearch.com/news/an-interview-with-alex-davies/",
+      "source": "G-Research",
+      "published": "2023-01-25T10:48:04+00:00"
+    },
+    {
+      "title": "NeurIPS 2022: Paper review #4",
+      "link": "https://www.gresearch.com/news/neurips-2022-paper-review-4/",
+      "source": "G-Research",
+      "published": "2023-01-25T02:00:05+00:00"
+    },
+    {
+      "title": "NeurIPS 2022: Paper review #5",
+      "link": "https://www.gresearch.com/news/neurips-2022-paper-review-5/",
+      "source": "G-Research",
+      "published": "2023-01-25T02:00:05+00:00"
+    },
+    {
+      "title": "NeurIPS 2022: Paper review #6",
+      "link": "https://www.gresearch.com/news/neurips-2022-paper-review-6/",
+      "source": "G-Research",
+      "published": "2023-01-25T02:00:05+00:00"
+    },
+    {
+      "title": "NeurIPS 2022: Paper review #7",
+      "link": "https://www.gresearch.com/news/neurips-2022-paper-review-7/",
+      "source": "G-Research",
+      "published": "2023-01-25T02:00:05+00:00"
+    },
+    {
+      "title": "NeurIPS 2022: Paper review #8",
+      "link": "https://www.gresearch.com/news/neurips-2022-paper-review-8/",
+      "source": "G-Research",
+      "published": "2023-01-25T02:00:05+00:00"
+    },
+    {
+      "title": "NeurIPS 2022: Paper review #2",
+      "link": "https://www.gresearch.com/news/neurips-2022-paper-review-2/",
+      "source": "G-Research",
+      "published": "2023-01-25T02:00:04+00:00"
+    },
+    {
+      "title": "NeurIPS 2022: Paper review #3",
+      "link": "https://www.gresearch.com/news/neurips-2022-paper-review-3/",
+      "source": "G-Research",
+      "published": "2023-01-25T02:00:04+00:00"
+    },
+    {
+      "title": "NeurIPS 2022: Paper review #1",
+      "link": "https://www.gresearch.com/news/neurips-2022-paper-review-1/",
+      "source": "G-Research",
+      "published": "2023-01-25T01:59:04+00:00"
+    },
+    {
+      "title": "An interview with Kevin Buzzard",
+      "link": "https://www.gresearch.com/news/an-interview-with-kevin-buzzard/",
+      "source": "G-Research",
+      "published": "2023-01-18T01:29:04+00:00"
+    },
+    {
+      "title": "An interview with Sir Timothy Gowers",
+      "link": "https://www.gresearch.com/news/an-interview-with-sir-timothy-gowers/",
+      "source": "G-Research",
+      "published": "2023-01-11T11:19:04+00:00"
+    },
+    {
+      "title": "G-Research is delighted to become principal sponsor of the British Physics Olympiad",
+      "link": "https://www.gresearch.com/news/g-research-is-delighted-to-become-principal-sponsor-of-the-british-physics-olympiad/",
+      "source": "G-Research",
+      "published": "2023-01-10T00:00:00+00:00"
     },
     {
       "title": "What if writing tests was a joyful experience?",
@@ -872,6 +2354,18 @@
       "published": "2023-01-01T00:00:00+00:00"
     },
     {
+      "title": "Joining G-Research (eight months in)",
+      "link": "https://www.gresearch.com/news/joining-g-research-eight-months-in/",
+      "source": "G-Research",
+      "published": "2022-12-22T09:52:04+00:00"
+    },
+    {
+      "title": "G-Research November 2022 grant winners",
+      "link": "https://www.gresearch.com/news/g-research-november-2022-grant-winners/",
+      "source": "G-Research",
+      "published": "2022-12-20T10:11:04+00:00"
+    },
+    {
       "title": "Intern Spotlight: 2022 HRT AI Labs Summer Projects",
       "link": "https://www.hudsonrivertrading.com/hrtbeat/intern-spotlight-2022-hrt-ai-labs-summer-projects/",
       "source": "HRT",
@@ -884,10 +2378,22 @@
       "published": "2022-12-07T00:00:00+00:00"
     },
     {
+      "title": "Guaranteeing in-partition order for partitioned-writing in Apache Spark",
+      "link": "https://www.gresearch.com/news/guaranteeing-in-partition-order-for-partitioned-writing-in-apache-spark/",
+      "source": "G-Research",
+      "published": "2022-12-05T10:50:04+00:00"
+    },
+    {
       "title": "Low Latency Optimization: Using Huge Pages on Linux (Part 2)",
       "link": "https://www.hudsonrivertrading.com/hrtbeat/low-latency-optimization-part-2/",
       "source": "HRT",
       "published": "2022-12-02T05:24:00+00:00"
+    },
+    {
+      "title": "Low Latency Optimization: Understanding Huge Pages (Part 1)",
+      "link": "https://www.hudsonrivertrading.com/hrtbeat/low-latency-optimization-part-1/",
+      "source": "HRT",
+      "published": "2022-11-28T05:00:00+00:00"
     },
     {
       "title": "Visualizing information propagation in markets",
@@ -902,10 +2408,70 @@
       "published": "2022-11-17T00:00:00+00:00"
     },
     {
+      "title": "Two Sigma Interns Look Back on Summer 2022",
+      "link": "https://www.twosigma.com/articles/two-sigma-interns-look-back-on-summer-2022/",
+      "source": "Two Sigma",
+      "published": "2022-11-16T19:41:43+00:00"
+    },
+    {
+      "title": "Intern Spotlight: 2022 Software Engineering Projects",
+      "link": "https://www.hudsonrivertrading.com/hrtbeat/intern-spotlight-2022-software-engineering-projects/",
+      "source": "HRT",
+      "published": "2022-11-09T22:27:06+00:00"
+    },
+    {
+      "title": "On the Road: Meet Our Engineers at Upcoming Tech Conferences",
+      "link": "https://www.twosigma.com/articles/meet-our-engineers-at-upcoming-tech-conferences/",
+      "source": "Two Sigma",
+      "published": "2022-11-01T14:28:07+00:00"
+    },
+    {
+      "title": "From Epsilon to Omega: Making Small Strides Toward Important Goals",
+      "link": "https://www.twosigma.com/articles/from-epsilon-to-omega-making-small-strides-toward-important-goals/",
+      "source": "Two Sigma",
+      "published": "2022-09-23T23:32:44+00:00"
+    },
+    {
+      "title": "A Campus Career Fair Led This Software Developer to a New Life in NYC",
+      "link": "https://www.hudsonrivertrading.com/hrtbeat/campus-career-fair-led-software-developer-to-new-life-nyc/",
+      "source": "HRT",
+      "published": "2022-09-09T19:10:53+00:00"
+    },
+    {
+      "title": "Career Advice from Five Women in Engineering",
+      "link": "https://www.twosigma.com/articles/career-advice-from-five-women-in-engineering/",
+      "source": "Two Sigma",
+      "published": "2022-09-09T18:00:34+00:00"
+    },
+    {
+      "title": "Meet the Two Sigma Fellows: Huy Tuan Pham",
+      "link": "https://www.twosigma.com/articles/the-fellowship-forum-meet-the-two-sigma-fellows/",
+      "source": "Two Sigma",
+      "published": "2022-09-07T20:27:13+00:00"
+    },
+    {
+      "title": "Meet Your Match at the Grace Hopper Celebration",
+      "link": "https://www.twosigma.com/articles/meet-your-match-at-the-grace-hopper-celebration/",
+      "source": "Two Sigma",
+      "published": "2022-09-06T13:15:53+00:00"
+    },
+    {
+      "title": "pandas at a Crossroads: The Past, Present, and Future with Jeff Reback",
+      "link": "https://www.twosigma.com/articles/pandas-at-a-crossroads-the-past-present-and-future-with-jeff-reback/",
+      "source": "Two Sigma",
+      "published": "2022-08-31T14:43:53+00:00"
+    },
+    {
       "title": "Introducing the Jane Street Graduate Research Fellowship",
       "link": "https://blog.janestreet.com/graduate-research-fellowship/",
       "source": "Jane Street",
       "published": "2022-08-30T00:00:00+00:00"
+    },
+    {
+      "title": "VentureBeat on Two Sigma’s Growing Data Pipeline Ecosystem",
+      "link": "https://www.twosigma.com/articles/venturebeat-on-two-sigmas-growing-data-pipeline-ecosystem/",
+      "source": "Two Sigma",
+      "published": "2022-08-26T18:53:29+00:00"
     },
     {
       "title": "What the interns have wrought, 2022 edition",
@@ -914,10 +2480,100 @@
       "published": "2022-08-25T00:00:00+00:00"
     },
     {
+      "title": "Two Sigma Announces Acquisition of Hivemind Software",
+      "link": "https://www.twosigma.com/articles/two-sigma-announces-acquisition-of-hivemind-software/",
+      "source": "Two Sigma",
+      "published": "2022-08-24T12:03:12+00:00"
+    },
+    {
+      "title": "Webinar: Machine Learning Models of Financial Data",
+      "link": "https://www.twosigma.com/articles/machine-learning-models-of-financial-data/",
+      "source": "Two Sigma",
+      "published": "2022-08-23T21:25:52+00:00"
+    },
+    {
+      "title": "Tensu: An Open Source Text UI for Sensu Go",
+      "link": "https://www.twosigma.com/articles/tensu-an-open-source-text-ui-for-sensu-go/",
+      "source": "Two Sigma",
+      "published": "2022-08-09T19:32:41+00:00"
+    },
+    {
+      "title": "The Communication Habits That Help HRT’s Engineering Teams Thrive",
+      "link": "https://www.hudsonrivertrading.com/hrtbeat/communication-habits-that-help-teams-thrive/",
+      "source": "HRT",
+      "published": "2022-08-02T19:58:39+00:00"
+    },
+    {
+      "title": "Bidirectional Recurrent Neural Networks",
+      "link": "https://www.twosigma.com/articles/bidirectional-recurrent-neural-networks/",
+      "source": "Two Sigma",
+      "published": "2022-07-18T19:07:58+00:00"
+    },
+    {
+      "title": "Two Sigma’s Mike Schuster Wins IEEE SPS Sustained Impact Paper Award",
+      "link": "https://www.twosigma.com/articles/mike-schuster-wins-ieee-sps-sustained-impact-paper-award/",
+      "source": "Two Sigma",
+      "published": "2022-07-18T18:51:05+00:00"
+    },
+    {
+      "title": "Marco Della Torre Named CEO of Two Sigma’s Venn Platform",
+      "link": "https://www.twosigma.com/articles/marco-della-torre-named-ceo-of-two-sigmas-venn-platform/",
+      "source": "Two Sigma",
+      "published": "2022-06-16T12:03:23+00:00"
+    },
+    {
+      "title": "Revisiting the Two Sigma Factor Lens",
+      "link": "https://www.twosigma.com/articles/revisiting-the-two-sigma-factor-lens/",
+      "source": "Two Sigma",
+      "published": "2022-06-13T16:21:12+00:00"
+    },
+    {
+      "title": "In Trading, Machine Learning Benchmarks Don’t Track What You Care About",
+      "link": "https://www.hudsonrivertrading.com/hrtbeat/trading-machine-learning/",
+      "source": "HRT",
+      "published": "2022-05-16T16:05:17+00:00"
+    },
+    {
+      "title": "Series: Career Pathways for Software Engineers",
+      "link": "https://www.twosigma.com/articles/career-pathways-for-software-engineers/",
+      "source": "Two Sigma",
+      "published": "2022-03-18T18:57:54+00:00"
+    },
+    {
+      "title": "David Siegel on Future-Proofing Your Career",
+      "link": "https://www.twosigma.com/articles/david-siegel-on-future-proofing-your-career/",
+      "source": "Two Sigma",
+      "published": "2022-03-14T21:28:09+00:00"
+    },
+    {
       "title": "Research internships in our Tools and Compilers group",
       "link": "https://blog.janestreet.com/research-internships-tnc/",
       "source": "Jane Street",
       "published": "2022-03-04T00:00:00+00:00"
+    },
+    {
+      "title": "Scalable Ethereum Reads ",
+      "link": "https://www.hudsonrivertrading.com/hrtbeat/scalable-ethereum-reads/",
+      "source": "HRT",
+      "published": "2022-03-01T20:00:03+00:00"
+    },
+    {
+      "title": "How HRT Thinks About Data",
+      "link": "https://www.hudsonrivertrading.com/hrtbeat/how-hrt-thinks-about-data/",
+      "source": "HRT",
+      "published": "2022-02-01T18:34:06+00:00"
+    },
+    {
+      "title": "How to Spark Your Journey into Cybersecurity as a Software Engineer",
+      "link": "https://www.twosigma.com/articles/how-to-spark-your-journey-into-cybersecurity-as-a-software-engineer/",
+      "source": "Two Sigma",
+      "published": "2022-02-01T16:14:41+00:00"
+    },
+    {
+      "title": "A Machine Learning Approach to Constructing an Inflation-Themed Equity Portfolio",
+      "link": "https://www.twosigma.com/articles/a-machine-learning-approach-to-constructing-an-inflation-themed-equity-portfolio/",
+      "source": "Two Sigma",
+      "published": "2022-01-26T13:59:08+00:00"
     },
     {
       "title": "How Jane Street Pairs Interns to Projects and Teams During the Software Engineering Internship",
@@ -926,10 +2582,22 @@
       "published": "2022-01-14T00:00:00+00:00"
     },
     {
+      "title": "Data and Tech for Good Landscape",
+      "link": "https://www.twosigma.com/articles/data-and-tech-for-good-landscape/",
+      "source": "Two Sigma",
+      "published": "2022-01-12T20:02:35+00:00"
+    },
+    {
       "title": "Magic-trace: Diagnosing tricky performance issues easily with Intel Processor Trace",
       "link": "https://blog.janestreet.com/magic-trace/",
       "source": "Jane Street",
       "published": "2022-01-11T00:00:00+00:00"
+    },
+    {
+      "title": "How HRT Approached Remote Work During the Pandemic",
+      "link": "https://www.hudsonrivertrading.com/hrtbeat/how-hrt-transitioned-during-the-pandemic/",
+      "source": "HRT",
+      "published": "2022-01-04T22:16:52+00:00"
     },
     {
       "title": "Anchors that Stay: The Impact of U.S. Federal Reserve Policy on Inflation Expectations During the 2022 Inflation Surge",
@@ -944,10 +2612,106 @@
       "published": "2022-01-01T00:00:00+00:00"
     },
     {
+      "title": "The Exciting Next Chapter in Decentralized Finance",
+      "link": "https://www.twosigma.com/articles/the-exciting-next-chapter-in-decentralized-finance/",
+      "source": "Two Sigma",
+      "published": "2021-12-21T18:30:32+00:00"
+    },
+    {
+      "title": "Two Sigma Invests in Figment",
+      "link": "https://www.twosigma.com/articles/two-sigma-invests-in-figment/",
+      "source": "Two Sigma",
+      "published": "2021-12-21T17:53:09+00:00"
+    },
+    {
+      "title": "Enabling Algo Research on Blockchain Data",
+      "link": "https://www.hudsonrivertrading.com/hrtbeat/enabling-algo-research-blockchain/",
+      "source": "HRT",
+      "published": "2021-12-02T16:59:15+00:00"
+    },
+    {
+      "title": "Webinar: Deep Learning for Sequences in Quantitative Finance",
+      "link": "https://www.twosigma.com/articles/webinar-deep-learning-for-sequences-in-quantitative-finance/",
+      "source": "Two Sigma",
+      "published": "2021-11-15T19:11:34+00:00"
+    },
+    {
+      "title": "Two Sigma Securities Joins the Pyth Network",
+      "link": "https://www.twosigma.com/articles/two-sigma-securities-joins-the-pyth-network/",
+      "source": "Two Sigma",
+      "published": "2021-10-28T17:41:35+00:00"
+    },
+    {
+      "title": "How We Verify Custom Hardware",
+      "link": "https://www.hudsonrivertrading.com/hrtbeat/verify-custom-hardware/",
+      "source": "HRT",
+      "published": "2021-10-27T14:18:08+00:00"
+    },
+    {
+      "title": "Forecasting Inflation like a Data Scientist: 2021 Edition",
+      "link": "https://www.twosigma.com/articles/forecasting-inflation-like-a-data-scientist-2021-edition/",
+      "source": "Two Sigma",
+      "published": "2021-10-27T13:26:58+00:00"
+    },
+    {
+      "title": "ADMIRE: A Product-Driven Approach to Automating Migrations",
+      "link": "https://www.twosigma.com/articles/admire-a-product-driven-approach-to-automating-migrations/",
+      "source": "Two Sigma",
+      "published": "2021-10-25T15:05:05+00:00"
+    },
+    {
       "title": "Hiring a Developer Educator",
       "link": "https://blog.janestreet.com/hiring-a-developer-educator/",
       "source": "Jane Street",
       "published": "2021-10-21T00:00:00+00:00"
+    },
+    {
+      "title": "Scaling Prometheus to Billions of Samples a Second",
+      "link": "https://www.hudsonrivertrading.com/hrtbeat/scaling-prometheus/",
+      "source": "HRT",
+      "published": "2021-10-20T13:00:53+00:00"
+    },
+    {
+      "title": "A Machine Learning Approach to Regime Modeling",
+      "link": "https://www.twosigma.com/articles/a-machine-learning-approach-to-regime-modeling/",
+      "source": "Two Sigma",
+      "published": "2021-10-06T14:49:15+00:00"
+    },
+    {
+      "title": "PBS Series: David Siegel on the Future of Work",
+      "link": "https://www.twosigma.com/articles/pbs-series-david-siegel-on-the-future-of-work/",
+      "source": "Two Sigma",
+      "published": "2021-10-04T15:04:34+00:00"
+    },
+    {
+      "title": "Two Sigma Acquires Data Partner Liberty Source",
+      "link": "https://www.twosigma.com/articles/two-sigma-acquires-data-partner-liberty-source/",
+      "source": "Two Sigma",
+      "published": "2021-09-28T13:32:16+00:00"
+    },
+    {
+      "title": "Applying Artificial Intelligence to Trading",
+      "link": "https://www.hudsonrivertrading.com/hrtbeat/ai-trading/",
+      "source": "HRT",
+      "published": "2021-09-15T13:10:20+00:00"
+    },
+    {
+      "title": "An Introduction to SmallGrid",
+      "link": "https://www.hudsonrivertrading.com/hrtbeat/an-intro-to-smallgrid/",
+      "source": "HRT",
+      "published": "2021-09-15T13:05:34+00:00"
+    },
+    {
+      "title": "How to Prepare for Your Software Engineer Interview at HRT",
+      "link": "https://www.hudsonrivertrading.com/hrtbeat/interview-at-hrt/",
+      "source": "HRT",
+      "published": "2021-09-15T13:00:31+00:00"
+    },
+    {
+      "title": "Gyms for the Mind: Two Sigma’s Hacker Labs",
+      "link": "https://www.twosigma.com/articles/gyms-for-the-mind-two-sigmas-hacker-labs/",
+      "source": "Two Sigma",
+      "published": "2021-09-13T20:27:14+00:00"
     },
     {
       "title": "Goodbye Core_kernel",
@@ -956,16 +2720,106 @@
       "published": "2021-08-26T00:00:00+00:00"
     },
     {
+      "title": "A 24x Speedup for Reinforcement Learning with RLlib + Ray",
+      "link": "https://www.twosigma.com/articles/a-24x-speedup-for-reinforcement-learning-with-rllib-ray/",
+      "source": "Two Sigma",
+      "published": "2021-08-12T18:57:32+00:00"
+    },
+    {
       "title": "What the interns have wrought, 2021 edition",
       "link": "https://blog.janestreet.com/what-the-interns-have-wrought-2021/",
       "source": "Jane Street",
       "published": "2021-08-09T00:00:00+00:00"
     },
     {
+      "title": "Watch: How to Ace a Technical Interview",
+      "link": "https://www.twosigma.com/articles/watch-how-to-ace-a-technical-interview/",
+      "source": "Two Sigma",
+      "published": "2021-07-19T18:50:45+00:00"
+    },
+    {
+      "title": "Risk Analysis of Crypto Assets",
+      "link": "https://www.twosigma.com/articles/risk-analysis-of-crypto-assets/",
+      "source": "Two Sigma",
+      "published": "2021-07-14T13:39:34+00:00"
+    },
+    {
+      "title": "Endlessly Curious and Maximally Effective: Engineering Education at Two Sigma",
+      "link": "https://www.twosigma.com/articles/endlessly-curious-and-maximally-effective-engineering-education-at-two-sigma/",
+      "source": "Two Sigma",
+      "published": "2021-06-23T19:50:54+00:00"
+    },
+    {
+      "title": "Bloomberg: Roundtable with Japan’s Minister Kono and Two Sigma’s David Siegel",
+      "link": "https://www.twosigma.com/articles/bloomberg-roundtable-with-japans-minister-kono-and-two-sigmas-david-siegel/",
+      "source": "Two Sigma",
+      "published": "2021-06-23T13:14:42+00:00"
+    },
+    {
       "title": "Looking for a developer experience engineer",
       "link": "https://blog.janestreet.com/looking-for-a-developer-experience-engineer-index/",
       "source": "Jane Street",
       "published": "2021-06-15T00:00:00+00:00"
+    },
+    {
+      "title": "Our Favorite Deep Learning Papers and Talks from ICLR 2021",
+      "link": "https://www.twosigma.com/articles/our-favorite-deep-learning-papers-and-talks-from-iclr-2021/",
+      "source": "Two Sigma",
+      "published": "2021-06-14T19:25:16+00:00"
+    },
+    {
+      "title": "What is ESG? Depends on Whom You Ask",
+      "link": "https://www.twosigma.com/articles/what-is-esg-depends-on-whom-you-ask/",
+      "source": "Two Sigma",
+      "published": "2021-05-26T13:55:19+00:00"
+    },
+    {
+      "title": "The Association for Computing Machinery names recipient of the 2021-2022 Athena Lecturer Award",
+      "link": "https://www.twosigma.com/articles/the-association-for-computing-machinery-names-recipient-of-the-2021-2022-athena-lecturer-award/",
+      "source": "Two Sigma",
+      "published": "2021-05-17T15:37:56+00:00"
+    },
+    {
+      "title": "Two Sigma Launches Real Estate Investment Business",
+      "link": "https://www.twosigma.com/articles/two-sigma-launches-real-estate-investment-business/",
+      "source": "Two Sigma",
+      "published": "2021-04-21T13:30:34+00:00"
+    },
+    {
+      "title": "Meeting of the Minds: Two Sigma’s Inaugural PhD Symposium",
+      "link": "https://www.twosigma.com/articles/meeting-of-the-minds-two-sigmas-inaugural-phd-symposium/",
+      "source": "Two Sigma",
+      "published": "2021-04-14T14:17:58+00:00"
+    },
+    {
+      "title": "Ethics and Technology: A Fireside Chat with David Siegel",
+      "link": "https://www.twosigma.com/articles/ethics-and-technology-a-fireside-chat-with-david-siegel/",
+      "source": "Two Sigma",
+      "published": "2021-04-07T19:36:50+00:00"
+    },
+    {
+      "title": "Two Sigma Appoints Tom Hill as Chairman of Private Investment Business",
+      "link": "https://www.twosigma.com/articles/two-sigma-appoints-tom-hill-as-chairman-of-private-investment-business/",
+      "source": "Two Sigma",
+      "published": "2021-03-18T09:30:41+00:00"
+    },
+    {
+      "title": "KKR to Acquire Integrated Specialty Coverages (ISC)",
+      "link": "https://www.twosigma.com/articles/kkr-to-acquire-integrated-specialty-coverages-isc/",
+      "source": "Two Sigma",
+      "published": "2021-03-04T09:00:43+00:00"
+    },
+    {
+      "title": "Webinar Replay: How Design Choices Impact Low Risk Factor Performance",
+      "link": "https://www.twosigma.com/articles/webinar-replay-how-design-choices-impact-low-risk-factor-performance/",
+      "source": "Two Sigma",
+      "published": "2021-02-09T18:52:12+00:00"
+    },
+    {
+      "title": "Bloomberg: David Siegel on Technology’s Impact on the Human Experience",
+      "link": "https://www.twosigma.com/articles/bloomberg-david-siegel-on-technologys-impact-on-the-human-experience/",
+      "source": "Two Sigma",
+      "published": "2021-01-25T14:05:47+00:00"
     },
     {
       "title": "Pyflyby: Utilities and Extensions for Improving Productivity in Python",
@@ -1004,6 +2858,18 @@
       "published": "2021-01-01T00:00:00+00:00"
     },
     {
+      "title": "Bloomberg: Camille Fournier on Building Tech at Two Sigma",
+      "link": "https://www.twosigma.com/articles/bloomberg-camille-fournier-on-building-tech-at-two-sigma/",
+      "source": "Two Sigma",
+      "published": "2020-12-21T14:23:31+00:00"
+    },
+    {
+      "title": "How Design Choices Impact Low Risk Factor Performance",
+      "link": "https://www.twosigma.com/articles/how-design-choices-impact-low-risk-factor-performance/",
+      "source": "Two Sigma",
+      "published": "2020-12-08T15:13:57+00:00"
+    },
+    {
       "title": "Growing the Hardcaml toolset",
       "link": "https://blog.janestreet.com/growing-the-hardcaml-toolset-index/",
       "source": "Jane Street",
@@ -1016,10 +2882,34 @@
       "published": "2020-11-24T00:00:00+00:00"
     },
     {
+      "title": "Two Sigma Summer Interns Reflect on Working Remotely",
+      "link": "https://www.twosigma.com/articles/two-sigma-summer-interns-reflect-on-working-remotely/",
+      "source": "Two Sigma",
+      "published": "2020-11-11T14:31:46+00:00"
+    },
+    {
+      "title": "Business Insider: Two Sigma Extends Its Internship Program",
+      "link": "https://www.twosigma.com/articles/business-insider-two-sigma-extends-its-internship-program/",
+      "source": "Two Sigma",
+      "published": "2020-11-09T14:13:30+00:00"
+    },
+    {
+      "title": "safeboot: Improving the Safety of Booting Linux on Normal Laptops",
+      "link": "https://www.twosigma.com/articles/safeboot-improving-the-safety-of-booting-linux-on-normal-laptops/",
+      "source": "Two Sigma",
+      "published": "2020-10-09T20:34:54+00:00"
+    },
+    {
       "title": "Finding memory leaks with Memtrace",
       "link": "https://blog.janestreet.com/finding-memory-leaks-with-memtrace/",
       "source": "Jane Street",
       "published": "2020-10-06T00:00:00+00:00"
+    },
+    {
+      "title": "Estimating Global Investor Views with Reverse Optimization",
+      "link": "https://www.twosigma.com/articles/estimating-global-investor-views-with-reverse-optimization/",
+      "source": "Two Sigma",
+      "published": "2020-09-21T19:54:08+00:00"
     },
     {
       "title": "Memory allocator showdown",
@@ -1040,16 +2930,40 @@
       "published": "2020-08-17T00:00:00+00:00"
     },
     {
+      "title": "Diagnosing the Recent Decade of Drawdown in Value",
+      "link": "https://www.twosigma.com/articles/diagnosing-the-recent-decade-of-drawdown-in-value/",
+      "source": "Two Sigma",
+      "published": "2020-07-27T23:16:41+00:00"
+    },
+    {
       "title": "The Jane Street Interview Process &mdash; 2020 Edition",
       "link": "https://blog.janestreet.com/jane-street-interview-process-2020/",
       "source": "Jane Street",
       "published": "2020-07-24T00:00:00+00:00"
     },
     {
+      "title": "David Siegel Interviewed on the Milken Institute Podcast Series",
+      "link": "https://www.twosigma.com/articles/david-siegel-interviewed-on-the-milken-institute-podcast-series/",
+      "source": "Two Sigma",
+      "published": "2020-07-20T13:52:02+00:00"
+    },
+    {
+      "title": "Markets in the Rear-View Mirror: COVID-19 Collision",
+      "link": "https://www.twosigma.com/articles/markets-in-the-rear-view-mirror-covid-19-collision/",
+      "source": "Two Sigma",
+      "published": "2020-06-29T21:40:48+00:00"
+    },
+    {
       "title": "Really low latency multipliers and cryptographic puzzles",
       "link": "https://blog.janestreet.com/really-low-latency-multipliers-and-cryptographic-puzzles/",
       "source": "Jane Street",
       "published": "2020-06-22T00:00:00+00:00"
+    },
+    {
+      "title": "Two Sigma Appoints Jeffrey Wecker as Chief Technology Officer",
+      "link": "https://www.twosigma.com/articles/two-sigma-appoints-jeffrey-wecker-as-chief-technology-officer/",
+      "source": "Two Sigma",
+      "published": "2020-06-11T09:03:19+00:00"
     },
     {
       "title": "Using ASCII waveforms to test hardware designs",
@@ -1062,6 +2976,24 @@
       "link": "https://blog.janestreet.com/chrome-extensions-finding-the-missing-proof/",
       "source": "Jane Street",
       "published": "2020-04-17T00:00:00+00:00"
+    },
+    {
+      "title": "Unwinds, Diversification, and Constraints: The Mechanics of Financial Panics",
+      "link": "https://www.twosigma.com/articles/unwinds-diversification-and-constraints-the-mechanics-of-financial-panics/",
+      "source": "Two Sigma",
+      "published": "2020-04-16T09:06:33+00:00"
+    },
+    {
+      "title": "The Association for Computing Machinery Names Recipient of the 2020-2021 Athena Lecturer Award",
+      "link": "https://www.twosigma.com/articles/the-association-for-computing-machinery-names-recipient-of-the-2020-2021-athena-lecturer-award/",
+      "source": "Two Sigma",
+      "published": "2020-04-15T10:08:18+00:00"
+    },
+    {
+      "title": "NeurIPS 2019 Highlights: Key Themes and Papers",
+      "link": "https://www.twosigma.com/articles/neurips-2019-highlights-key-themes-and-papers/",
+      "source": "Two Sigma",
+      "published": "2020-03-26T14:25:45+00:00"
     },
     {
       "title": "Watch all of Jane Street's tech talks",
@@ -1088,10 +3020,34 @@
       "published": "2019-12-06T00:00:00+00:00"
     },
     {
+      "title": "Software Engineering or Product Management: Which Is Best for You?",
+      "link": "https://www.twosigma.com/articles/software-engineering-or-product-management-which-is-best-for-you/",
+      "source": "Two Sigma",
+      "published": "2019-10-21T10:19:49+00:00"
+    },
+    {
+      "title": "Tech Stew: Highlights from Strange Loop 2019 and PWLConf 2019",
+      "link": "https://www.twosigma.com/articles/tech-stew-highlights-from-strange-loop-2019-and-pwlconf-2019/",
+      "source": "Two Sigma",
+      "published": "2019-10-14T15:24:50+00:00"
+    },
+    {
       "title": "Commas in big numbers everywhere: An OpenType adventure",
       "link": "https://blog.janestreet.com/commas-in-big-numbers-everywhere/",
       "source": "Jane Street",
       "published": "2019-10-14T00:00:00+00:00"
+    },
+    {
+      "title": "ICLR 2019: Our Favorite Machine Learning Talks and Papers",
+      "link": "https://www.twosigma.com/articles/iclr-2019-our-favorite-machine-learning-talks-and-papers/",
+      "source": "Two Sigma",
+      "published": "2019-09-17T10:27:27+00:00"
+    },
+    {
+      "title": "How to Get an Interview at the Grace Hopper Celebration",
+      "link": "https://www.twosigma.com/articles/how-to-get-an-interview-at-the-grace-hopper-celebration/",
+      "source": "Two Sigma",
+      "published": "2019-09-10T10:19:20+00:00"
     },
     {
       "title": "What the interns have wrought, 2019 edition",
@@ -1118,10 +3074,40 @@
       "published": "2019-07-12T00:00:00+00:00"
     },
     {
+      "title": "Share Buybacks: A Brief Investigation",
+      "link": "https://www.twosigma.com/articles/share-buybacks-a-brief-investigation/",
+      "source": "Two Sigma",
+      "published": "2019-07-09T13:38:11+00:00"
+    },
+    {
       "title": "Of Pythons and Camels",
       "link": "https://blog.janestreet.com/of-pythons-and-camels/",
       "source": "Jane Street",
       "published": "2019-07-09T00:00:00+00:00"
+    },
+    {
+      "title": "Interpretability Methods in Machine Learning: A Brief Survey",
+      "link": "https://www.twosigma.com/articles/interpretability-methods-in-machine-learning-a-brief-survey/",
+      "source": "Two Sigma",
+      "published": "2019-06-25T15:09:43+00:00"
+    },
+    {
+      "title": "AI Past and Future: A Conversation with David Siegel and Kai-Fu Lee",
+      "link": "https://www.twosigma.com/articles/ai-past-and-future-a-conversation-with-david-siegel-and-kai-fu-lee/",
+      "source": "Two Sigma",
+      "published": "2019-05-20T14:08:33+00:00"
+    },
+    {
+      "title": "Two Sigma Factor Lens: Forecasting Factor Returns",
+      "link": "https://www.twosigma.com/articles/two-sigma-factor-lens-forecasting-factor-returns/",
+      "source": "Two Sigma",
+      "published": "2019-05-14T17:32:26+00:00"
+    },
+    {
+      "title": "Thematic Research: Forecasting Factor Returns",
+      "link": "https://www.twosigma.com/articles/thematic-research-forecasting-factor-returns/",
+      "source": "Two Sigma",
+      "published": "2019-05-14T17:28:32+00:00"
     },
     {
       "title": "Thoughts from AAAI 2019",
@@ -1136,6 +3122,24 @@
       "published": "2019-04-17T00:00:00+00:00"
     },
     {
+      "title": "Why Two Sigma is using SigOpt for Automated Parameter Tuning",
+      "link": "https://www.twosigma.com/articles/why-two-sigma-is-using-sigopt-for-automated-parameter-tuning/",
+      "source": "Two Sigma",
+      "published": "2019-04-11T17:52:01+00:00"
+    },
+    {
+      "title": "The Association for Computing Machinery Names 2019-2020 Athena Lecturer",
+      "link": "https://www.twosigma.com/articles/the-association-for-computing-machinery-names-2019-2020-athena-lecturer/",
+      "source": "Two Sigma",
+      "published": "2019-04-01T18:55:57+00:00"
+    },
+    {
+      "title": "Agile Cloud Security",
+      "link": "https://www.twosigma.com/articles/agile-cloud-security/",
+      "source": "Two Sigma",
+      "published": "2019-03-26T13:46:42+00:00"
+    },
+    {
       "title": "Machining the ultimate hackathon prize",
       "link": "https://blog.janestreet.com/hackathon-keyboards/",
       "source": "Jane Street",
@@ -1148,10 +3152,22 @@
       "published": "2019-02-28T00:00:00+00:00"
     },
     {
+      "title": "David Siegel on the “Rules for the AI Race”: a WEF Roundtable",
+      "link": "https://www.twosigma.com/articles/david-siegel-on-the-rules-for-the-ai-race-a-wef-roundtable/",
+      "source": "Two Sigma",
+      "published": "2019-02-15T17:04:44+00:00"
+    },
+    {
       "title": "Playing Atari Games with OCaml and Deep Reinforcement Learning",
       "link": "https://blog.janestreet.com/playing-atari-games-with-ocaml-and-deep-rl/",
       "source": "Jane Street",
       "published": "2019-02-02T00:00:00+00:00"
+    },
+    {
+      "title": "Financial Times: Algorithms are an easy scapegoat for volatile markets",
+      "link": "https://www.twosigma.com/articles/financial-times-algorithms-are-an-easy-scapegoat-for-volatile-markets/",
+      "source": "Two Sigma",
+      "published": "2019-01-29T18:20:18+00:00"
     },
     {
       "title": "L2 Regularization and Batch Norm",
@@ -1160,10 +3176,88 @@
       "published": "2019-01-29T00:00:00+00:00"
     },
     {
+      "title": "Building a High-Throughput Metrics System Using Open Source Software",
+      "link": "https://www.twosigma.com/articles/building-a-high-throughput-metrics-system-using-open-source-software/",
+      "source": "Two Sigma",
+      "published": "2019-01-24T19:44:04+00:00"
+    },
+    {
       "title": "A tutorial for building web applications with Incr_dom",
       "link": "https://blog.janestreet.com/a-tutorial-for-building-web-applications-with-incrdom/",
       "source": "Jane Street",
       "published": "2019-01-15T00:00:00+00:00"
+    },
+    {
+      "title": "Bloomberg: Two Sigma Marshals Squadron of Quants in Push to Help Nonprofits",
+      "link": "https://www.twosigma.com/articles/bloomberg-two-sigma-marshals-squadron-of-quants-in-push-to-help-nonprofits/",
+      "source": "Two Sigma",
+      "published": "2019-01-11T15:09:46+00:00"
+    },
+    {
+      "title": "Gradient Sparsification for Communication-Efficient Distributed Optimization",
+      "link": "https://www.twosigma.com/articles/gradient-sparsification-for-communication-efficient-distributed-optimization/",
+      "source": "Two Sigma",
+      "published": "2018-11-27T19:59:25+00:00"
+    },
+    {
+      "title": "Graph Oracle Models, Lower Bounds, and Gaps for Parallel Stochastic Optimization",
+      "link": "https://www.twosigma.com/articles/graph-oracle-models-lower-bounds-and-gaps-for-parallel-stochastic-optimization/",
+      "source": "Two Sigma",
+      "published": "2018-11-27T19:45:54+00:00"
+    },
+    {
+      "title": "Sparse PCA from Sparse Linear Regression",
+      "link": "https://www.twosigma.com/articles/sparse-pca-from-sparse-linear-regression/",
+      "source": "Two Sigma",
+      "published": "2018-11-27T19:18:11+00:00"
+    },
+    {
+      "title": "A Secure Cloud with Minimal Provider Trust",
+      "link": "https://www.twosigma.com/articles/a-secure-cloud-with-minimal-provider-trust/",
+      "source": "Two Sigma",
+      "published": "2018-11-15T20:56:41+00:00"
+    },
+    {
+      "title": "Options Pricing as a Measure of US Election Risk",
+      "link": "https://www.twosigma.com/articles/options-pricing-as-a-measure-of-us-election-risk/",
+      "source": "Two Sigma",
+      "published": "2018-11-05T19:54:37+00:00"
+    },
+    {
+      "title": "Introducing Flint: A Time-Series Library for Apache Spark",
+      "link": "https://www.twosigma.com/articles/introducing-flint-a-time-series-library-for-apache-spark/",
+      "source": "Two Sigma",
+      "published": "2018-10-25T15:05:58+00:00"
+    },
+    {
+      "title": "MiSoSouP: Extracting the Most “Flavor” from a Dataset",
+      "link": "https://www.twosigma.com/articles/misosoup-extracting-the-most-flavor-from-a-dataset/",
+      "source": "Two Sigma",
+      "published": "2018-10-25T15:04:51+00:00"
+    },
+    {
+      "title": "Introducing the Two Sigma Factor Lens",
+      "link": "https://www.twosigma.com/articles/introducing-the-two-sigma-factor-lens/",
+      "source": "Two Sigma",
+      "published": "2018-10-09T13:53:37+00:00"
+    },
+    {
+      "title": "Ibis and BigQuery: Scalable Analytics with the Comfort of Python",
+      "link": "https://www.twosigma.com/articles/ibis-and-bigquery-scalable-analytics-with-the-comfort-of-python/",
+      "source": "Two Sigma",
+      "published": "2018-10-09T13:49:16+00:00"
+    },
+    {
+      "title": "ICML 2018: Our Favorite Papers on Deep Learning, GANs, Optimization, and More",
+      "link": "https://www.twosigma.com/articles/icml-2018-our-favorite-papers-on-deep-learning-gans-optimization-and-more/",
+      "source": "Two Sigma",
+      "published": "2018-09-27T18:44:09+00:00"
+    },
+    {
+      "title": "Engineering with Open Source",
+      "link": "https://www.twosigma.com/articles/engineering-with-open-source/",
+      "source": "Two Sigma",
+      "published": "2018-09-27T18:36:54+00:00"
     },
     {
       "title": "How to shuffle a big dataset",
@@ -1172,10 +3266,46 @@
       "published": "2018-09-26T00:00:00+00:00"
     },
     {
+      "title": "Highlights of the 2018 Joint Statistical Meetings",
+      "link": "https://www.twosigma.com/articles/highlights-of-the-2018-joint-statistical-meetings/",
+      "source": "Two Sigma",
+      "published": "2018-09-24T14:07:06+00:00"
+    },
+    {
       "title": "Deep learning experiments in OCaml",
       "link": "https://blog.janestreet.com/deep-learning-experiments-in-ocaml/",
       "source": "Jane Street",
       "published": "2018-09-20T00:00:00+00:00"
+    },
+    {
+      "title": "Bloomberg: Two Sigma Invests in Startup That Handles Unsexy Side of Data",
+      "link": "https://www.twosigma.com/articles/bloomberg-two-sigma-invests-in-startup-that-handles-unsexy-side-of-data/",
+      "source": "Two Sigma",
+      "published": "2018-09-06T14:22:01+00:00"
+    },
+    {
+      "title": "Measuring the Impact of the US-China Trade War",
+      "link": "https://www.twosigma.com/articles/measuring-the-impact-of-the-us-china-trade-war/",
+      "source": "Two Sigma",
+      "published": "2018-09-05T17:30:02+00:00"
+    },
+    {
+      "title": "Datanami: Engineers Vs. Scientists: Who to Hire in Data Now?",
+      "link": "https://www.twosigma.com/articles/datanami-engineers-vs-scientists-who-to-hire-in-data-now/",
+      "source": "Two Sigma",
+      "published": "2018-09-04T22:11:28+00:00"
+    },
+    {
+      "title": "Sundial: Harmonizing Concurrency Control and Caching in a Distributed OLTP Database Management System",
+      "link": "https://www.twosigma.com/articles/sundial-harmonizing-concurrency-control-and-caching-in-a-distributed-oltp-database-management-system/",
+      "source": "Two Sigma",
+      "published": "2018-08-29T14:30:16+00:00"
+    },
+    {
+      "title": "The Future of Database Management: An Interview with CMU’s Andy Pavlo",
+      "link": "https://www.twosigma.com/articles/the-future-of-database-management-an-interview-with-cmus-andy-pavlo/",
+      "source": "Two Sigma",
+      "published": "2018-08-28T18:11:28+00:00"
     },
     {
       "title": "What the interns have wrought, 2018 edition",
@@ -1184,10 +3314,76 @@
       "published": "2018-08-06T00:00:00+00:00"
     },
     {
+      "title": "WSJ: The Future of Everything: AI and the Future of Work",
+      "link": "https://www.twosigma.com/articles/wsj-the-future-of-everything-ai-and-the-future-of-work/",
+      "source": "Two Sigma",
+      "published": "2018-08-02T21:36:51+00:00"
+    },
+    {
+      "title": "Tencent: In Conversation with World Quantitative Hedge Fund Giant: Can AI Investment Replace Traditional Investment Approaches?",
+      "link": "https://www.twosigma.com/articles/tencent-in-conversation-with-world-quantitative-hedge-fund-giant-can-ai-investment-replace-traditional-investment-approaches/",
+      "source": "Two Sigma",
+      "published": "2018-07-30T17:56:11+00:00"
+    },
+    {
+      "title": "The Halite Global AI Programming Competition in Google Cloud for Google Cloud NEXT",
+      "link": "https://www.twosigma.com/articles/the-halite-global-ai-programming-competition-in-google-cloud-for-google-cloud-next/",
+      "source": "Two Sigma",
+      "published": "2018-07-26T15:55:54+00:00"
+    },
+    {
+      "title": "MiSoSouP: Mining Interesting Subgroups with Sampling and Pseudodimension",
+      "link": "https://www.twosigma.com/articles/misosoup-mining-interesting-subgroups-with-sampling-and-pseudodimension/",
+      "source": "Two Sigma",
+      "published": "2018-07-24T13:46:52+00:00"
+    },
+    {
+      "title": "Making Sense of the Sharpe Ratio",
+      "link": "https://www.twosigma.com/articles/making-sense-of-the-sharpe-ratio/",
+      "source": "Two Sigma",
+      "published": "2018-07-11T14:26:25+00:00"
+    },
+    {
+      "title": "Learning and Memorization",
+      "link": "https://www.twosigma.com/articles/learning-and-memorization/",
+      "source": "Two Sigma",
+      "published": "2018-06-29T15:25:35+00:00"
+    },
+    {
       "title": "Plans for OCaml 4.08",
       "link": "https://blog.janestreet.com/plans-for-ocaml-408/",
       "source": "Jane Street",
       "published": "2018-06-29T00:00:00+00:00"
+    },
+    {
+      "title": "David Siegel on the Future of AI, Data Science, and More",
+      "link": "https://www.twosigma.com/articles/david-siegel-on-the-future-of-ai-data-science-and-more/",
+      "source": "Two Sigma",
+      "published": "2018-06-20T15:01:20+00:00"
+    },
+    {
+      "title": "Sharpe Ratio: Estimation, Confidence Intervals, and Hypothesis Testing",
+      "link": "https://www.twosigma.com/articles/sharpe-ratio-estimation-confidence-intervals-and-hypothesis-testing/",
+      "source": "Two Sigma",
+      "published": "2018-06-13T20:31:50+00:00"
+    },
+    {
+      "title": "Thematic Research: Introducing the Two Sigma Factor Lens",
+      "link": "https://www.twosigma.com/articles/thematic-research-introducing-the-two-sigma-factor-lens/",
+      "source": "Two Sigma",
+      "published": "2018-06-04T19:35:07+00:00"
+    },
+    {
+      "title": "Markets in the Rear-View Mirror (May Be Closer Than They Appear)",
+      "link": "https://www.twosigma.com/articles/markets-in-the-rear-view-mirror-may-be-closer-than-they-appear/",
+      "source": "Two Sigma",
+      "published": "2018-05-21T17:30:11+00:00"
+    },
+    {
+      "title": "Two Sigma Partners with FIRST NYC Robotics on Live Competition",
+      "link": "https://www.twosigma.com/articles/two-sigma-partners-with-first-nyc-robotics-on-live-competition/",
+      "source": "Two Sigma",
+      "published": "2018-05-18T17:12:03+00:00"
     },
     {
       "title": "Repeatable exploratory programming",
@@ -1196,10 +3392,28 @@
       "published": "2018-04-22T00:00:00+00:00"
     },
     {
+      "title": "Pensions & Investments: Race is on to Grab Most Possible from Machine Learning",
+      "link": "https://www.twosigma.com/articles/pensions-investments-race-is-on-to-grab-most-possible-from-machine-learning/",
+      "source": "Two Sigma",
+      "published": "2018-04-16T17:58:16+00:00"
+    },
+    {
+      "title": "Bloomberg: Two Sigma Hires Google Scientist Mike Schuster for AI Expansion",
+      "link": "https://www.twosigma.com/articles/bloomberg-two-sigma-hires-google-scientist-mike-schuster-for-ai-expansion/",
+      "source": "Two Sigma",
+      "published": "2018-04-16T17:57:34+00:00"
+    },
+    {
       "title": "OCaml all the way down",
       "link": "https://blog.janestreet.com/ocaml-all-the-way-down/",
       "source": "Jane Street",
       "published": "2018-04-04T00:00:00+00:00"
+    },
+    {
+      "title": "Beyond the VIX: Alternate Measures of Macro and Financial Uncertainty",
+      "link": "https://www.twosigma.com/articles/beyond-the-vix-alternate-measures-of-macro-and-financial-uncertainty/",
+      "source": "Two Sigma",
+      "published": "2018-03-28T15:40:33+00:00"
     },
     {
       "title": "Putting the I back in IDE: Towards a Github Explorer",
@@ -1208,10 +3422,34 @@
       "published": "2018-03-27T00:00:00+00:00"
     },
     {
+      "title": "25 of Our Favorite Papers, Talks, Presentations, and Workshops from NIPS 2017",
+      "link": "https://www.twosigma.com/articles/25-of-our-favorite-papers-talks-presentations-and-workshops-from-nips-2017/",
+      "source": "Two Sigma",
+      "published": "2018-02-27T13:50:12+00:00"
+    },
+    {
+      "title": "Gauging the Market Impact of NAFTA Negotiations",
+      "link": "https://www.twosigma.com/articles/gauging-the-market-impact-of-nafta-negotiations/",
+      "source": "Two Sigma",
+      "published": "2018-02-22T12:00:20+00:00"
+    },
+    {
       "title": "Learn OCaml in NYC",
       "link": "https://blog.janestreet.com/learn-ocaml-nyc/",
       "source": "Jane Street",
       "published": "2018-02-16T00:00:00+00:00"
+    },
+    {
+      "title": "LinuxBoot: A Fast, Reliable Open Source Firmware for Linux Servers",
+      "link": "https://www.twosigma.com/articles/linuxboot-a-fast-reliable-open-source-firmware-for-linux-servers/",
+      "source": "Two Sigma",
+      "published": "2018-02-15T09:31:39+00:00"
+    },
+    {
+      "title": "Two Sigma opens Tokyo office",
+      "link": "https://www.twosigma.com/articles/two-sigma-opens-tokyo-office/",
+      "source": "Two Sigma",
+      "published": "2018-02-15T09:29:49+00:00"
     },
     {
       "title": "Proofs (and Refutations) using Z3",
@@ -1220,10 +3458,124 @@
       "published": "2018-02-15T00:00:00+00:00"
     },
     {
+      "title": "Best Practices from Building a Machine Learning Bot for Halite",
+      "link": "https://www.twosigma.com/articles/best-practices-from-building-a-machine-learning-bot-for-halite/",
+      "source": "Two Sigma",
+      "published": "2018-02-12T11:48:25+00:00"
+    },
+    {
+      "title": "Bloomberg: Why a Successful Quant Fund Created Its Own Video Game (Podcast)",
+      "link": "https://www.twosigma.com/articles/bloomberg-why-a-successful-quant-fund-created-its-own-video-game-podcast/",
+      "source": "Two Sigma",
+      "published": "2018-02-11T18:09:06+00:00"
+    },
+    {
+      "title": "Nikkei: US leading AI Fund comes to Japan",
+      "link": "https://www.twosigma.com/articles/nikkei-us-leading-ai-fund-comes-to-japan/",
+      "source": "Two Sigma",
+      "published": "2018-02-09T18:11:28+00:00"
+    },
+    {
+      "title": "Halite II concludes, winners announced!",
+      "link": "https://www.twosigma.com/articles/halite-ii-concludes-winners-announced/",
+      "source": "Two Sigma",
+      "published": "2018-01-31T11:36:58+00:00"
+    },
+    {
+      "title": "Quantifying “Unconventional” Risks in 2018",
+      "link": "https://www.twosigma.com/articles/quantifying-unconventional-risks-in-2018/",
+      "source": "Two Sigma",
+      "published": "2018-01-17T11:34:43+00:00"
+    },
+    {
+      "title": "Technical.ly Brooklyn: A Brooklyn high-schooler takes on the world",
+      "link": "https://www.twosigma.com/articles/technical-ly-brooklyn-a-brooklyn-high-schooler-takes-on-the-world/",
+      "source": "Two Sigma",
+      "published": "2018-01-09T18:13:11+00:00"
+    },
+    {
+      "title": "Bringing Linux back to the Server BIOS with LinuxBoot",
+      "link": "https://www.twosigma.com/articles/bringing-linux-back-to-the-server-bios-with-linuxboot/",
+      "source": "Two Sigma",
+      "published": "2017-12-29T17:26:06+00:00"
+    },
+    {
       "title": "Work on the OCaml compiler at Jane Street!",
       "link": "https://blog.janestreet.com/work-on-the-ocaml-compiler-at-jane-street/",
       "source": "Jane Street",
       "published": "2017-12-20T00:00:00+00:00"
+    },
+    {
+      "title": "Policy-Related Uncertainty May Be Rising, Despite Tax Reform",
+      "link": "https://www.twosigma.com/articles/policy-related-uncertainty-may-be-rising-despite-tax-reform/",
+      "source": "Two Sigma",
+      "published": "2017-12-11T10:05:10+00:00"
+    },
+    {
+      "title": "Quartz: Meet the Man Behind the Most Important Tool in Data Science",
+      "link": "https://www.twosigma.com/articles/quartz-meet-the-man-behind-the-most-important-tool-in-data-science/",
+      "source": "Two Sigma",
+      "published": "2017-12-08T18:14:34+00:00"
+    },
+    {
+      "title": "Financial Times: The Quant Fund Investing in Humans not Algorithms",
+      "link": "https://www.twosigma.com/articles/financial-times-the-quant-fund-investing-in-humans-not-algorithms/",
+      "source": "Two Sigma",
+      "published": "2017-12-06T18:21:43+00:00"
+    },
+    {
+      "title": "Visit Two Sigma’s Booth at NIPS 2017",
+      "link": "https://www.twosigma.com/articles/visit-two-sigmas-booth-at-nips-2017/",
+      "source": "Two Sigma",
+      "published": "2017-11-30T11:43:15+00:00"
+    },
+    {
+      "title": "The Future of Pandas",
+      "link": "https://www.twosigma.com/articles/the-future-of-pandas/",
+      "source": "Two Sigma",
+      "published": "2017-11-28T14:27:33+00:00"
+    },
+    {
+      "title": "BeakerX (for PyData NYC)",
+      "link": "https://www.twosigma.com/articles/beakerx-for-pydata-nyc/",
+      "source": "Two Sigma",
+      "published": "2017-11-28T14:08:59+00:00"
+    },
+    {
+      "title": "Forecasting Inflation like a Data Scientist",
+      "link": "https://www.twosigma.com/articles/forecasting-inflation-like-a-data-scientist/",
+      "source": "Two Sigma",
+      "published": "2017-11-21T14:12:21+00:00"
+    },
+    {
+      "title": "Introducing Pandas UDFs for PySpark",
+      "link": "https://www.twosigma.com/articles/introducing-pandas-udfs-for-pyspark/",
+      "source": "Two Sigma",
+      "published": "2017-11-21T09:38:57+00:00"
+    },
+    {
+      "title": "Nautilus: Why a Hedge Fund Started a Video Game Competition",
+      "link": "https://www.twosigma.com/articles/nautilus-why-a-hedge-fund-started-a-video-game-competition/",
+      "source": "Two Sigma",
+      "published": "2017-11-20T18:34:46+00:00"
+    },
+    {
+      "title": "Waiter: An Open-Source Distributed Auto-Scaler",
+      "link": "https://www.twosigma.com/articles/waiter-an-open-source-distributed-auto-scaler/",
+      "source": "Two Sigma",
+      "published": "2017-11-13T15:07:16+00:00"
+    },
+    {
+      "title": "The Efficient Server Audit Problem, Deduplicated Re-execution, and the Web",
+      "link": "https://www.twosigma.com/articles/the-efficient-server-audit-problem-deduplicated-re-execution-and-the-web/",
+      "source": "Two Sigma",
+      "published": "2017-11-07T10:15:17+00:00"
+    },
+    {
+      "title": "Responsive and Scalable Real-time Data Analytics",
+      "link": "https://www.twosigma.com/articles/responsive-and-scalable-real-time-data-analytics/",
+      "source": "Two Sigma",
+      "published": "2017-11-02T20:33:47+00:00"
     },
     {
       "title": "Does batch size matter?",
@@ -1236,6 +3588,18 @@
       "link": "https://blog.janestreet.com/jane-street-tech-talk-how-jane-street-does-code-review/",
       "source": "Jane Street",
       "published": "2017-10-29T00:00:00+00:00"
+    },
+    {
+      "title": "Halite II: The Battle Is On",
+      "link": "https://www.twosigma.com/articles/halite-ii-the-battle-is-on/",
+      "source": "Two Sigma",
+      "published": "2017-10-26T09:59:53+00:00"
+    },
+    {
+      "title": "Financial Times: Two Sigma Rapidly Rises to Top of Quant Hedge Fund World",
+      "link": "https://www.twosigma.com/articles/financial-times-two-sigma-rapidly-rises-to-top-of-quant-hedge-fund-world/",
+      "source": "Two Sigma",
+      "published": "2017-10-24T18:35:27+00:00"
     },
     {
       "title": "Jane Street Tech Talk, Verifying Network Data Planes",
