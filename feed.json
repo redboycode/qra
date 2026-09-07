@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-09-07T13:55:27.870202+00:00",
+  "generated_at": "2026-09-07T18:34:51.019223+00:00",
   "items": [
+    {
+      "title": "Meet the NextGen scholars: Abiel",
+      "link": "https://www.gresearch.com/news/meet-the-nextgen-scholars-abiel/",
+      "source": "G-Research",
+      "published": "2026-09-07T14:35:44+00:00"
+    },
     {
       "title": "XTX Markets commits £26m to boost pure maths research in UK universities",
       "link": "https://www.xtxmarkets.com/news/2025-pure-maths-research",
@@ -3036,12 +3042,6 @@
       "link": "https://blog.janestreet.com/zero-knowledge-fpgas-hardcaml/",
       "source": "Jane Street",
       "published": "2022-12-07T00:00:00+00:00"
-    },
-    {
-      "title": "Guaranteeing in-partition order for partitioned-writing in Apache Spark",
-      "link": "https://www.gresearch.com/news/guaranteeing-in-partition-order-for-partitioned-writing-in-apache-spark/",
-      "source": "G-Research",
-      "published": "2022-12-05T15:50:04+00:00"
     },
     {
       "title": "Low Latency Optimization: Using Huge Pages on Linux (Part 2)",
