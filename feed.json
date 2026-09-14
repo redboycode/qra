@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-09-14T11:38:27.146850+00:00",
+  "generated_at": "2026-09-14T17:33:31.298127+00:00",
   "items": [
+    {
+      "title": "Meet the NextGen scholars: Louis",
+      "link": "https://www.gresearch.com/news/meet-the-nextgen-scholars-louis/",
+      "source": "G-Research",
+      "published": "2026-09-14T13:58:09+00:00"
+    },
+    {
+      "title": "A study of sequence weighting at scale",
+      "link": "https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/",
+      "source": "Jane Street",
+      "published": "2026-09-14T00:00:00+00:00"
+    },
     {
       "title": "Can you design a chip? Announcing the protocol emulator ASIC competition",
       "link": "https://blog.janestreet.com/protocol-emulator-asic-competition/",
@@ -3048,12 +3060,6 @@
       "link": "https://www.deshaw.com/library/factored-in",
       "source": "DE Shaw",
       "published": "2023-01-01T00:00:00+00:00"
-    },
-    {
-      "title": "Joining G-Research (eight months in)",
-      "link": "https://www.gresearch.com/news/joining-g-research-eight-months-in/",
-      "source": "G-Research",
-      "published": "2022-12-22T14:52:04+00:00"
     },
     {
       "title": "Intern Spotlight: 2022 HRT AI Labs Summer Projects",
