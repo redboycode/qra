@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-09-21T11:51:48.213384+00:00",
+  "generated_at": "2026-09-21T17:46:25.793992+00:00",
   "items": [
+    {
+      "title": "Understanding Apache Parquet: How columnar storage powers modern analytics",
+      "link": "https://www.gresearch.com/news/understanding-apache-parquet-how-columnar-storage-powers-modern-analytics/",
+      "source": "G-Research",
+      "published": "2026-09-21T12:35:30+00:00"
+    },
     {
       "title": "Update on XTX Markets' AI for Maths Philanthropy",
       "link": "https://www.xtxmarkets.com/news/2026-update-on-xtx-markets-ai-philanthropy",
@@ -3054,12 +3060,6 @@
       "link": "https://www.gresearch.com/news/an-interview-with-sir-timothy-gowers/",
       "source": "G-Research",
       "published": "2023-01-11T16:19:04+00:00"
-    },
-    {
-      "title": "G-Research is delighted to become principal sponsor of the British Physics Olympiad",
-      "link": "https://www.gresearch.com/news/g-research-is-delighted-to-become-principal-sponsor-of-the-british-physics-olympiad/",
-      "source": "G-Research",
-      "published": "2023-01-10T05:00:00+00:00"
     },
     {
       "title": "What if writing tests was a joyful experience?",
