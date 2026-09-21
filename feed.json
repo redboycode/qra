@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-09-21T17:46:25.793992+00:00",
+  "generated_at": "2026-09-21T21:38:35.043703+00:00",
   "items": [
+    {
+      "title": "Meet the PhD Fellows: Zixian Ma",
+      "link": "https://www.twosigma.com/articles/meet-the-phd-fellows-zixian-ma/",
+      "source": "Two Sigma",
+      "published": "2026-09-21T18:50:07+00:00"
+    },
     {
       "title": "Understanding Apache Parquet: How columnar storage powers modern analytics",
       "link": "https://www.gresearch.com/news/understanding-apache-parquet-how-columnar-storage-powers-modern-analytics/",
@@ -4308,12 +4314,6 @@
       "link": "https://www.twosigma.com/articles/halite-ii-the-battle-is-on/",
       "source": "Two Sigma",
       "published": "2017-10-26T14:59:53+00:00"
-    },
-    {
-      "title": "Financial Times: Two Sigma Rapidly Rises to Top of Quant Hedge Fund World",
-      "link": "https://www.twosigma.com/articles/financial-times-two-sigma-rapidly-rises-to-top-of-quant-hedge-fund-world/",
-      "source": "Two Sigma",
-      "published": "2017-10-24T23:35:27+00:00"
     },
     {
       "title": "Jane Street Tech Talk, Verifying Network Data Planes",
