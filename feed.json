@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-09-30T06:34:39.928061+00:00",
+  "generated_at": "2026-09-30T13:18:08.978288+00:00",
   "items": [
+    {
+      "title": "Meet the NextGen scholars: Théo",
+      "link": "https://www.gresearch.com/news/meet-the-nextgen-scholars-theo/",
+      "source": "G-Research",
+      "published": "2026-09-30T10:46:03+00:00"
+    },
     {
       "title": "Why Human Intuition Is Essential in Machine Learning",
       "link": "https://www.twosigma.com/articles/why-human-intuition-is-essential-in-machine-learning/",
@@ -3066,12 +3072,6 @@
       "link": "https://www.gresearch.com/news/an-interview-with-kevin-buzzard/",
       "source": "G-Research",
       "published": "2023-01-18T06:29:04+00:00"
-    },
-    {
-      "title": "An interview with Sir Timothy Gowers",
-      "link": "https://www.gresearch.com/news/an-interview-with-sir-timothy-gowers/",
-      "source": "G-Research",
-      "published": "2023-01-11T16:19:04+00:00"
     },
     {
       "title": "What if writing tests was a joyful experience?",
