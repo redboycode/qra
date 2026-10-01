@@ -1,11 +1,29 @@
 {
-  "generated_at": "2026-10-01T15:57:52.980937+00:00",
+  "generated_at": "2026-10-01T20:52:53.061328+00:00",
   "items": [
+    {
+      "title": "Office Hours With Ashish Thakkar, CTO of Two Sigma Securities",
+      "link": "https://www.twosigma.com/articles/office-hours-with-ashish-thakkar-cto-of-two-sigma-securities/",
+      "source": "Two Sigma",
+      "published": "2026-10-01T16:47:23+00:00"
+    },
     {
       "title": "G-Research August 2026 grant winners",
       "link": "https://www.gresearch.com/news/g-research-august-2026-grant-winners/",
       "source": "G-Research",
       "published": "2026-10-01T11:12:10+00:00"
+    },
+    {
+      "title": "A resilient kernel log reporter",
+      "link": "https://blog.janestreet.com/linux-engineering-kernel-reporter-index/",
+      "source": "Jane Street",
+      "published": "2026-10-01T00:00:00+00:00"
+    },
+    {
+      "title": "A FUSE server for our in-house storage backend",
+      "link": "https://blog.janestreet.com/linux-engineering-depot-fuse-index/",
+      "source": "Jane Street",
+      "published": "2026-10-01T00:00:00+00:00"
     },
     {
       "title": "Meet the NextGen scholars: Théo",
@@ -4350,12 +4368,6 @@
       "link": "https://blog.janestreet.com/jane-street-tech-talk-how-jane-street-does-code-review/",
       "source": "Jane Street",
       "published": "2017-10-29T00:00:00+00:00"
-    },
-    {
-      "title": "Halite II: The Battle Is On",
-      "link": "https://www.twosigma.com/articles/halite-ii-the-battle-is-on/",
-      "source": "Two Sigma",
-      "published": "2017-10-26T14:59:53+00:00"
     },
     {
       "title": "Jane Street Tech Talk, Verifying Network Data Planes",
