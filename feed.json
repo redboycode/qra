@@ -1,11 +1,47 @@
 {
-  "generated_at": "2026-09-30T22:47:58.470770+00:00",
+  "generated_at": "2026-10-01T01:47:03.471945+00:00",
   "items": [
     {
       "title": "Meet the NextGen scholars: Théo",
       "link": "https://www.gresearch.com/news/meet-the-nextgen-scholars-theo/",
       "source": "G-Research",
       "published": "2026-09-30T10:46:03+00:00"
+    },
+    {
+      "title": "What the interns have wrought, special jumbo 2026 edition",
+      "link": "https://blog.janestreet.com/wrought-2026/",
+      "source": "Jane Street",
+      "published": "2026-09-30T00:00:00+00:00"
+    },
+    {
+      "title": "What the SP interns have wrought, 2026 edition",
+      "link": "https://blog.janestreet.com/wrought-2026-sp/",
+      "source": "Jane Street",
+      "published": "2026-09-30T00:00:00+00:00"
+    },
+    {
+      "title": "Trading off compute for memory with activation checkpointing",
+      "link": "https://blog.janestreet.com/trading-off-compute-for-memory-with-activation-checkpointing/",
+      "source": "Jane Street",
+      "published": "2026-09-30T00:00:00+00:00"
+    },
+    {
+      "title": "What the TDOE interns have wrought, 2026 edition",
+      "link": "https://blog.janestreet.com/tdoe-intern-projects-2026/",
+      "source": "Jane Street",
+      "published": "2026-09-30T00:00:00+00:00"
+    },
+    {
+      "title": "Mitigating memorization in LLMs",
+      "link": "https://blog.janestreet.com/mitigating-memorization-in-llms/",
+      "source": "Jane Street",
+      "published": "2026-09-30T00:00:00+00:00"
+    },
+    {
+      "title": "Can you use autoregressive diffusion to generate market data?",
+      "link": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+      "source": "Jane Street",
+      "published": "2026-09-30T00:00:00+00:00"
     },
     {
       "title": "Why Human Intuition Is Essential in Machine Learning",
