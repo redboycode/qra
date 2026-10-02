@@ -1,9 +1,15 @@
 {
-  "generated_at": "2026-10-02T13:31:20.645687+00:00",
+  "generated_at": "2026-10-02T18:56:36.408657+00:00",
   "items": [
     {
       "title": "Results from the ASIC puzzle",
       "link": "https://blog.janestreet.com/asic-puzzle-results/",
+      "source": "Jane Street",
+      "published": "2026-10-02T00:00:00+00:00"
+    },
+    {
+      "title": "How recurring network maintenance exposed 6 bugs",
+      "link": "https://blog.janestreet.com/how-recurring-network-maintenance-exposed-6-bugs/",
       "source": "Jane Street",
       "published": "2026-10-02T00:00:00+00:00"
     },
