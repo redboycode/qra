@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-10-05T08:12:41.773982+00:00",
+  "generated_at": "2026-10-05T17:47:28.914772+00:00",
   "items": [
+    {
+      "title": "Apache Arrow: Accelerating in-memory analytics through zero-copy data sharing",
+      "link": "https://www.gresearch.com/news/apache-arrow-accelerating-in-memory-analytics-through-zero-copy-data-sharing/",
+      "source": "G-Research",
+      "published": "2026-10-05T09:36:58+00:00"
+    },
     {
       "title": "Results from the ASIC puzzle",
       "link": "https://blog.janestreet.com/asic-puzzle-results/",
@@ -3132,12 +3138,6 @@
       "link": "https://www.gresearch.com/news/neurips-2022-paper-review-3/",
       "source": "G-Research",
       "published": "2023-01-25T07:00:04+00:00"
-    },
-    {
-      "title": "NeurIPS 2022: Paper review #1",
-      "link": "https://www.gresearch.com/news/neurips-2022-paper-review-1/",
-      "source": "G-Research",
-      "published": "2023-01-25T06:59:04+00:00"
     },
     {
       "title": "What if writing tests was a joyful experience?",
