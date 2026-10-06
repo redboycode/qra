@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-10-06T11:43:55.603608+00:00",
+  "generated_at": "2026-10-06T17:50:25.344036+00:00",
   "items": [
+    {
+      "title": "The trading problem: why market data is a deep learning challenge",
+      "link": "https://www.optiver.com/insights/technology-blog/why-market-data-is-a-deep-learning-challenge/",
+      "source": "Optiver",
+      "published": "2026-10-06T00:00:00+00:00"
+    },
     {
       "title": "Apache Arrow: Accelerating in-memory analytics through zero-copy data sharing",
       "link": "https://www.gresearch.com/news/apache-arrow-accelerating-in-memory-analytics-through-zero-copy-data-sharing/",
