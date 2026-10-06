@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T17:50:25.344036+00:00",
+  "generated_at": "2026-10-06T22:14:39.991134+00:00",
   "items": [
     {
       "title": "The trading problem: why market data is a deep learning challenge",
@@ -8,10 +8,22 @@
       "published": "2026-10-06T00:00:00+00:00"
     },
     {
+      "title": "Building and testing a config management orchestrator for Windows",
+      "link": "https://blog.janestreet.com/config-management-orchestrator-for-windows/",
+      "source": "Jane Street",
+      "published": "2026-10-06T00:00:00+00:00"
+    },
+    {
       "title": "Apache Arrow: Accelerating in-memory analytics through zero-copy data sharing",
       "link": "https://www.gresearch.com/news/apache-arrow-accelerating-in-memory-analytics-through-zero-copy-data-sharing/",
       "source": "G-Research",
       "published": "2026-10-05T09:36:58+00:00"
+    },
+    {
+      "title": "Scaling and benchmarking a critical message bus using a new indexing strategy",
+      "link": "https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/",
+      "source": "Jane Street",
+      "published": "2026-10-05T00:00:00+00:00"
     },
     {
       "title": "Results from the ASIC puzzle",
