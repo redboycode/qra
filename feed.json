@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-10-12T06:54:04.713746+00:00",
+  "generated_at": "2026-10-12T16:26:27.614771+00:00",
   "items": [
+    {
+      "title": "Business Insider: How AI has raised the bar for Two Sigma internships and future hires",
+      "link": "https://www.twosigma.com/articles/business-insider-how-ai-has-raised-the-bar-for-two-sigma-internships-and-future-hires/",
+      "source": "Two Sigma",
+      "published": "2026-10-12T15:30:49+00:00"
+    },
     {
       "title": "The trading problem: why market data is a deep learning challenge",
       "link": "https://www.optiver.com/insights/technology-blog/why-market-data-is-a-deep-learning-challenge/",
@@ -4380,12 +4386,6 @@
       "link": "https://www.twosigma.com/articles/the-efficient-server-audit-problem-deduplicated-re-execution-and-the-web/",
       "source": "Two Sigma",
       "published": "2017-11-07T15:15:17+00:00"
-    },
-    {
-      "title": "Responsive and Scalable Real-time Data Analytics",
-      "link": "https://www.twosigma.com/articles/responsive-and-scalable-real-time-data-analytics/",
-      "source": "Two Sigma",
-      "published": "2017-11-03T01:33:47+00:00"
     },
     {
       "title": "Does batch size matter?",
