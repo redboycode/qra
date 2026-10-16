@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T19:14:52.788185+00:00",
+  "generated_at": "2026-10-16T22:27:15.076551+00:00",
   "items": [
     {
       "title": "From Ideas to Solutions at Tower’s New York AI Hackathon",
@@ -26,15 +26,15 @@
       "published": "2026-10-12T13:00:57+00:00"
     },
     {
-      "title": "The trading problem: why market data is a deep learning challenge",
-      "link": "https://www.optiver.com/insights/technology-blog/why-market-data-is-a-deep-learning-challenge/",
-      "source": "Optiver",
-      "published": "2026-10-06T00:00:00+00:00"
-    },
-    {
       "title": "Building and testing a config management orchestrator for Windows",
       "link": "https://blog.janestreet.com/config-management-orchestrator-for-windows/",
       "source": "Jane Street",
+      "published": "2026-10-06T00:00:00+00:00"
+    },
+    {
+      "title": "The trading problem: why market data is a deep learning challenge",
+      "link": "https://www.optiver.com/insights/technology-blog/why-market-data-is-a-deep-learning-challenge/",
+      "source": "Optiver",
       "published": "2026-10-06T00:00:00+00:00"
     },
     {
