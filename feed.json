@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T05:22:46.055031+00:00",
+  "generated_at": "2026-10-16T10:35:37.621357+00:00",
   "items": [
     {
       "title": "From Ideas to Solutions at Tower’s New York AI Hackathon",
@@ -3434,6 +3434,12 @@
       "published": "2022-01-01T00:00:00+00:00"
     },
     {
+      "title": "Divergent Interests: Interest Rate Sensitivity in the Cross-Section of Stock Returns",
+      "link": "https://www.deshaw.com/library/divergent-interests",
+      "source": "DE Shaw",
+      "published": "2022-01-01T00:00:00+00:00"
+    },
+    {
       "title": "The Exciting Next Chapter in Decentralized Finance",
       "link": "https://www.twosigma.com/articles/the-exciting-next-chapter-in-decentralized-finance/",
       "source": "Two Sigma",
@@ -3682,6 +3688,12 @@
     {
       "title": "Versioned HDF5: A Python Library for Versioning Array Data",
       "link": "https://www.deshaw.com/library/desco-quansight-introducing-versioned-hdf5",
+      "source": "DE Shaw",
+      "published": "2021-01-01T00:00:00+00:00"
+    },
+    {
+      "title": "Running Low: The 2020 Test for Bonds as Hedging Assets",
+      "link": "https://www.deshaw.com/library/running-low",
       "source": "DE Shaw",
       "published": "2021-01-01T00:00:00+00:00"
     },
@@ -4020,6 +4032,12 @@
       "link": "https://www.twosigma.com/articles/bloomberg-two-sigma-marshals-squadron-of-quants-in-push-to-help-nonprofits/",
       "source": "Two Sigma",
       "published": "2019-01-11T20:09:46+00:00"
+    },
+    {
+      "title": "Positively Negative: Stock-Bond Correlation and Its Implications for Investors",
+      "link": "https://www.deshaw.com/library/positively-negative",
+      "source": "DE Shaw",
+      "published": "2019-01-01T00:00:00+00:00"
     },
     {
       "title": "Gradient Sparsification for Communication-Efficient Distributed Optimization",
