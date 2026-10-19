@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-10-19T11:58:21.225123+00:00",
+  "generated_at": "2026-10-19T18:33:11.177810+00:00",
   "items": [
+    {
+      "title": "Tower Connects with the C++ Community at CppCon 2026",
+      "link": "https://tower-research.com/tower-connects-with-the-c-community-at-cppcon-2026/",
+      "source": "Tower Research",
+      "published": "2026-10-19T12:30:00+00:00"
+    },
     {
       "title": "Lance: Rebuilding columnar storage for random access and AI workloads",
       "link": "https://www.gresearch.com/news/lance-rebuilding-columnar-storage-for-random-access-and-ai-workloads/",
