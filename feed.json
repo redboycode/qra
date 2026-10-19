@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-10-19T05:39:38.720271+00:00",
+  "generated_at": "2026-10-19T11:58:21.225123+00:00",
   "items": [
+    {
+      "title": "Lance: Rebuilding columnar storage for random access and AI workloads",
+      "link": "https://www.gresearch.com/news/lance-rebuilding-columnar-storage-for-random-access-and-ai-workloads/",
+      "source": "G-Research",
+      "published": "2026-10-19T10:04:20+00:00"
+    },
     {
       "title": "From Ideas to Solutions at Tower’s New York AI Hackathon",
       "link": "https://tower-research.com/from-ideas-to-solutions-at-towers-new-york-ai-hackathon/",
@@ -3172,12 +3178,6 @@
     {
       "title": "NeurIPS 2022: Paper review #2",
       "link": "https://www.gresearch.com/news/neurips-2022-paper-review-2/",
-      "source": "G-Research",
-      "published": "2023-01-25T07:00:04+00:00"
-    },
-    {
-      "title": "NeurIPS 2022: Paper review #3",
-      "link": "https://www.gresearch.com/news/neurips-2022-paper-review-3/",
       "source": "G-Research",
       "published": "2023-01-25T07:00:04+00:00"
     },
