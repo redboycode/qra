@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-10-20T13:16:07.401333+00:00",
+  "generated_at": "2026-10-20T18:17:17.661484+00:00",
   "items": [
+    {
+      "title": "G-Research 2026 PhD prize winners: UCL",
+      "link": "https://www.gresearch.com/news/g-research-2026-phd-prize-winners-ucl/",
+      "source": "G-Research",
+      "published": "2026-10-20T16:44:26+00:00"
+    },
+    {
+      "title": "Asymptote Labs: The System of Record for Agentic Work",
+      "link": "https://tower-research.com/asymptote-labs-the-system-of-record-for-agentic-work/",
+      "source": "Tower Research",
+      "published": "2026-10-20T14:00:00+00:00"
+    },
     {
       "title": "Tower Connects with the C++ Community at CppCon 2026",
       "link": "https://tower-research.com/tower-connects-with-the-c-community-at-cppcon-2026/",
@@ -3180,12 +3192,6 @@
       "link": "https://www.gresearch.com/news/neurips-2022-paper-review-8/",
       "source": "G-Research",
       "published": "2023-01-25T07:00:05+00:00"
-    },
-    {
-      "title": "NeurIPS 2022: Paper review #2",
-      "link": "https://www.gresearch.com/news/neurips-2022-paper-review-2/",
-      "source": "G-Research",
-      "published": "2023-01-25T07:00:04+00:00"
     },
     {
       "title": "What if writing tests was a joyful experience?",
