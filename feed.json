@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-10-27T11:40:43.831280+00:00",
+  "generated_at": "2026-10-27T17:22:11.147300+00:00",
   "items": [
+    {
+      "title": "Over Coffee With APAC Leader Juan Tan",
+      "link": "https://www.twosigma.com/articles/over-coffee-with-apac-leader-juan-tan/",
+      "source": "Two Sigma",
+      "published": "2026-10-27T15:41:09+00:00"
+    },
     {
       "title": "XTX Markets announces latest grants for AI-assisted mathematics",
       "link": "https://www.xtxmarkets.com/news/2026-latest-ai-for-maths-grants",
@@ -4440,12 +4446,6 @@
       "link": "https://www.twosigma.com/articles/waiter-an-open-source-distributed-auto-scaler/",
       "source": "Two Sigma",
       "published": "2017-11-13T20:07:16+00:00"
-    },
-    {
-      "title": "The Efficient Server Audit Problem, Deduplicated Re-execution, and the Web",
-      "link": "https://www.twosigma.com/articles/the-efficient-server-audit-problem-deduplicated-re-execution-and-the-web/",
-      "source": "Two Sigma",
-      "published": "2017-11-07T15:15:17+00:00"
     },
     {
       "title": "Does batch size matter?",
