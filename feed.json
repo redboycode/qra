@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-30T09:32:07.789660+00:00",
+  "generated_at": "2026-10-30T16:29:57.606268+00:00",
   "items": [
+    {
+      "title": "Puzzle: 20/20 Hindsight",
+      "link": "https://www.twosigma.com/articles/puzzle-20-20-hindsight/",
+      "source": "Two Sigma",
+      "published": "2026-10-30T15:14:47+00:00"
+    },
+    {
+      "title": "Puzzle: Common Scents",
+      "link": "https://www.twosigma.com/articles/puzzle-common-scents/",
+      "source": "Two Sigma",
+      "published": "2026-10-30T15:03:35+00:00"
+    },
+    {
+      "title": "G-Research September 2026 grant winners",
+      "link": "https://www.gresearch.com/news/g-research-september-2026-grant-winners/",
+      "source": "G-Research",
+      "published": "2026-10-30T14:34:56+00:00"
+    },
     {
       "title": "Backing the next generation of researchers: highlights from our Bloomberg feature",
       "link": "https://www.gresearch.com/news/backing-the-next-generation-of-researchers-highlights-from-our-bloomberg-feature/",
@@ -3212,12 +3230,6 @@
       "published": "2023-01-25T07:00:05+00:00"
     },
     {
-      "title": "NeurIPS 2022: Paper review #7",
-      "link": "https://www.gresearch.com/news/neurips-2022-paper-review-7/",
-      "source": "G-Research",
-      "published": "2023-01-25T07:00:05+00:00"
-    },
-    {
       "title": "What if writing tests was a joyful experience?",
       "link": "https://blog.janestreet.com/the-joy-of-expect-tests/",
       "source": "Jane Street",
@@ -4440,18 +4452,6 @@
       "link": "https://www.twosigma.com/articles/introducing-pandas-udfs-for-pyspark/",
       "source": "Two Sigma",
       "published": "2017-11-21T14:38:57+00:00"
-    },
-    {
-      "title": "Nautilus: Why a Hedge Fund Started a Video Game Competition",
-      "link": "https://www.twosigma.com/articles/nautilus-why-a-hedge-fund-started-a-video-game-competition/",
-      "source": "Two Sigma",
-      "published": "2017-11-20T23:34:46+00:00"
-    },
-    {
-      "title": "Waiter: An Open-Source Distributed Auto-Scaler",
-      "link": "https://www.twosigma.com/articles/waiter-an-open-source-distributed-auto-scaler/",
-      "source": "Two Sigma",
-      "published": "2017-11-13T20:07:16+00:00"
     },
     {
       "title": "Does batch size matter?",
