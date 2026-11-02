@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-11-02T07:09:30.353615+00:00",
+  "generated_at": "2026-11-02T17:44:56.591599+00:00",
   "items": [
+    {
+      "title": "BtrBlocks: Columnar compression for the high-bandwidth cloud",
+      "link": "https://www.gresearch.com/news/btrblocks-columnar-compression-for-the-high-bandwidth-cloud/",
+      "source": "G-Research",
+      "published": "2026-11-02T13:01:24+00:00"
+    },
     {
       "title": "Puzzle: 20/20 Hindsight",
       "link": "https://www.twosigma.com/articles/puzzle-20-20-hindsight/",
@@ -3220,12 +3226,6 @@
     {
       "title": "NeurIPS 2022: Paper review #5",
       "link": "https://www.gresearch.com/news/neurips-2022-paper-review-5/",
-      "source": "G-Research",
-      "published": "2023-01-25T07:00:05+00:00"
-    },
-    {
-      "title": "NeurIPS 2022: Paper review #6",
-      "link": "https://www.gresearch.com/news/neurips-2022-paper-review-6/",
       "source": "G-Research",
       "published": "2023-01-25T07:00:05+00:00"
     },
