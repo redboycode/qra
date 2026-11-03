@@ -10,6 +10,7 @@ import sys
 from datetime import datetime, timezone
 from html import unescape
 from time import mktime
+from urllib.parse import urljoin
 
 import feedparser
 import requests
@@ -24,6 +25,7 @@ FEEDS = [
     {"source": "Two Sigma", "url": "https://www.twosigma.com/articles/feed/"},
     {"source": "G-Research", "url": "https://www.gresearch.com/news/feed/"},
     {"source": "Tower Research", "url": "https://tower-research.com/feed/"},
+    {"source": "Mike Purewal", "url": "https://www.meninderpurewal.com/feed.xml"},
 ]
 
 # ---- Sources with no RSS/Atom feed but a usable JSON API instead ----
@@ -90,7 +92,7 @@ def fetch_one(url, source_name, deep=False):
                 break
             new_on_page = 0
             for entry in parsed.entries:
-                link = entry.get("link", url)
+                link = urljoin(url, entry.get("link", url))  # some feeds emit relative links
                 if link in seen_links:
                     continue
                 seen_links.add(link)
