@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-11-04T08:32:19.216355+00:00",
+  "generated_at": "2026-11-04T16:47:58.338156+00:00",
   "items": [
+    {
+      "title": "From WiTE to an ICML poster",
+      "link": "https://www.imc.com/us/articles/from-wite-to-an-icml-poster",
+      "source": "IMC",
+      "published": "2026-11-04T16:47:58.023331+00:00"
+    },
+    {
+      "title": "The 4 Most Interesting Things We Learned at CppCon 2026",
+      "link": "https://sig.com/waves/posts/cppconrecap/",
+      "source": "SIG",
+      "published": "2026-11-04T00:00:00+00:00"
+    },
     {
       "title": "BtrBlocks: Columnar compression for the high-bandwidth cloud",
       "link": "https://www.gresearch.com/news/btrblocks-columnar-compression-for-the-high-bandwidth-cloud/",
