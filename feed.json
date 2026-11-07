@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T01:34:16.692637+00:00",
+  "generated_at": "2026-11-07T08:14:39.730136+00:00",
   "items": [
     {
       "title": "Exploring Data Parallelism with Professor Daniel Lemire at Tower",
@@ -128,15 +128,15 @@
       "published": "2026-10-12T13:00:57+00:00"
     },
     {
-      "title": "The trading problem: why market data is a deep learning challenge",
-      "link": "https://www.optiver.com/insights/technology-blog/why-market-data-is-a-deep-learning-challenge/",
-      "source": "Optiver",
-      "published": "2026-10-06T00:00:00+00:00"
-    },
-    {
       "title": "Building and testing a config management orchestrator for Windows",
       "link": "https://blog.janestreet.com/config-management-orchestrator-for-windows/",
       "source": "Jane Street",
+      "published": "2026-10-06T00:00:00+00:00"
+    },
+    {
+      "title": "The trading problem: why market data is a deep learning challenge",
+      "link": "https://www.optiver.com/insights/technology-blog/why-market-data-is-a-deep-learning-challenge/",
+      "source": "Optiver",
       "published": "2026-10-06T00:00:00+00:00"
     },
     {
