@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T21:14:53.870991+00:00",
+  "generated_at": "2026-11-07T01:34:16.692637+00:00",
   "items": [
     {
       "title": "Exploring Data Parallelism with Professor Daniel Lemire at Tower",
@@ -24,6 +24,12 @@
       "link": "https://www.gresearch.com/news/btrblocks-columnar-compression-for-the-high-bandwidth-cloud/",
       "source": "G-Research",
       "published": "2026-11-02T13:01:24+00:00"
+    },
+    {
+      "title": "Our software engineering interviews are changing (a little)",
+      "link": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
+      "source": "Jane Street",
+      "published": "2026-11-02T00:00:00+00:00"
     },
     {
       "title": "Puzzle: 20/20 Hindsight",
