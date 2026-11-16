@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-11-16T08:56:44.822906+00:00",
+  "generated_at": "2026-11-16T19:18:17.749474+00:00",
   "items": [
+    {
+      "title": "Vortex: An extensible columnar format for scans and random access",
+      "link": "https://www.gresearch.com/news/vortex-an-extensible-columnar-format-for-scans-and-random-access/",
+      "source": "G-Research",
+      "published": "2026-11-16T12:16:37+00:00"
+    },
     {
       "title": "G-Research-sponsored UK team wins four medals at international astronomy Olympiad",
       "link": "https://www.gresearch.com/news/g-research-sponsored-uk-team-wins-four-medals-at-international-astronomy-olympiad/",
@@ -3330,12 +3336,6 @@
       "link": "https://www.gresearch.com/news/an-interview-with-alex-davies/",
       "source": "G-Research",
       "published": "2023-01-25T15:48:04+00:00"
-    },
-    {
-      "title": "NeurIPS 2022: Paper review #4",
-      "link": "https://www.gresearch.com/news/neurips-2022-paper-review-4/",
-      "source": "G-Research",
-      "published": "2023-01-25T07:00:05+00:00"
     },
     {
       "title": "What if writing tests was a joyful experience?",
