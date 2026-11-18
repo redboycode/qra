@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-11-18T11:01:36.659457+00:00",
+  "generated_at": "2026-11-18T19:53:58.707845+00:00",
   "items": [
+    {
+      "title": "The Microsecond Mandate: Distilling Knowledge for Financial Speed",
+      "link": "https://sig.com/waves/posts/microsecond-mandate/",
+      "source": "SIG",
+      "published": "2026-11-18T00:00:00+00:00"
+    },
     {
       "title": "Vortex: An extensible columnar format for scans and random access",
       "link": "https://www.gresearch.com/news/vortex-an-extensible-columnar-format-for-scans-and-random-access/",
