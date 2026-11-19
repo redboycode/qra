@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-11-19T09:48:29.016118+00:00",
+  "generated_at": "2026-11-19T18:49:07.167695+00:00",
   "items": [
+    {
+      "title": "Garry Kasparov at G-Research: Lessons from a life with intelligent machines",
+      "link": "https://www.gresearch.com/news/garry-kasparov-at-g-research-lessons-from-a-life-with-intelligent-machines/",
+      "source": "G-Research",
+      "published": "2026-11-19T12:25:47+00:00"
+    },
     {
       "title": "The Microsecond Mandate: Distilling Knowledge for Financial Speed",
       "link": "https://sig.com/waves/posts/microsecond-mandate/",
@@ -1650,6 +1656,12 @@
       "link": "https://www.gresearch.com/news/g-research-2025-phd-prize-winners-epfl/",
       "source": "G-Research",
       "published": "2025-09-25T14:37:10+00:00"
+    },
+    {
+      "title": "Interning on Optiver’s Austin HFT Team",
+      "link": "https://www.optiver.com/insights/technology-blog/interning-on-optivers-austin-hft-team/",
+      "source": "Optiver",
+      "published": "2025-09-17T00:00:00+00:00"
     },
     {
       "title": "Tower Recognized at IIT Kanpur Felicitation Ceremony",
@@ -3336,12 +3348,6 @@
       "link": "https://www.gresearch.com/news/g-research-quant-finance-workshop-paris/",
       "source": "G-Research",
       "published": "2023-01-26T17:15:05+00:00"
-    },
-    {
-      "title": "An interview with Alex Davies",
-      "link": "https://www.gresearch.com/news/an-interview-with-alex-davies/",
-      "source": "G-Research",
-      "published": "2023-01-25T15:48:04+00:00"
     },
     {
       "title": "What if writing tests was a joyful experience?",
