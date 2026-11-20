@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-11-20T17:30:05.396470+00:00",
+  "generated_at": "2026-11-20T23:37:37.845562+00:00",
   "items": [
+    {
+      "title": "Our internships: Inside our Summer Research Programme",
+      "link": "https://www.gresearch.com/news/our-internships-inside-our-summer-research-programme/",
+      "source": "G-Research",
+      "published": "2026-11-20T11:31:49+00:00"
+    },
     {
       "title": "Garry Kasparov at G-Research: Lessons from a life with intelligent machines",
       "link": "https://www.gresearch.com/news/garry-kasparov-at-g-research-lessons-from-a-life-with-intelligent-machines/",
@@ -3342,12 +3348,6 @@
       "link": "https://www.hudsonrivertrading.com/hrtbeat/optimizing-ux-ui-design-for-trading/",
       "source": "HRT",
       "published": "2023-01-27T10:20:00+00:00"
-    },
-    {
-      "title": "G-Research Quant Finance Workshop, Paris",
-      "link": "https://www.gresearch.com/news/g-research-quant-finance-workshop-paris/",
-      "source": "G-Research",
-      "published": "2023-01-26T17:15:05+00:00"
     },
     {
       "title": "What if writing tests was a joyful experience?",
