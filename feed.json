@@ -1,6 +1,18 @@
 {
-  "generated_at": "2026-11-23T11:42:56.672600+00:00",
+  "generated_at": "2026-11-23T23:18:13.575732+00:00",
   "items": [
+    {
+      "title": "From Vancouver to Sydney: Revisiting Our NeurIPS Highlights",
+      "link": "https://www.twosigma.com/articles/from-vancouver-to-sydney-revisiting-our-neurips-highlights/",
+      "source": "Two Sigma",
+      "published": "2026-11-23T18:14:53+00:00"
+    },
+    {
+      "title": "Preparing for a Quant Internship Interview: How to Stand Out in the Age of AI",
+      "link": "https://tower-research.com/preparing-for-a-quant-internship-interview-how-to-stand-out-in-the-age-of-ai/",
+      "source": "Tower Research",
+      "published": "2026-11-23T13:30:00+00:00"
+    },
     {
       "title": "Our internships: Inside our Summer Research Programme",
       "link": "https://www.gresearch.com/news/our-internships-inside-our-summer-research-programme/",
@@ -4566,12 +4578,6 @@
       "link": "https://www.twosigma.com/articles/forecasting-inflation-like-a-data-scientist/",
       "source": "Two Sigma",
       "published": "2017-11-21T19:12:21+00:00"
-    },
-    {
-      "title": "Introducing Pandas UDFs for PySpark",
-      "link": "https://www.twosigma.com/articles/introducing-pandas-udfs-for-pyspark/",
-      "source": "Two Sigma",
-      "published": "2017-11-21T14:38:57+00:00"
     },
     {
       "title": "Does batch size matter?",
